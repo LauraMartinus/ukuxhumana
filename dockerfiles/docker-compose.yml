@@ -1,0 +1,11 @@
+version: '3'
+services:
+  laura_translate:
+    build: .
+    volumes:
+      - ./ukuxhumana:/workspace
+    working_dir: /workspace
+    container_name: diary
+    environment:
+      - TEMP_UID=1000
+    command: /bin/bash

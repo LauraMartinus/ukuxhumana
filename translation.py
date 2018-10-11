@@ -23,6 +23,7 @@ import pickle
 import copy
 import numpy as np
 from collections import Counter
+import io
 
 from distutils.version import LooseVersion
 import warnings
@@ -35,7 +36,7 @@ Currently using a subset of EN-FR (WMT10 French-English corpus)
 
 def load_data(path):
     input_file = os.path.join(path)
-    with open(input_file, 'r', encoding='utf-8') as f:
+    with io.open(input_file, 'r', encoding='utf-8') as f:
         data = f.read()
 
     return data
@@ -57,7 +58,7 @@ def view_data():
     print('\t- avg. number of words in a sentence: {}'.format(np.average([len(sentence.split()) for sentence in english_sentences])))
 
     french_sentences = target_text.split('\n')
-    print('* French sentences')
+    print('* Zulu sentences')
     print('\t- number of sentences: {} [data integrity check / should have the same number]'.format(len(french_sentences)))
     print('\t- avg. number of words in a sentence: {}'.format(np.average([len(sentence.split()) for sentence in french_sentences])))
     print()
@@ -70,7 +71,7 @@ def view_data():
         en_sent, fr_sent = sentence
         print('[{}-th] sentence'.format(index+1))
         print('\tEN: {}'.format(en_sent))
-        print('\tFR: {}'.format(fr_sent))
+        print('\tZU: {}'.format(fr_sent))
         print()
 
 def create_lookup_tables(text):
@@ -515,9 +516,9 @@ preprocess_and_save_data(source_path, target_path, text_to_ids)
 assert LooseVersion(tf.__version__) >= LooseVersion('1.1'), 'Please use TensorFlow version 1.1 or newer'
 print('TensorFlow Version: {}'.format(tf.__version__))
 
-display_step = 300
+display_step = 10
 
-epochs = 13
+epochs = 50
 batch_size = 128
 
 rnn_size = 128
@@ -540,7 +541,7 @@ save_params(save_path)
 _, (source_vocab_to_int, target_vocab_to_int), (source_int_to_vocab, target_int_to_vocab) = load_preprocess()
 load_path = load_params()
 
-translate_sentence = 'official languages .'
+translate_sentence = 'equality and freedom of south africa .'
 
 translate_sentence = sentence_to_seq(translate_sentence, source_vocab_to_int)
 loaded_graph = tf.Graph()
@@ -566,5 +567,5 @@ print('  English Words: {}'.format([source_int_to_vocab[i] for i in translate_se
 
 print('\nPrediction')
 print('  Word Ids:      {}'.format([i for i in translate_logits]))
-print('  French Words: {}'.format(" ".join([target_int_to_vocab[i] for i in translate_logits])))
+print('  Zulu Words: {}'.format(" ".join([target_int_to_vocab[i] for i in translate_logits])))
 
