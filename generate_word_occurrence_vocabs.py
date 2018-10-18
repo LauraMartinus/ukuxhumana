@@ -16,4 +16,4 @@ print("Number of unique tokens: %d" %(fq.B()))
 
 with open(sys.argv[2],"w") as f:
     for x in fq.keys():
-        f.write(x+"\n")
+        f.write(x + "," + str(fq[x]) +"\n")
