@@ -283,7 +283,7 @@ hparams.learning_rate_warmup_steps = 45000
 hparams.learning_rate = .4
 
 RUN_CONFIG = create_run_config(
-    model_name='transformer',
+    #model_name='transformer', the pip install does not know what this is
     model_dir=OUTPUT_DIR,
     keep_checkpoint_max=3
 )
