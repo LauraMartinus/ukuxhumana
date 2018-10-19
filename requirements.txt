@@ -2,3 +2,4 @@ nltk
 pandas
 numpy
 tensorflow
+tensor2tensor
