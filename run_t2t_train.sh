@@ -10,6 +10,7 @@
 
 pip install -r requirements.txt
 
+mkdir "/tmp/t2t"
 mkdir "/tmp/t2t/data"
 mkdir "/tmp/t2t/output"
 mkdir "/tmp/t2t/tmp"
