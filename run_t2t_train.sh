@@ -18,4 +18,4 @@ mkdir "/tmp/t2t/tmp"
 cp data/eng_tswane/entn_parallel.train.* /tmp/t2t/data
 cp data/eng_tswane/entn_parallel.dev.* /tmp/t2t/data
 
-python t2t_entn_problem.py
+python t2t_entn_problem.py -u
