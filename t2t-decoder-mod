@@ -4,12 +4,13 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
-import t2t_evaluate_model.py
+import t2t_evaluate_model
+
 
 import tensorflow as tf
 
 def main(argv):
-  t2t_decoder.main(argv)
+  t2t_evaluate_model.main(argv)
 
 
 if __name__ == "__main__":
