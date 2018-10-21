@@ -1,3 +1,4 @@
+
 # coding=utf-8
 # Copyright 2018 The Tensor2Tensor Authors.
 #
@@ -15,12 +16,7 @@
 
 """Data generators for translation data-sets."""
 
-from __future__ import absolute_import
-from __future__ import division
-from __future__ import print_function
-
 import os
-import tarfile
 from tensor2tensor.data_generators import generator_utils
 from tensor2tensor.data_generators import problem
 from tensor2tensor.data_generators import text_encoder
@@ -30,37 +26,43 @@ from tensor2tensor.utils import registry
 
 import tensorflow as tf
 
+EOS = text_encoder.EOS_ID
+
+
 _ENTN_TRAIN_DATASETS = [
-  [
-    "",
-    (
-      "data/eng_tswane/entn_parallel.train.en",
-      "data/eng_tswane/entn_parallel.train.tn"
-    )
-  ]
+    [
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/data/eng_tswane/eng_tswane.train.tar.gz?raw=true",
+        (
+            "entn_parallel.train.en",
+            "entn_parallel.train.tn"
+        )
+    ]
 ]
 
 _ENTN_TEST_DATASETS = [
-  [
-    "",
-    (
-      "data/eng_tswane/entn_parallel.dev.en",
-      "data/eng_tswane/entn_parallel.dev.tn"
-    )
-  ]
+    [
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/data/eng_tswane/eng_tswane.dev.tar.gz?raw=true",
+        (
+            "entn_parallel.dev.en",
+            "entn_parallel.dev.tn"
+        )
+    ]
 ]
 
 
 @registry.register_problem
-class TranslateEnTnRMA(translate.TranslateProblem):
+class TranslateEntnRma(translate.TranslateProblem):
   """Problem spec for WMT English-Tswane translation."""
 
   @property
   def approx_vocab_size(self):
     return 2**15  # 32768
 
+  @property
+  def vocab_filename(self):
+    return "vocab.entn.%d" % self.approx_vocab_size
+
+
   def source_data_files(self, dataset_split):
     train = dataset_split == problem.DatasetSplit.TRAIN
     return _ENTN_TRAIN_DATASETS if train else _ENTN_TEST_DATASETS
-
-
