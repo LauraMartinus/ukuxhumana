@@ -29,29 +29,29 @@ import tensorflow as tf
 EOS = text_encoder.EOS_ID
 
 
-_ENTN_TRAIN_DATASETS = [
+_ENZU_TRAIN_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/data/en_tn/eng_tswane.train.tar.gz?raw=true",
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/data/en_zu/en_zu.train.tar.gz?raw=true",
         (
-            "entn_parallel.train.en",
-            "entn_parallel.train.tn"
+            "enzu_parallel.train.en",
+            "enzu_parallel.train.tn"
         )
     ]
 ]
 
-_ENTN_TEST_DATASETS = [
+_ENZU_TEST_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/data/en_tn/eng_tswane.dev.tar.gz?raw=true",
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/data/en_zu/en_zu.dev.tar.gz?raw=true",
         (
-            "entn_parallel.dev.en",
-            "entn_parallel.dev.tn"
+            "enzu_parallel.dev.en",
+            "enzu_parallel.dev.tn"
         )
     ]
 ]
 
 
 @registry.register_problem
-class TranslateEntnRma(translate.TranslateProblem):
+class TranslateEnzuRma(translate.TranslateProblem):
   """Problem spec for WMT English-Tswane translation."""
 
   @property
@@ -65,4 +65,4 @@ class TranslateEntnRma(translate.TranslateProblem):
 
   def source_data_files(self, dataset_split):
     train = dataset_split == problem.DatasetSplit.TRAIN
-    return _ENTN_TRAIN_DATASETS if train else _ENTN_TEST_DATASETS
+    return _ENZU_TRAIN_DATASETS if train else _ENZU_TEST_DATASETS
