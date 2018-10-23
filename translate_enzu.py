@@ -34,7 +34,7 @@ _ENZU_TRAIN_DATASETS = [
         "https://github.com/LauraMartinus/ukuxhumana/blob/master/data/en_zu/en_zu.train.tar.gz?raw=true",
         (
             "enzu_parallel.train.en",
-            "enzu_parallel.train.tn"
+            "enzu_parallel.train.zu"
         )
     ]
 ]
@@ -43,8 +43,8 @@ _ENZU_TEST_DATASETS = [
     [
         "https://github.com/LauraMartinus/ukuxhumana/blob/master/data/en_zu/en_zu.dev.tar.gz?raw=true",
         (
-            "enzu_parallel.dev.en",
-            "enzu_parallel.dev.tn"
+            "enzu_parallel.dev.notest.en",
+            "enzu_parallel.dev.notest.zu"
         )
     ]
 ]
@@ -52,7 +52,7 @@ _ENZU_TEST_DATASETS = [
 
 @registry.register_problem
 class TranslateEnzuRma(translate.TranslateProblem):
-  """Problem spec for WMT English-Tswane translation."""
+  """Problem spec for WMT English-Zulu translation."""
 
   @property
   def approx_vocab_size(self):
@@ -60,7 +60,7 @@ class TranslateEnzuRma(translate.TranslateProblem):
 
   @property
   def vocab_filename(self):
-    return "vocab.entn.%d" % self.approx_vocab_size
+    return "vocab.enzn.%d" % self.approx_vocab_size
 
 
   def source_data_files(self, dataset_split):
