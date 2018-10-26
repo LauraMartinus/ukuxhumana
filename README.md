@@ -11,11 +11,11 @@ Runs on a single GPU:
 # Results
 ## Baseline 
 ### Setswana
-Convolutional Seq2Seq: 27.77 BLEU
-Transformer (uncased): 33.53 BLEU
-Transformer (cased): 33.12 BLEU
+Convolutional Seq2Seq: 27.77 BLEU <br />
+Transformer (uncased): 33.53 BLEU <br />
+Transformer (cased): 33.12 BLEU <br />
 
 ### isiZulu
-Convolutional Seq2Seq: 0.62 BLEU
-Transformer (uncased): 
-Transformer (cased): 
+Convolutional Seq2Seq: 0.62 BLEU <br />
+Transformer (uncased):  <br />
+Transformer (cased): <br />
