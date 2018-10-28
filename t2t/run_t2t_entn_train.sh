@@ -10,17 +10,13 @@
 
 pip install -r requirements.txt
 
-problem_dir=$1
-problem_file=$2
-data_file=$3
 mkdir "/tmp/t2t"
-mkdir "/tmp/t2t/$1"
-mkdir "/tmp/t2t/$1/data"
-mkdir "/tmp/t2t/$1/output"
-mkdir "/tmp/t2t/$1/tmp"
+mkdir "/tmp/t2t/data"
+mkdir "/tmp/t2t/output"
+mkdir "/tmp/t2t/tmp"
 
 # This just speeds up things since no need to download
-cp data/$1/$3.train.* /tmp/t2t/$1/data
-cp data/$1/$3.dev.* /tmp/t2t/$1/data
+cp data/eng_tswane/entn_parallel.train.* /tmp/t2t/data
+cp data/eng_tswane/entn_parallel.dev.* /tmp/t2t/data
 
-python $2 -u
+python t2t_entn_problem.py -u
