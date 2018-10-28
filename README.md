@@ -17,8 +17,8 @@ Transformer (cased): 33.12 BLEU <br />
 
 ### isiZulu
 Convolutional Seq2Seq: 0.62 BLEU <br />
-Transformer (uncased):  <br />
-Transformer (cased): <br />
+Transformer (uncased): 4.55 BLEU <br />
+Transformer (cased): 4.45 BLEU <br />
 
 ### Northern Sotho
 Convolutional Seq2Seq: 15.35 BLEU <br />
