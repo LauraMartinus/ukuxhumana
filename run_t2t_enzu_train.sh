@@ -20,4 +20,4 @@ mkdir "/tmp/t2t/enzu/tmp"
 cp data/en_zu/enzn_parallel.train.* /tmp/t2t/enzu/data
 cp data/en_zu/enzn_parallel.dev.notest.* /tmp/t2t/enzu/data
 
-python t2t_enzn_problem.py -u
+python t2t_enzu_problem.py -u
