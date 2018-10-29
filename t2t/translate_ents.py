@@ -60,7 +60,7 @@ class TranslateEntsRma(translate.TranslateProblem):
 
   @property
   def vocab_filename(self):
-    return "vocab.entn.%d" % self.approx_vocab_size
+    return "vocab.ents.%d" % self.approx_vocab_size
 
 
   def source_data_files(self, dataset_split):
