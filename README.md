@@ -16,5 +16,5 @@ Transformer (cased): 4.45 BLEU <br />
 
 ### Northern Sotho
 Convolutional Seq2Seq: 15.35 BLEU <br />
-Transformer (uncased):  <br />
-Transformer (cased): <br />
+Transformer (uncased): 29.23 <br />
+Transformer (cased): 28.71<br />
