@@ -4,17 +4,17 @@
 
 # Results
 ## Baseline 
-### Setswana
-Convolutional Seq2Seq: 27.77 BLEU <br />
-Transformer (uncased): 33.53 BLEU <br />
-Transformer (cased): 33.12 BLEU <br />
+### English-Setswana
+- Convolutional Seq2Seq: 27.77 BLEU
+- Transformer (uncased): 33.53 BLEU
+- Transformer (cased): 33.12 BLEU
 
-### isiZulu
-Convolutional Seq2Seq: 0.62 BLEU <br />
-Transformer (uncased): 4.55 BLEU <br />
-Transformer (cased): 4.45 BLEU <br />
+### English-isiZulu
+- Convolutional Seq2Seq: 0.62 BLEU
+- Transformer (uncased): 4.55 BLEU
+- Transformer (cased): 4.45 BLEU
 
-### Northern Sotho
-Convolutional Seq2Seq: 15.35 BLEU <br />
-Transformer (uncased): 29.23 <br />
-Transformer (cased): 28.71<br />
+### English-Northern Sotho
+- Convolutional Seq2Seq: 15.35 BLEU
+- Transformer (uncased): 29.23 BLEU
+- Transformer (cased): 28.71 BLEY
