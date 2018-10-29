@@ -17,4 +17,4 @@
 ### English-Northern Sotho
 - Convolutional Seq2Seq: 15.35 BLEU
 - Transformer (uncased): 29.23 BLEU
-- Transformer (cased): 28.71 BLEY
+- Transformer (cased): 28.71 BLEU
