@@ -23,8 +23,8 @@ tf.enable_eager_execution()
 RANDOM_SEED = 301
 trainer_lib.set_random_seed(RANDOM_SEED)
 
-prefix = "ennso"
-problem_name = 'translate_ennso_rma'
+prefix = "ents"
+problem_name = 'translate_ents_rma'
 print("storage prefix: %s" % (prefix))
 print("problem name: %s" % (problem_name))
 
@@ -46,15 +46,15 @@ EOS = text_encoder.EOS_ID
 
 
 print("Generating the data for the translation.....")
-ennso = TranslateEnnsoRma()
-ennso.generate_data(DATA_DIR, TMP_DIR)
+ents = TranslateEntsRma()
+ents.generate_data(DATA_DIR, TMP_DIR)
 
 print("Viewing the generating data...")
 tfe = tf.contrib.eager
 Modes = tf.estimator.ModeKeys
 
 # We can iterate over our examples by making an iterator and calling next on it.
-eager_iterator = tfe.Iterator(ennso.dataset(Modes.EVAL, DATA_DIR))
+eager_iterator = tfe.Iterator(ents.dataset(Modes.EVAL, DATA_DIR))
 example = eager_iterator.next()
 
 input_tensor = example["inputs"]

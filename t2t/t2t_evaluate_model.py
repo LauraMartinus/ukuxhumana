@@ -41,6 +41,8 @@ from tensor2tensor.utils import registry
 from tensor2tensor.utils import trainer_lib
 from tensor2tensor.utils import usr_dir
 from translate_entn import TranslateEntnRma
+from translate_enzu import TranslateEnzuRma
+from translate_ennso import TranslateEnnsoRma
 import tensorflow as tf
 
 flags = tf.flags
