@@ -31,7 +31,7 @@ EOS = text_encoder.EOS_ID
 
 _ENNSO_TRAIN_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/data/en_nso/en_nso.train.tar.gz?raw=true",
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_nso/en_nso.train.tar.gz?raw=true",
         (
             "ennso_parallel.train.en",
             "ennso_parallel.train.nso"
@@ -41,7 +41,7 @@ _ENNSO_TRAIN_DATASETS = [
 
 _ENNSO_TEST_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/data/en_nso/en_nso.dev.tar.gz?raw=true",
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_nso/en_nso.dev.tar.gz?raw=true",
         (
             "ennso_parallel.dev.en",
             "ennso_parallel.dev.nso"

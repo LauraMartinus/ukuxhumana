@@ -31,7 +31,7 @@ EOS = text_encoder.EOS_ID
 
 _ENZU_TRAIN_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/data/en_zu/en_zu.train.tar.gz?raw=true",
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_zu/en_zu.train.tar.gz?raw=true",
         (
             "enzu_parallel.train.en",
             "enzu_parallel.train.zu"
@@ -41,7 +41,7 @@ _ENZU_TRAIN_DATASETS = [
 
 _ENZU_TEST_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/data/en_zu/en_zu.dev.tar.gz?raw=true",
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_zu/en_zu.dev.tar.gz?raw=true",
         (
             "enzu_parallel.dev.notest.en",
             "enzu_parallel.dev.notest.zu"
