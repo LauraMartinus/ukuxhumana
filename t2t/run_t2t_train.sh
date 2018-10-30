@@ -20,7 +20,7 @@ mkdir "/tmp/t2t/$1/output"
 mkdir "/tmp/t2t/$1/tmp"
 
 # This just speeds up things since no need to download
-cp data/$1/$3.train.* /tmp/t2t/$1/data
-cp data/$1/$3.dev.* /tmp/t2t/$1/data
+cp clean/$1/$3.train.* /tmp/t2t/$1/data
+cp clean/$1/$3.dev.* /tmp/t2t/$1/data
 
 python $2 -u

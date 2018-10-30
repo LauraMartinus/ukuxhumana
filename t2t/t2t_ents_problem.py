@@ -23,7 +23,7 @@ tf.enable_eager_execution()
 RANDOM_SEED = 301
 trainer_lib.set_random_seed(RANDOM_SEED)
 
-prefix = "ents"
+prefix = "en_ts"
 problem_name = 'translate_ents_rma'
 print("storage prefix: %s" % (prefix))
 print("problem name: %s" % (problem_name))

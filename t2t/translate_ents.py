@@ -31,7 +31,7 @@ EOS = text_encoder.EOS_ID
 
 _ENTS_TRAIN_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/data/en_ts/en_ts.train.tar.gz?raw=true",
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_ts/en_ts.train.tar.gz?raw=true",
         (
             "ents_parallel.train.en",
             "ents_parallel.train.ts"
@@ -41,7 +41,7 @@ _ENTS_TRAIN_DATASETS = [
 
 _ENTS_TEST_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/data/en_ts/en_ts.dev.tar.gz?raw=true",
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_ts/en_ts.dev.tar.gz?raw=true",
         (
             "ents_parallel.dev.en",
             "ents_parallel.dev.ts"
