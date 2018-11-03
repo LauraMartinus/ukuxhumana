@@ -1,5 +1,5 @@
 nltk
 pandas
 numpy
-tensorflow
+tensorflow-gpu
 tensor2tensor

@@ -43,6 +43,7 @@ from tensor2tensor.utils import usr_dir
 from translate_entn import TranslateEntnRma
 from translate_enzu import TranslateEnzuRma
 from translate_ennso import TranslateEnnsoRma
+from translate_ents import TranslateEntsRma
 import tensorflow as tf
 
 flags = tf.flags
