@@ -49,6 +49,28 @@ _ENZU_TEST_DATASETS = [
     ]
 ]
 
+_ENZU_BPE_TRAIN_DATASETS = [
+    [
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/bpe/en_zu/en_zu.train.tar.gz?raw=true",
+        (   
+            "enzu_bpe_parallel.train.en",
+            "enzu_bpe_parallel.train.zu"
+        )
+
+    ]
+]
+
+_ENZU_BPE_TESTS_DATASETS = [
+    [
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/bpe/en_zu/en_zu.dev.tar.gz?raw=true",
+        (   
+            "enzu_bpe_parallel.dev.en",
+            "enzu_bpe_parallel.dev.zu"
+        )
+
+    ]
+]
+
 
 @registry.register_problem
 class TranslateEnzuRma(translate.TranslateProblem):
@@ -73,23 +95,18 @@ class TranslateEnzuBpeRma(translate.TranslateProblem):
   """Problem spec for WMT English-Zulu translation."""
 
   @property
-  def approx_vocab_size(self):
-    return 2**15  # 32768
-
-  @property
   def vocab_filename(self):
     return "vocab.bpe.40000"
 
 
   def source_data_files(self, dataset_split):
     train = dataset_split == problem.DatasetSplit.TRAIN
-    return _ENZU_TRAIN_DATASETS if train else _ENZU_TEST_DATASETS
+    return _ENZU_BPE_TRAIN_DATASETS if train else _ENZU_BPE_TEST_DATASETS
 
   def generate_samples(self, data_dir, tmp_dir, dataset_split):
-    """Instance of token generator for the WMT en->de task, training set."""
+    """Instance of token generator for the Autshomotso BPE en->zu task, training set."""
     datasets = self.source_data_files(dataset_split)
-    train_path_l1, train_path_l2 = datasets[1]
-
+    
     # Vocab
     vocab_path = os.path.join(data_dir, self.vocab_filename)
     if not tf.gfile.Exists(vocab_path):
@@ -99,7 +116,10 @@ class TranslateEnzuBpeRma(translate.TranslateProblem):
       vocab_list.append(self.oov_token)
       text_encoder.TokenTextEncoder(
           None, vocab_list=vocab_list).store_to_file(vocab_path)
+    tag = "train" if dataset_split == problem.DatasetSplit.TRAIN else "dev"
+    data_path = translate.compile_data(tmp_dir, datasets, "%s-compiled-%s" % (self.name,
+                                                                    tag))
+    return text_problems.text2text_txt_iterator(data_path + ".lang1",
+                                                data_path + ".lang2")
 
-    return text_problems.text2text_txt_iterator(train_path_l1,
-                                                train_path_l2)
 

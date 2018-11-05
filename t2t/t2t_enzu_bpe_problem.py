@@ -7,11 +7,7 @@ from tensor2tensor.data_generators import text_problems
 from tensor2tensor.utils import registry
 from tensor2tensor.data_generators import text_encoder
 from tensor2tensor.data_generators import translate
-from translate_entn import TranslateEntnRma
-from translate_enzu import TranslateEnzuRma
-from translate_ennso import TranslateEnnsoRma
-from translate_ents import TranslateEntsRma
-from translate_enaf import TranslateEnafRma
+from translate_enzu import TranslateEnzuBpeRma
 from tensor2tensor.utils.trainer_lib import create_run_config, create_experiment, create_hparams
 
 
@@ -24,21 +20,14 @@ tf.enable_eager_execution()
 RANDOM_SEED = 301
 trainer_lib.set_random_seed(RANDOM_SEED)
 
-prefix = "en_af"
-problem_name = 'translate_enaf_rma'
-print("storage prefix: %s" % (prefix))
-print("problem name: %s" % (problem_name))
-
 
 print("Setting up the files...")
 # Setup and create directories.
-ROOT_DIR = "/tmp/t2t/%s" % (prefix,)
-DATA_DIR = os.path.expanduser("%s/data"  % (ROOT_DIR,))
-OUTPUT_DIR = os.path.expanduser("%s/output" % (ROOT_DIR,))
-TMP_DIR = os.path.expanduser("%s/tmp" % (ROOT_DIR,))
+DATA_DIR = os.path.expanduser("/tmp/t2t/en_zu_bpe/data")
+OUTPUT_DIR = os.path.expanduser("/tmp/t2t/en_zu_bpe/output")
+TMP_DIR = os.path.expanduser("/tmp/t2t/en_zu_bpe/tmp")
 
 # Create them.
-tf.gfile.MakeDirs(ROOT_DIR)
 tf.gfile.MakeDirs(DATA_DIR)
 tf.gfile.MakeDirs(OUTPUT_DIR)
 tf.gfile.MakeDirs(TMP_DIR)
@@ -47,15 +36,15 @@ EOS = text_encoder.EOS_ID
 
 
 print("Generating the data for the translation.....")
-enaf = TranslateEnafRma()
-enaf.generate_data(DATA_DIR, TMP_DIR)
+enzu = TranslateEnzuBpeRma()
+enzu.generate_data(DATA_DIR, TMP_DIR)
 
 print("Viewing the generating data...")
 tfe = tf.contrib.eager
 Modes = tf.estimator.ModeKeys
 
 # We can iterate over our examples by making an iterator and calling next on it.
-eager_iterator = tfe.Iterator(enaf.dataset(Modes.EVAL, DATA_DIR))
+eager_iterator = tfe.Iterator(enzu.dataset(Modes.EVAL, DATA_DIR))
 example = eager_iterator.next()
 
 input_tensor = example["inputs"]
@@ -87,7 +76,7 @@ exp_fn = create_experiment(
     run_config = RUN_CONFIG,
     hparams=hparams,
     model_name='transformer',
-    problem_name=problem_name,
+    problem_name='translate_enzu_bpe_rma',
     data_dir=DATA_DIR,
     train_steps=125000,
     eval_steps=100
