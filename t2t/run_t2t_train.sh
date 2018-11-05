@@ -13,14 +13,15 @@ pip install -r requirements.txt
 problem_dir=$1
 problem_file=$2
 data_file=$3
+result_files=$4
 mkdir "/tmp/t2t"
-mkdir "/tmp/t2t/$1"
-mkdir "/tmp/t2t/$1/data"
-mkdir "/tmp/t2t/$1/output"
-mkdir "/tmp/t2t/$1/tmp"
+mkdir "/tmp/t2t/$4"
+mkdir "/tmp/t2t/$4/data"
+mkdir "/tmp/t2t/$4/output"
+mkdir "/tmp/t2t/$4/tmp"
 
 # This just speeds up things since no need to download
-cp clean/$1/$3.train.* /tmp/t2t/$1/data
-cp clean/$1/$3.dev.* /tmp/t2t/$1/data
-
+cp clean/$1/$3.train.* /tmp/t2t/$4/data
+cp clean/$1/$3.dev.* /tmp/t2t/$4/data
+cp clean/$1/vocab*   /tmp/t2t/$4/tmp
 python $2 -u
