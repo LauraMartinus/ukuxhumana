@@ -66,3 +66,40 @@ class TranslateEnzuRma(translate.TranslateProblem):
   def source_data_files(self, dataset_split):
     train = dataset_split == problem.DatasetSplit.TRAIN
     return _ENZU_TRAIN_DATASETS if train else _ENZU_TEST_DATASETS
+
+
+@registry.register_problem
+class TranslateEnzuBpeRma(translate.TranslateProblem):
+  """Problem spec for WMT English-Zulu translation."""
+
+  @property
+  def approx_vocab_size(self):
+    return 2**15  # 32768
+
+  @property
+  def vocab_filename(self):
+    return "vocab.bpe.40000"
+
+
+  def source_data_files(self, dataset_split):
+    train = dataset_split == problem.DatasetSplit.TRAIN
+    return _ENZU_TRAIN_DATASETS if train else _ENZU_TEST_DATASETS
+
+  def generate_samples(self, data_dir, tmp_dir, dataset_split):
+    """Instance of token generator for the WMT en->de task, training set."""
+    datasets = self.source_data_files(dataset_split)
+    train_path_l1, train_path_l2 = datasets[1]
+
+    # Vocab
+    vocab_path = os.path.join(data_dir, self.vocab_filename)
+    if not tf.gfile.Exists(vocab_path):
+      bpe_vocab = os.path.join(tmp_dir, "vocab.bpe.40000")
+      with tf.gfile.Open(bpe_vocab) as f:
+        vocab_list = f.read().split("\n")
+      vocab_list.append(self.oov_token)
+      text_encoder.TokenTextEncoder(
+          None, vocab_list=vocab_list).store_to_file(vocab_path)
+
+    return text_problems.text2text_txt_iterator(train_path_l1,
+                                                train_path_l2)
+
