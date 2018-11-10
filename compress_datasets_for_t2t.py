@@ -8,6 +8,12 @@ if len(sys.argv) < 4:
 root_folder = sys.argv[1]
 L1 = sys.argv[2]
 L2 = sys.argv[3]
+
+if len(sys.argv) > 4:
+    vocab_size = int(sys.argv[4])
+else:
+    vocab_size = 0
+
 types = ["train", "dev"]
 
 root_folder = os.path.join(root_folder, "%s_%s" % (L1, L2)) 
@@ -26,11 +32,17 @@ for x in old:
 train_files = glob.glob(os.path.join(root_folder, '*.train.*'))
 dev_files = glob.glob(os.path.join(root_folder, "*.dev.*"))
 
+
 with tarfile.open(name=train_path, mode='w:gz') as tar_handle:
     # Find all "trains"
     for t in train_files:
         n = t.split("/")[-1]
         tar_handle.add(t, arcname=n)
+
+    if vocab_size > 0:
+        vocab_file = os.path.join(root_folder, "bpe.%d.tokens.vocab" %(vocab_size))
+        n = vocab_file.split("/")[-1]
+        tar_handle.add(vocab_file, arcname=n)
 
 with tarfile.open(name=dev_path, mode='w:gz') as tar_handle:
     # Find all "trains"
