@@ -16,8 +16,8 @@ Results are given in BLEU.
 | Convolutional Seq2Seq (8K BPE) |   | 2.19 | 15.45 |  | 26.78 |
 | Transformer (uncased)  | 33.53  | 4.55 | 29.23 | 47.37 | 35.26 |
 | Transformer (cased)    | 33.12  | 4.45 | 28.71 | 46.95 | 34.81 |
-| Transformer (40k BPE) (uncased)  |  |  |  |  |  |
-| Transformer (40k BPE) (cased)    |   |  |  |  |  |
+| Transformer (40k BPE) (uncased)  |  | 4.29 |  |  |  |
+| Transformer (40k BPE) (cased)    |   | 4.14 |  |  |  |
 | Transformer (8k BPE) (uncased)  |  |  |  |  |  |
 | Transformer (8k BPE) (cased)    |   |  |  |  |  |
 
