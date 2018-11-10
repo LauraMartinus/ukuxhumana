@@ -1,6 +1,7 @@
 import os
 import sys
 import sentencepiece as spm
+
 translations = [
     "zu",
     "af",
@@ -74,3 +75,4 @@ for t in translations:
     # Convert the files
     for x, y in files:
         encode_and_save_file(x, y, sp)
+
