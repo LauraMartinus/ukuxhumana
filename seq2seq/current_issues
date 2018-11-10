@@ -1,6 +1,0 @@
-It seems the tokenization doesn't take away punctuation
-eg "consulate" returns <UNK> but not "consulate,"
-
-This takes a lot of memory to returns
-Doesn't use word embeddings
-Doesn't actually work that well (worse than expected)
