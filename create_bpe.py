@@ -79,4 +79,4 @@ for t in translations:
     with open("%s.vocab" % (model_prefix), "r") as fin:
         with open("%s.tokens.vocab" % (model_prefix), "w") as fout:
             for l in fin:
-                fout.write(l.split("\t")[0]+"\n")
+                fout.write('"' + l.split("\t")[0]+'"\n')
