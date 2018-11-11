@@ -51,10 +51,10 @@ _ENZU_TEST_DATASETS = [
 
 _ENZU_BPE_TRAIN_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/bpe/en_zu/en_zu.train.tar.gz?raw=true",
+        "http://github.com/LauraMartinus/ukuxhumana/blob/master/bpe/en_zu/en_zu.train.tar.gz?raw=true",
         (   
-            "enzu_bpe_parallel.train.en",
-            "enzu_bpe_parallel.train.zu"
+            "enzu_parallel.8000.train.en",
+            "enzu_parallel.8000.train.zu"
         )
 
     ]
@@ -62,10 +62,10 @@ _ENZU_BPE_TRAIN_DATASETS = [
 
 _ENZU_BPE_TEST_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/bpe/en_zu/en_zu.dev.tar.gz?raw=true",
+        "http://github.com/LauraMartinus/ukuxhumana/blob/master/bpe/en_zu/en_zu.dev.tar.gz?raw=true",
         (   
-            "enzu_bpe_parallel.dev.en",
-            "enzu_bpe_parallel.dev.zu"
+            "enzu_parallel.8000.dev.en",
+            "enzu_parallel.8000.dev.zu"
         )
 
     ]
@@ -94,13 +94,16 @@ class TranslateEnzuRma(translate.TranslateProblem):
 class TranslateEnzuBpeRma(translate.TranslateProblem):
   """Problem spec for WMT English-Zulu translation."""
 
+  def __init__(self, bpe_tokens=8000):
+    self.bpe_tokens=bpe_tokens
+
   @property
   def oov_token(self):
-    return "UNK"
+    return "<unk>"
 
   @property
   def vocab_filename(self):
-    return "vocab.quoted.bpe.40000"
+    return "bpe.%d.vocab" % (self.bpe_tokens,)
 
 
   def source_data_files(self, dataset_split):
@@ -114,7 +117,7 @@ class TranslateEnzuBpeRma(translate.TranslateProblem):
     # Vocab
     vocab_path = os.path.join(data_dir, self.vocab_filename)
     if not tf.gfile.Exists(vocab_path):
-      bpe_vocab = os.path.join(tmp_dir, "vocab.quoted.bpe.40000")
+      bpe_vocab = os.path.join(tmp_dir, self.vocab_filename)
       with tf.gfile.Open(bpe_vocab) as f:
         vocab_list = f.read().split("\n")
       vocab_list.append(self.oov_token)
