@@ -1,8000 +1,2787 @@
-<unk>	0
-<s>	0
-</s>	0
-th	-0
-an	-1
-in	-2
-en	-3
-ku	-4
-el	-5
-is	-6
-▁a	-7
-on	-8
-▁n	-9
-es	-10
-▁.	-11
-▁o	-12
-al	-13
-▁th	-14
-er	-15
-▁u	-16
-wa	-17
-▁,	-18
-ti	-19
-▁s	-20
-▁the	-21
-▁e	-22
-▁k	-23
-ma	-24
-zi	-25
-ha	-26
-ed	-27
-ing	-28
-▁b	-29
-and	-30
-we	-31
-▁i	-32
-le	-33
-or	-34
-▁p	-35
-▁c	-36
-la	-37
-▁t	-38
-re	-39
-om	-40
-▁of	-41
-kh	-42
-ic	-43
-un	-44
-▁f	-45
-▁in	-46
-▁w	-47
-oku	-48
-▁ng	-49
-▁y	-50
-tion	-51
-ba	-52
-ka	-53
-▁and	-54
-▁ku	-55
-thi	-56
-at	-57
-ph	-58
-lu	-59
-▁uku	-60
-▁to	-61
-ela	-62
-se	-63
-ent	-64
-lo	-65
-ou	-66
-ye	-67
-▁A	-68
-▁d	-69
-ga	-70
-il	-71
-▁m	-72
-ro	-73
-it	-74
-▁I	-75
-za	-76
-ar	-77
-zin	-78
-em	-79
-▁is	-80
-si	-81
-ele	-82
-he	-83
-▁l	-84
-esi	-85
-eni	-86
-ke	-87
-▁no	-88
-ation	-89
-▁be	-90
-▁T	-91
-ts	-92
-us	-93
-um	-94
-elo	-95
-ol	-96
-▁kan	-97
-hl	-98
-ec	-99
-▁S	-100
-▁U	-101
-▁re	-102
-ab	-103
-ri	-104
-isa	-105
-▁for	-106
-ana	-107
-ze	-108
-da	-109
-▁kanye	-110
-tu	-111
-ala	-112
-ter	-113
-zo	-114
-ve	-115
-ya	-116
-bu	-117
-pha	-118
-▁C	-119
-ce	-120
-tho	-121
-ang	-122
-yo	-123
-ben	-124
-as	-125
-▁ne	-126
-be	-127
-ith	-128
-▁wa	-129
-am	-130
-ho	-131
-kha	-132
-ly	-133
-▁ma	-134
-ise	-135
-▁pro	-136
-ur	-137
-▁im	-138
-▁r	-139
-▁on	-140
-ulu	-141
-▁en	-142
-▁The	-143
-id	-144
-ul	-145
-pp	-146
-▁or	-147
-ers	-148
-▁M	-149
-▁oku	-150
-ment	-151
-▁an	-152
-hi	-153
-mb	-154
-▁con	-155
-ac	-156
-wo	-157
-qu	-158
-▁N	-159
-▁that	-160
-▁P	-161
-ung	-162
-▁kw	-163
-the	-164
-▁ha	-165
-bo	-166
-tr	-167
-▁noma	-168
-eli	-169
-▁le	-170
-thu	-171
-▁z	-172
-▁g	-173
-▁as	-174
-ir	-175
-▁ezi	-176
-to	-177
-kho	-178
-isi	-179
-end	-180
-▁ama	-181
-ane	-182
-▁noku	-183
-▁kwe	-184
-▁em	-185
-▁aba	-186
-ini	-187
-ver	-188
-▁with	-189
-▁la	-190
-▁um	-191
-kw	-192
-ge	-193
-seben	-194
-zim	-195
-▁are	-196
-ali	-197
-▁kwa	-198
-ki	-199
-▁Af	-200
-tha	-201
-▁h	-202
-▁we	-203
-ci	-204
-ess	-205
-os	-206
-ted	-207
-▁ukuthi	-208
-kwa	-209
-ill	-210
-▁al	-211
-ate	-212
-alo	-213
-hla	-214
-ko	-215
-ban	-216
-▁ngoku	-217
-ity	-218
-▁un	-219
-▁com	-220
-▁nga	-221
-ad	-222
-weni	-223
-uc	-224
-ere	-225
-eng	-226
-ig	-227
-ona	-228
-▁na	-229
-our	-230
-te	-231
-fun	-232
-▁es	-233
-▁by	-234
-▁ka	-235
-onke	-236
-▁ba	-237
-▁K	-238
-zwe	-239
-▁de	-240
-im	-241
-▁L	-242
-▁lo	-243
-od	-244
-ub	-245
-▁D	-246
-▁R	-247
-▁se	-248
-zing	-249
-fa	-250
-▁ye	-251
-elwa	-252
-ula	-253
-lic	-254
-ili	-255
-▁izin	-256
-▁B	-257
-sh	-258
-▁W	-259
-▁ex	-260
-▁app	-261
-ta	-262
-ish	-263
-bh	-264
-▁esi	-265
-ani	-266
-▁v	-267
-uthi	-268
-ric	-269
-fic	-270
-▁E	-271
-khulu	-272
-▁wh	-273
-hlo	-274
-pho	-275
-di	-276
-de	-277
-thetho	-278
-iswa	-279
-▁will	-280
-▁ac	-281
-▁futhi	-282
-ingi	-283
-▁at	-284
-pec	-285
-▁si	-286
-▁In	-287
-st	-288
-▁yoku	-289
-ding	-290
-so	-291
-rom	-292
-oun	-293
-ay	-294
-▁;	-295
-ther	-296
-gis	-297
-▁Uku	-298
-tsh	-299
-ust	-300
-ort	-301
-phe	-302
-kathi	-303
-ut	-304
-ra	-305
-▁st	-306
-▁am	-307
-▁nj	-308
-mele	-309
-anga	-310
-khathi	-311
-dl	-312
-do	-313
-ene	-314
-ese	-315
-▁zi	-316
-▁isi	-317
-▁Afric	-318
-for	-319
-ch	-320
-▁O	-321
-▁izi	-322
-▁li	-323
-elwe	-324
-su	-325
-▁F	-326
-est	-327
-kwen	-328
-vi	-329
-▁ezin	-330
-hlang	-331
-me	-332
-va	-333
-hlu	-334
-▁was	-335
-▁have	-336
-▁from	-337
-▁ya	-338
-kela	-339
-kwe	-340
-bi	-341
-tic	-342
-dawo	-343
-ld	-344
-ng	-345
-et	-346
-outh	-347
-ational	-348
-ons	-349
-gh	-350
-li	-351
-▁za	-352
-▁prov	-353
-tions	-354
-▁H	-355
-res	-356
-phi	-357
-▁may	-358
-▁imp	-359
-▁sa	-360
-▁not	-361
-▁loku	-362
-der	-363
-▁nge	-364
-▁must	-365
-no	-366
-tive	-367
-▁you	-368
-khi	-369
-ice	-370
-khu	-371
-kile	-372
-▁ngo	-373
-▁res	-374
-ence	-375
-yi	-376
-ap	-377
-erv	-378
-ong	-379
-▁comp	-380
-isek	-381
-fi	-382
-▁zoku	-383
-tor	-384
-▁soku	-385
-ated	-386
-▁Th	-387
-ties	-388
-▁so	-389
-▁South	-390
-khe	-391
-icelo	-392
-ale	-393
-op	-394
-mit	-395
-▁inc	-396
-▁G	-397
-▁par	-398
-ant	-399
-▁aban	-400
-hlangan	-401
-▁has	-402
-▁kumele	-403
-qo	-404
-thola	-405
-min	-406
-▁koku	-407
-ting	-408
-▁ab	-409
-kan	-410
-sebenzi	-411
-▁per	-412
-anele	-413
-nga	-414
-zwa	-415
-sion	-416
-ms	-417
-hle	-418
-▁uma	-419
-mu	-420
-ich	-421
-phakathi	-422
-▁this	-423
-ber	-424
-inga	-425
-▁it	-426
-over	-427
-iso	-428
-▁do	-429
-meni	-430
-ould	-431
-ous	-432
-ans	-433
-ally	-434
-▁eku	-435
-lication	-436
-ep	-437
-▁Ng	-438
-▁eli	-439
-ents	-440
-fanele	-441
-rika	-442
-▁which	-443
-able	-444
-▁yi	-445
-olwa	-446
-zimu	-447
-ine	-448
-hamb	-449
-funda	-450
-ingizimu	-451
-ff	-452
-▁ad	-453
-cial	-454
-▁ukuba	-455
-mi	-456
-velo	-457
-ansi	-458
-qin	-459
-isana	-460
-gc	-461
-untu	-462
-▁el	-463
-elana	-464
-▁njeng	-465
-▁ez	-466
-hlelo	-467
-andle	-468
-▁were	-469
-gu	-470
-▁ze	-471
-iseben	-472
-ell	-473
-ulumeni	-474
-all	-475
-Ningizimu	-476
-mo	-477
-wn	-478
-ungu	-479
-bhe	-480
-▁yo	-481
-man	-482
-ond	-483
-ire	-484
-▁ta	-485
-▁any	-486
-▁who	-487
-sebenza	-488
-▁pol	-489
-ome	-490
-▁1	-491
-▁ukuze	-492
-ces	-493
-pa	-494
-▁ngaph	-495
-▁if	-496
-▁sub	-497
-per	-498
-vum	-499
-▁dis	-500
-omb	-501
-▁-	-502
-▁Com	-503
-ves	-504
-▁their	-505
-esikhathi	-506
-kazi	-507
-▁ar	-508
-ble	-509
-▁sh	-510
-ule	-511
-▁tr	-512
-duc	-513
-▁cont	-514
-▁can	-515
-land	-516
-▁he	-517
-▁been	-518
-ary	-519
-▁nezin	-520
-sha	-521
-enz	-522
-enzi	-523
-titu	-524
-ile	-525
-hu	-526
-▁su	-527
-▁sus	-528
-lela	-529
-wane	-530
-▁other	-531
-▁me	-532
-▁Y	-533
-ance	-534
-▁olu	-535
-▁acc	-536
-▁wor	-537
-▁rep	-538
-▁Afrika	-539
-yis	-540
-▁all	-541
-▁ezing	-542
-▁also	-543
-ven	-544
-hulumeni	-545
-emp	-546
-wel	-547
-▁ch	-548
-ations	-549
-mp	-550
-mbi	-551
-▁our	-552
-▁comm	-553
-▁African	-554
-edi	-555
-▁sec	-556
-ement	-557
-gr	-558
-ial	-559
-▁ngen	-560
-yisa	-561
-zeka	-562
-▁inter	-563
-▁Africa	-564
-lwa	-565
-ct	-566
-welonke	-567
-iswe	-568
-ist	-569
-igh	-570
-king	-571
-tain	-572
-▁cons	-573
-overn	-574
-▁imi	-575
-▁us	-576
-elela	-577
-ds	-578
-low	-579
-▁j	-580
-▁nama	-581
-velop	-582
-sebenz	-583
-▁serv	-584
-ies	-585
-▁offic	-586
-uny	-587
-▁om	-588
-kwenza	-589
-▁po	-590
-ni	-591
-▁kwi	-592
-con	-593
-▁kakhulu	-594
-bon	-595
-int	-596
-andla	-597
-▁ro	-598
-▁nem	-599
-odwa	-600
-▁kom	-601
-isekelo	-602
-bili	-603
-enti	-604
-wu	-605
-▁your	-606
-qala	-607
-▁Um	-608
-bhal	-609
-▁mem	-610
-andlu	-611
-gisla	-612
-zulu	-613
-kala	-614
-▁lapho	-615
-mba	-616
-art	-617
-anda	-618
-isebenzi	-619
-overnment	-620
-▁lu	-621
-▁suspec	-622
-yaka	-623
-▁legisla	-624
-ach	-625
-▁pre	-626
-ore	-627
-▁nom	-628
-khona	-629
-xa	-630
-ved	-631
-endlela	-632
-tshenz	-633
-ublic	-634
-elele	-635
-▁provin	-636
-▁ko	-637
-ks	-638
-▁form	-639
-dlu	-640
-▁pers	-641
-ip	-642
-▁its	-643
-▁kanti	-644
-ena	-645
-▁rec	-646
-▁coun	-647
-gi	-648
-▁pha	-649
-ture	-650
-gistr	-651
-rou	-652
-▁kh	-653
-ty	-654
-qhu	-655
-bal	-656
-omu	-657
-mis	-658
-▁pe	-659
-ely	-660
-uku	-661
-ango	-662
-kwazi	-663
-ud	-664
-▁Ama	-665
-▁khona	-666
-▁application	-667
-ina	-668
-out	-669
-cess	-670
-ates	-671
-ano	-672
-ange	-673
-fundazwe	-674
-und	-675
-▁Is	-676
-▁Pro	-677
-titution	-678
-▁lwe	-679
-mation	-680
-dlela	-681
-any	-682
-▁ob	-683
-phoyisa	-684
-lung	-685
-▁requ	-686
-shi	-687
-▁We	-688
-ll	-689
-omo	-690
-esid	-691
-ny	-692
-▁woku	-693
-je	-694
-▁Uma	-695
-▁This	-696
-▁J	-697
-beka	-698
-▁abantu	-699
-▁suc	-700
-▁under	-701
-fer	-702
-▁phakathi	-703
-ew	-704
-one	-705
-▁inclu	-706
-▁nam	-707
-red	-708
-bantu	-709
-▁infor	-710
-ree	-711
-jec	-712
-ised	-713
-ast	-714
-siza	-715
-▁nezi	-716
-bers	-717
-▁ubu	-718
-ining	-719
-qi	-720
-hlala	-721
-▁they	-722
-daweni	-723
-ite	-724
-daba	-725
-▁exp	-726
-hlaba	-727
-solwa	-728
-xo	-729
-▁Lo	-730
-▁Re	-731
-phela	-732
-ende	-733
-sisekelo	-734
-faka	-735
-ind	-736
-▁isicelo	-737
-▁af	-738
-ue	-739
-▁co	-740
-abo	-741
-▁bo	-742
-▁ti	-743
-kele	-744
-▁V	-745
-gam	-746
-try	-747
-▁develop	-748
-▁It	-749
-kulu	-750
-po	-751
-ide	-752
-uni	-753
-▁As	-754
-▁kun	-755
-khandlu	-756
-▁kwezin	-757
-ged	-758
-▁izim	-759
-▁uM	-760
-ical	-761
-▁ter	-762
-ction	-763
-way	-764
-thethosisekelo	-765
-ign	-766
-tolo	-767
-▁out	-768
-bha	-769
-oni	-770
-wal	-771
-▁pr	-772
-▁ngendlela	-773
-zen	-774
-▁kwama	-775
-qinisek	-776
-ating	-777
-▁supp	-778
-▁person	-779
-les	-780
-hlangano	-781
-abe	-782
-▁into	-783
-▁ngaphandle	-784
-▁ngesikhathi	-785
-ari	-786
-▁str	-787
-thwa	-788
-esh	-789
-gaba	-790
-ters	-791
-kantolo	-792
-ost	-793
-▁di	-794
-▁qu	-795
-visi	-796
-▁new	-797
-▁2	-798
-ase	-799
-▁Ku	-800
-▁one	-801
-phu	-802
-▁kodwa	-803
-fu	-804
-iti	-805
-▁An	-806
-enza	-807
-▁ass	-808
-▁cer	-809
-khum	-810
-▁national	-811
-▁mayelana	-812
-zela	-813
-▁ri	-814
-tshenziswa	-815
-▁dec	-816
-▁kufanele	-817
-oba	-818
-usa	-819
-ople	-820
-▁sc	-821
-gama	-822
-▁App	-823
-▁should	-824
-▁ngu	-825
-▁ema	-826
-hlobo	-827
-kene	-828
-ngen	-829
-thuthu	-830
-▁sp	-831
-ulwa	-832
-uva	-833
-very	-834
-▁ev	-835
-enye	-836
-phum	-837
-▁No	-838
-har	-839
-gq	-840
-iny	-841
-qha	-842
-▁ins	-843
-▁ngem	-844
-artment	-845
-▁ing	-846
-▁ase	-847
-ensi	-848
-▁ag	-849
-usha	-850
-▁there	-851
-▁these	-852
-embu	-853
-▁government	-854
-cil	-855
-▁Dep	-856
-▁two	-857
-▁people	-858
-gn	-859
-ght	-860
-inye	-861
-ungelo	-862
-▁Cons	-863
-▁hi	-864
-▁National	-865
-cum	-866
-tur	-867
-▁int	-868
-tifi	-869
-isha	-870
-ss	-871
-als	-872
-ild	-873
-zini	-874
-▁spec	-875
-▁year	-876
-▁umuntu	-877
-unic	-878
-▁pla	-879
-▁process	-880
-inde	-881
-▁Aba	-882
-▁his	-883
-vo	-884
-▁up	-885
-▁Isi	-886
-▁Le	-887
-▁ho	-888
-alungu	-889
-enc	-890
-ilo	-891
-▁go	-892
-qond	-893
-▁ind	-894
-▁tra	-895
-kelwa	-896
-mission	-897
-hum	-898
-aban	-899
-▁enga	-900
-thweni	-901
-kun	-902
-ints	-903
-▁more	-904
-▁over	-905
-zwelonke	-906
-▁information	-907
-▁such	-908
-ck	-909
-rd	-910
-ices	-911
-hlan	-912
-unga	-913
-▁Act	-914
-▁bas	-915
-▁St	-916
-▁mar	-917
-lwazi	-918
-▁appro	-919
-zu	-920
-ens	-921
-zoku	-922
-gan	-923
-hlin	-924
-gameli	-925
-▁members	-926
-sho	-927
-ving	-928
-ure	-929
-▁zo	-930
-unye	-931
-ila	-932
-landela	-933
-00	-934
-oto	-935
-vu	-936
-ollow	-937
-zinga	-938
-ry	-939
-ord	-940
-ziwa	-941
-hol	-942
-▁ele	-943
-ass	-944
-dla	-945
-▁Pr	-946
-ality	-947
-qembu	-948
-▁kuzo	-949
-zimali	-950
-ener	-951
-▁dep	-952
-▁fun	-953
-ps	-954
-bona	-955
-lish	-956
-ffic	-957
-fana	-958
-ys	-959
-▁but	-960
-▁inv	-961
-ors	-962
-enga	-963
-▁police	-964
-tholakala	-965
-▁yase	-966
-▁where	-967
-ama	-968
-uli	-969
-cala	-970
-▁kube	-971
-endawo	-972
-gy	-973
-cane	-974
-ffec	-975
-resent	-976
-▁kwezi	-977
-▁within	-978
-▁pl	-979
-ongameli	-980
-▁To	-981
-alwa	-982
-ants	-983
-khon	-984
-ments	-985
-tific	-986
-▁Coun	-987
-tern	-988
-uth	-989
-fore	-990
-▁anga	-991
-nyango	-992
-▁follow	-993
-▁issu	-994
-▁ngama	-995
-idi	-996
-▁SA	-997
-ech	-998
-yst	-999
-khokh	-1000
-thatha	-1001
-phezulu	-1002
-sebenzisa	-1003
-▁sesi	-1004
-▁Constitution	-1005
-yela	-1006
-▁suspects	-1007
-▁Par	-1008
-▁after	-1009
-ges	-1010
-thini	-1011
-▁kwem	-1012
-▁nase	-1013
-▁legislation	-1014
-▁mo	-1015
-▁ve	-1016
-▁num	-1017
-ystem	-1018
-▁Izin	-1019
-kom	-1020
-ourt	-1021
-▁base	-1022
-▁wase	-1023
-age	-1024
-ingo	-1025
-▁aman	-1026
-▁Council	-1027
-conom	-1028
-▁need	-1029
-▁when	-1030
-▁lwa	-1031
-kelwe	-1032
-▁bu	-1033
-▁fac	-1034
-khomb	-1035
-mende	-1036
-rough	-1037
-▁isikhathi	-1038
-▁If	-1039
-vume	-1040
-fe	-1041
-sa	-1042
-hlukene	-1043
-qa	-1044
-gal	-1045
-▁att	-1046
-▁ngi	-1047
-▁yom	-1048
-ility	-1049
-▁public	-1050
-kayo	-1051
-keza	-1052
-▁Izi	-1053
-▁emp	-1054
-▁naba	-1055
-▁provincial	-1056
-elelo	-1057
-khiqi	-1058
-▁work	-1059
-gqu	-1060
-ited	-1061
-▁ese	-1062
-ight	-1063
-▁time	-1064
-▁would	-1065
-bhi	-1066
-▁cri	-1067
-▁ent	-1068
-au	-1069
-▁umsebenzi	-1070
-ced	-1071
-ful	-1072
-▁Si	-1073
-zane	-1074
-gister	-1075
-▁progr	-1076
-▁service	-1077
-ame	-1078
-hho	-1079
-gain	-1080
-▁kwesi	-1081
-thuthuk	-1082
-▁econom	-1083
-up	-1084
-▁aku	-1085
-▁emi	-1086
-esident	-1087
-setshenziswa	-1088
-▁nesi	-1089
-▁terms	-1090
-▁day	-1091
-anag	-1092
-qubo	-1093
-▁than	-1094
-SA	-1095
-▁contin	-1096
-xenye	-1097
-▁kahle	-1098
-▁office	-1099
-▁Application	-1100
-cal	-1101
-tter	-1102
-notho	-1103
-▁ngaphansi	-1104
-ctor	-1105
-▁bus	-1106
-go	-1107
-▁Z	-1108
-onal	-1109
-▁pri	-1110
-dingo	-1111
-andela	-1112
-phepha	-1113
-thethweni	-1114
-gistration	-1115
-thile	-1116
-▁lokhu	-1117
-▁ey	-1118
-▁ph	-1119
-▁man	-1120
-nu	-1121
-▁ol	-1122
-▁imali	-1123
-qhubeka	-1124
-Mkhandlu	-1125
-▁njengoba	-1126
-ard	-1127
-▁fe	-1128
-ouse	-1129
-ungo	-1130
-hamba	-1131
-esicelo	-1132
-Af	-1133
-ongq	-1134
-khish	-1135
-ape	-1136
-emi	-1137
-sip	-1138
-hloso	-1139
-▁through	-1140
-tab	-1141
-▁docum	-1142
-▁comple	-1143
-▁kab	-1144
-▁mon	-1145
-▁made	-1146
-pe	-1147
-fund	-1148
-▁pos	-1149
-▁being	-1150
-beni	-1151
-▁use	-1152
-sipala	-1153
-cha	-1154
-unicip	-1155
-▁3	-1156
-▁19	-1157
-▁He	-1158
-▁kunga	-1159
-ism	-1160
-kon	-1161
-▁had	-1162
-▁development	-1163
-▁wo	-1164
-▁only	-1165
-▁permit	-1166
-imo	-1167
-▁Min	-1168
-▁conf	-1169
-ati	-1170
-hic	-1171
-▁fa	-1172
-ning	-1173
-truc	-1174
-unity	-1175
-cip	-1176
-eleni	-1177
-balule	-1178
-enziwa	-1179
-▁kulo	-1180
-▁trans	-1181
-cc	-1182
-ses	-1183
-suku	-1184
-▁kum	-1185
-▁lom	-1186
-▁kule	-1187
-phatha	-1188
-eme	-1189
-par	-1190
-val	-1191
-hhovisi	-1192
-▁number	-1193
-Mongameli	-1194
-bs	-1195
-olo	-1196
-▁again	-1197
-▁kuphela	-1198
-wano	-1199
-▁bec	-1200
-▁cap	-1201
-▁Serv	-1202
-umo	-1203
-enziwe	-1204
-hambisana	-1205
-qas	-1206
-oshe	-1207
-fundo	-1208
-ries	-1209
-▁kuka	-1210
-▁ulwazi	-1211
-Zwelonke	-1212
-ji	-1213
-▁Mr	-1214
-ular	-1215
-ive	-1216
-atsh	-1217
-enge	-1218
-▁wom	-1219
-▁country	-1220
-amp	-1221
-▁fin	-1222
-iness	-1223
-phaka	-1224
-uthor	-1225
-▁izinto	-1226
-act	-1227
-enze	-1228
-vela	-1229
-▁child	-1230
-▁President	-1231
-led	-1232
-▁resp	-1233
-phinde	-1234
-du	-1235
-wer	-1236
-▁tax	-1237
-▁ngapha	-1238
-ot	-1239
-reat	-1240
-▁abe	-1241
-isation	-1242
-ran	-1243
-▁her	-1244
-▁provid	-1245
-omp	-1246
-bhek	-1247
-ress	-1248
-▁Commission	-1249
-▁uzo	-1250
-khombisa	-1251
-▁Department	-1252
-▁kazwelonke	-1253
-Mthethosisekelo	-1254
-▁ngenxa	-1255
-ongqoshe	-1256
-▁vi	-1257
-▁col	-1258
-dinge	-1259
-▁ngum	-1260
-bhizin	-1261
-▁Lokhu	-1262
-▁kwaba	-1263
-▁some	-1264
-▁about	-1265
-ose	-1266
-jalo	-1267
-▁fir	-1268
-phath	-1269
-cri	-1270
-ren	-1271
-twe	-1272
-funa	-1273
-▁oper	-1274
-▁vehic	-1275
-phandle	-1276
-▁produc	-1277
-▁services	-1278
-loy	-1279
-kamp	-1280
-ok	-1281
-ult	-1282
-ject	-1283
-▁zin	-1284
-phumela	-1285
-qe	-1286
-cwa	-1287
-qon	-1288
-ithe	-1289
-semb	-1290
-xhum	-1291
-▁cor	-1292
-▁non	-1293
-omish	-1294
-▁program	-1295
-isiwe	-1296
-▁import	-1297
-hat	-1298
-▁id	-1299
-hool	-1300
-▁well	-1301
-▁system	-1302
-▁register	-1303
-eso	-1304
-vin	-1305
-ling	-1306
-tween	-1307
-▁estab	-1308
-▁between	-1309
-▁establish	-1310
-day	-1311
-ef	-1312
-▁rece	-1313
-▁wesi	-1314
-andakan	-1315
-bhizinisi	-1316
-Kh	-1317
-ade	-1318
-gun	-1319
-uring	-1320
-ak	-1321
-law	-1322
-alth	-1323
-▁pay	-1324
-sible	-1325
-▁izing	-1326
-▁ngezin	-1327
-▁Isicelo	-1328
-mes	-1329
-uso	-1330
-▁Im	-1331
-wana	-1332
-ziwe	-1333
-ister	-1334
-▁take	-1335
-▁eNingizimu	-1336
-med	-1337
-ory	-1338
-▁said	-1339
-▁support	-1340
-tiv	-1341
-vir	-1342
-yam	-1343
-▁before	-1344
-▁umthetho	-1345
-elene	-1346
-▁conc	-1347
-sembly	-1348
-▁effec	-1349
-▁wonke	-1350
-tificate	-1351
-▁Un	-1352
-elekile	-1353
-▁kaZwelonke	-1354
-oc	-1355
-rg	-1356
-▁kuma	-1357
-ctions	-1358
-khungo	-1359
-▁stat	-1360
-▁zonke	-1361
-ety	-1362
-row	-1363
-▁eza	-1364
-kwenziwa	-1365
-▁endaweni	-1366
-ru	-1367
-ack	-1368
-▁Ma	-1369
-qumo	-1370
-tice	-1371
-▁kul	-1372
-geben	-1373
-▁te	-1374
-hala	-1375
-them	-1376
-▁bab	-1377
-isela	-1378
-mbili	-1379
-▁indawo	-1380
-▁Assembly	-1381
-tec	-1382
-ound	-1383
-vaka	-1384
-▁okun	-1385
-▁yesi	-1386
-▁state	-1387
-ures	-1388
-▁Con	-1389
-▁area	-1390
-▁areas	-1391
-▁following	-1392
-ishi	-1393
-▁nen	-1394
-▁yama	-1395
-kampani	-1396
-ners	-1397
-onment	-1398
-gebengu	-1399
-unities	-1400
-cep	-1401
-ired	-1402
-▁For	-1403
-dleni	-1404
-▁char	-1405
-▁three	-1406
-▁Ex	-1407
-▁zom	-1408
-tical	-1409
-▁zase	-1410
-▁registration	-1411
-ft	-1412
-por	-1413
-ency	-1414
-▁part	-1415
-gra	-1416
-▁op	-1417
-ings	-1418
-▁zama	-1419
-▁There	-1420
-▁ifomu	-1421
-vel	-1422
-▁obu	-1423
-▁polic	-1424
-hlanganisa	-1425
-ative	-1426
-▁Comp	-1427
-▁land	-1428
-eneral	-1429
-phansi	-1430
-▁right	-1431
-▁kabusha	-1432
-phen	-1433
-▁eng	-1434
-▁business	-1435
-▁yem	-1436
-ily	-1437
-now	-1438
-wan	-1439
-▁lika	-1440
-▁rele	-1441
-ecu	-1442
-ombo	-1443
-▁owa	-1444
-▁them	-1445
-pr	-1446
-Ngq	-1447
-uman	-1448
-▁bese	-1449
-qinisekisa	-1450
-ken	-1451
-pos	-1452
-eshe	-1453
-ount	-1454
-▁own	-1455
-inyaka	-1456
-▁respon	-1457
-vironment	-1458
-▁ang	-1459
-urity	-1460
-▁author	-1461
-adi	-1462
-ath	-1463
-iod	-1464
-istr	-1465
-ists	-1466
-▁Pre	-1467
-▁eya	-1468
-fakazi	-1469
-▁val	-1470
-abantu	-1471
-▁arres	-1472
-▁organ	-1473
-▁identi	-1474
-▁ngokuthi	-1475
-▁including	-1476
-▁yim	-1477
-ithetho	-1478
-khun	-1479
-zisa	-1480
-kezwa	-1481
-tifik	-1482
-▁prom	-1483
-lement	-1484
-oli	-1485
-▁On	-1486
-port	-1487
-bul	-1488
-▁Nga	-1489
-▁dem	-1490
-▁hel	-1491
-ched	-1492
-dala	-1493
-wini	-1494
-pahla	-1495
-▁order	-1496
-▁phamb	-1497
-▁ngaphambi	-1498
-ense	-1499
-vers	-1500
-thuny	-1501
-▁commit	-1502
-▁imisebenzi	-1503
-▁add	-1504
-▁law	-1505
-vesti	-1506
-▁house	-1507
-tifikedi	-1508
-fo	-1509
-bed	-1510
-yin	-1511
-▁abo	-1512
-▁vari	-1513
-ten	-1514
-▁Am	-1515
-esha	-1516
-kiwe	-1517
-ying	-1518
-anagement	-1519
-Ngqongqoshe	-1520
-▁car	-1521
-elwano	-1522
-hlinze	-1523
-rit	-1524
-▁yen	-1525
-▁ukusebenza	-1526
-fomu	-1527
-▁sho	-1528
-▁sur	-1529
-qhaza	-1530
-thuba	-1531
-▁lokho	-1532
-ek	-1533
-▁gu	-1534
-▁pur	-1535
-khaya	-1536
-▁submit	-1537
-leko	-1538
-▁Rep	-1539
-▁sase	-1540
-aba	-1541
-gwa	-1542
-hip	-1543
-▁ub	-1544
-▁sit	-1545
-▁kwen	-1546
-▁rega	-1547
-entela	-1548
-khakha	-1549
-kwakha	-1550
-ecutive	-1551
-ik	-1552
-▁ga	-1553
-wele	-1554
-▁apply	-1555
-▁years	-1556
-its	-1557
-ause	-1558
-sure	-1559
-gunya	-1560
-khala	-1561
-▁cent	-1562
-▁dire	-1563
-▁ngom	-1564
-thathu	-1565
-▁against	-1566
-yamthetho	-1567
-phathelene	-1568
-co	-1569
-thwe	-1570
-▁Sec	-1571
-▁set	-1572
-▁local	-1573
-▁ukwenza	-1574
-▁represent	-1575
-▁certificate	-1576
-▁som	-1577
-gcina	-1578
-▁days	-1579
-▁deli	-1580
-khishwa	-1581
-▁abasolwa	-1582
-hlalo	-1583
-balulekile	-1584
-ner	-1585
-▁way	-1586
-lwane	-1587
-▁Cape	-1588
-gation	-1589
-▁intern	-1590
-ness	-1591
-▁Pol	-1592
-▁cop	-1593
-▁lic	-1594
-khono	-1595
-▁school	-1596
-bho	-1597
-dwa	-1598
-▁lw	-1599
-ently	-1600
-▁used	-1601
-tional	-1602
-▁refer	-1603
-▁ban	-1604
-kinga	-1605
-▁those	-1606
-ishayamthetho	-1607
-road	-1608
-▁make	-1609
-termin	-1610
-▁first	-1611
-landelayo	-1612
-of	-1613
-▁ca	-1614
-▁sem	-1615
-PS	-1616
-arm	-1617
-mbe	-1618
-ended	-1619
-▁member	-1620
-fied	-1621
-▁court	-1622
-▁Service	-1623
-▁okumele	-1624
-khundleni	-1625
-▁ra	-1626
-edlu	-1627
-leka	-1628
-thula	-1629
-▁emva	-1630
-▁unga	-1631
-alokho	-1632
-▁water	-1633
-▁section	-1634
-▁suspect	-1635
-yu	-1636
-ush	-1637
-xha	-1638
-▁Wh	-1639
-bala	-1640
-bandakan	-1641
-▁province	-1642
-buye	-1643
-▁You	-1644
-▁equ	-1645
-▁nemi	-1646
-▁human	-1647
-▁kwisi	-1648
-Mnyango	-1649
-qed	-1650
-uty	-1651
-zom	-1652
-ders	-1653
-▁izo	-1654
-▁opp	-1655
-▁reg	-1656
-walisa	-1657
-▁consi	-1658
-▁uhlelo	-1659
-▁required	-1660
-ils	-1661
-lar	-1662
-ilit	-1663
-▁clo	-1664
-▁economic	-1665
-qeq	-1666
-ulo	-1667
-ribu	-1668
-▁yisi	-1669
-empilo	-1670
-ital	-1671
-▁yin	-1672
-esign	-1673
-graph	-1674
-itizen	-1675
-▁month	-1676
-Khomish	-1677
-gin	-1678
-ked	-1679
-rol	-1680
-▁il	-1681
-ffer	-1682
-yisi	-1683
-zelo	-1684
-▁dri	-1685
-ision	-1686
-kwini	-1687
-▁kuyo	-1688
-▁yonke	-1689
-▁applic	-1690
-▁investi	-1691
-▁municip	-1692
-aso	-1693
-yal	-1694
-dinga	-1695
-yanga	-1696
-▁vehicle	-1697
-itha	-1698
-▁sta	-1699
-ament	-1700
-Afrika	-1701
-ear	-1702
-oint	-1703
-zama	-1704
-▁eze	-1705
-▁off	-1706
-theng	-1707
-▁fire	-1708
-▁many	-1709
-▁wama	-1710
-▁community	-1711
-lear	-1712
-shwa	-1713
-spec	-1714
-ising	-1715
-▁pass	-1716
-▁perfor	-1717
-reed	-1718
-Phala	-1719
-vaila	-1720
-zweni	-1721
-▁Minister	-1722
-ned	-1723
-▁De	-1724
-▁sign	-1725
-▁speci	-1726
-▁respec	-1727
-elungelo	-1728
-▁provide	-1729
-▁ezindaweni	-1730
-ayi	-1731
-hal	-1732
-arch	-1733
-▁cur	-1734
-▁high	-1735
-▁main	-1736
-▁ngemuva	-1737
-eri	-1738
-thole	-1739
-undla	-1740
-▁meet	-1741
-▁pres	-1742
-▁ukun	-1743
-▁invol	-1744
-Phalamende	-1745
-RS	-1746
-▁En	-1747
-▁min	-1748
-bekwe	-1749
-thelo	-1750
-▁yini	-1751
-phathi	-1752
-▁okunga	-1753
-▁report	-1754
-▁ow	-1755
-gesi	-1756
-sizo	-1757
-▁inf	-1758
-▁both	-1759
-shints	-1760
-phelele	-1761
-xhumana	-1762
-▁ensure	-1763
-▁kokuba	-1764
-▁arrested	-1765
-ey	-1766
-bhamu	-1767
-▁each	-1768
-▁emuva	-1769
-▁period	-1770
-▁determin	-1771
-▁legislature	-1772
-ded	-1773
-sem	-1774
-▁Fa	-1775
-▁Mo	-1776
-ateg	-1777
-finy	-1778
-rikha	-1779
-▁okwa	-1780
-ements	-1781
-▁availa	-1782
-▁citizen	-1783
-dolo	-1784
-ongo	-1785
-tela	-1786
-▁nec	-1787
-kunye	-1788
-▁amazwe	-1789
-hwe	-1790
-▁she	-1791
-▁good	-1792
-khundla	-1793
-▁during	-1794
-▁amandla	-1795
-iningwane	-1796
-irs	-1797
-ket	-1798
-ural	-1799
-▁uni	-1800
-umele	-1801
-▁call	-1802
-▁ngam	-1803
-▁admin	-1804
-▁Police	-1805
-▁employ	-1806
-▁Kwa	-1807
-▁nat	-1808
-konzo	-1809
-▁They	-1810
-▁rela	-1811
-ducation	-1812
-▁eziningi	-1813
-imi	-1814
-thin	-1815
-bsite	-1816
-▁zika	-1817
-inqumo	-1818
-▁Provin	-1819
-▁resour	-1820
-▁available	-1821
-▁environment	-1822
-ja	-1823
-vuny	-1824
-▁hand	-1825
-▁lase	-1826
-gistrar	-1827
-umelelo	-1828
-▁proper	-1829
-vid	-1830
-eshi	-1831
-tural	-1832
-▁zezi	-1833
-urther	-1834
-elf	-1835
-may	-1836
-▁eb	-1837
-celo	-1838
-tric	-1839
-elelwa	-1840
-▁require	-1841
-zayo	-1842
-khula	-1843
-▁boku	-1844
-▁know	-1845
-▁lead	-1846
-▁ngabe	-1847
-▁ngokwe	-1848
-▁Se	-1849
-▁ec	-1850
-▁Ngi	-1851
-hlaka	-1852
-▁most	-1853
-alungelo	-1854
-▁document	-1855
-▁gr	-1856
-ased	-1857
-▁All	-1858
-▁disc	-1859
-▁fish	-1860
-▁kwaku	-1861
-▁njalo	-1862
-xt	-1863
-lec	-1864
-tee	-1865
-▁Ro	-1866
-▁def	-1867
-hlola	-1868
-vikela	-1869
-▁ezinga	-1870
-vumelwano	-1871
-ake	-1872
-sed	-1873
-▁ful	-1874
-igomo	-1875
-round	-1876
-▁kuya	-1877
-▁lezi	-1878
-▁ngesi	-1879
-▁ngezi	-1880
-▁Government	-1881
-han	-1882
-▁pa	-1883
-soci	-1884
-▁vis	-1885
-▁zem	-1886
-khiwo	-1887
-▁lear	-1888
-▁like	-1889
-▁world	-1890
-▁consider	-1891
-▁implement	-1892
-▁management	-1893
-qal	-1894
-xox	-1895
-bamb	-1896
-ined	-1897
-▁Sub	-1898
-▁red	-1899
-sions	-1900
-thuko	-1901
-umela	-1902
-liament	-1903
-▁social	-1904
-zw	-1905
-omm	-1906
-tegr	-1907
-▁grou	-1908
-▁sika	-1909
-▁yezi	-1910
-vement	-1911
-▁assist	-1912
-▁design	-1913
-▁address	-1914
-▁:	-1915
-des	-1916
-til	-1917
-tim	-1918
-hile	-1919
-jway	-1920
-khul	-1921
-▁arr	-1922
-▁plan	-1923
-▁regi	-1924
-▁very	-1925
-ential	-1926
-phethe	-1927
-▁relev	-1928
-bhaliso	-1929
-khiqizo	-1930
-▁security	-1931
-▁my	-1932
-ases	-1933
-keni	-1934
-▁soci	-1935
-gqugqu	-1936
-hlanga	-1937
-iselwa	-1938
-▁These	-1939
-▁level	-1940
-▁indlela	-1941
-idl	-1942
-ote	-1943
-ason	-1944
-gcin	-1945
-khiwa	-1946
-▁alle	-1947
-▁lesi	-1948
-▁issued	-1949
-▁phansi	-1950
-▁official	-1951
-ata	-1952
-war	-1953
-▁eN	-1954
-kole	-1955
-view	-1956
-▁occ	-1957
-ances	-1958
-ences	-1959
-eshini	-1960
-onyaka	-1961
-▁yakho	-1962
-zed	-1963
-hlanu	-1964
-▁prac	-1965
-olwazi	-1966
-kakhulu	-1967
-▁ezingu	-1968
-hlinzeka	-1969
-▁international	-1970
-zem	-1971
-▁So	-1972
-▁eM	-1973
-hlas	-1974
-vimb	-1975
-▁cre	-1976
-▁lin	-1977
-▁elec	-1978
-▁ngayo	-1979
-ticular	-1980
-▁concer	-1981
-▁iqhaza	-1982
-▁phambili	-1983
-gx	-1984
-dun	-1985
-ywa	-1986
-▁Ch	-1987
-▁gi	-1988
-ombe	-1989
-▁ano	-1990
-▁what	-1991
-khophi	-1992
-pheshe	-1993
-▁lapha	-1994
-irector	-1995
-▁njenge	-1996
-▁kanjalo	-1997
-▁relevant	-1998
-pro	-1999
-cwan	-2000
-dlul	-2001
-hlon	-2002
-zana	-2003
-fundi	-2004
-▁date	-2005
-▁ngeke	-2006
-ilities	-2007
-▁sector	-2008
-▁without	-2009
-▁Republic	-2010
-mar	-2011
-ghts	-2012
-jeng	-2013
-▁ref	-2014
-▁rel	-2015
-▁four	-2016
-▁indi	-2017
-▁near	-2018
-ilding	-2019
-hlabeni	-2020
-▁necess	-2021
-▁Parliament	-2022
-▁kahulumeni	-2023
-▁UM	-2024
-omes	-2025
-▁cla	-2026
-▁ext	-2027
-▁sama	-2028
-khipha	-2029
-▁subse	-2030
-▁differ	-2031
-masipala	-2032
-ag	-2033
-Kha	-2034
-tra	-2035
-muzi	-2036
-▁des	-2037
-▁nje	-2038
-▁sha	-2039
-orted	-2040
-▁bazo	-2041
-▁ukwe	-2042
-edlule	-2043
-▁count	-2044
-▁recei	-2045
-▁shall	-2046
-▁stand	-2047
-▁opport	-2048
-▁ezimbili	-2049
-▁ngenhloso	-2050
-▁esikhundleni	-2051
-bula	-2052
-▁rob	-2053
-bheka	-2054
-▁onga	-2055
-elweni	-2056
-ustice	-2057
-▁marri	-2058
-dingeka	-2059
-▁access	-2060
-▁ezweni	-2061
-▁4	-2062
-The	-2063
-kalo	-2064
-▁mis	-2065
-ticip	-2066
-▁nges	-2067
-ancial	-2068
-▁Court	-2069
-▁amabili	-2070
-jor	-2071
-son	-2072
-buzo	-2073
-nolo	-2074
-ross	-2075
-▁199	-2076
-▁Imp	-2077
-▁Noma	-2078
-esting	-2079
-ultural	-2080
-▁enkulu	-2081
-▁omusha	-2082
-▁children	-2083
-pla	-2084
-siko	-2085
-tsha	-2086
-isayo	-2087
-▁condi	-2088
-▁could	-2089
-▁countries	-2090
-lando	-2091
-shana	-2092
-▁then	-2093
-hlolwa	-2094
-qiniso	-2095
-▁bonke	-2096
-▁exper	-2097
-▁isimo	-2098
-▁ngalo	-2099
-▁place	-2100
-thathwa	-2101
-▁another	-2102
-▁programme	-2103
-▁particular	-2104
-cy	-2105
-pri	-2106
-▁Tr	-2107
-angu	-2108
-anti	-2109
-cono	-2110
-mary	-2111
-pend	-2112
-side	-2113
-▁adv	-2114
-ender	-2115
-▁case	-2116
-▁name	-2117
-mandla	-2118
--1	-2119
-isho	-2120
-khan	-2121
-sung	-2122
-yama	-2123
-▁vic	-2124
-▁long	-2125
-▁seku	-2126
-khamuzi	-2127
-yathelo	-2128
-▁kwaman	-2129
-kakhulukazi	-2130
-qh	-2131
-▁Al	-2132
-▁Ar	-2133
-▁nes	-2134
-ators	-2135
-tshwa	-2136
-▁open	-2137
-▁road	-2138
-cwalisa	-2139
-echnolo	-2140
-hlukunye	-2141
-khashana	-2142
-ngenzeka	-2143
-▁further	-2144
-▁provided	-2145
-▁functions	-2146
-ins	-2147
-angi	-2148
-itor	-2149
-wadi	-2150
-▁now	-2151
-▁sing	-2152
-abanga	-2153
-tained	-2154
-▁Ngoku	-2155
-qondana	-2156
-▁documents	-2157
-jwa	-2158
-ret	-2159
-▁Cha	-2160
-▁ise	-2161
-kwamu	-2162
-▁Cent	-2163
-▁Comm	-2164
-▁bene	-2165
-▁impa	-2166
-▁inga	-2167
-▁poli	-2168
-fazane	-2169
-atshana	-2170
-khumende	-2171
-▁include	-2172
-▁communities	-2173
-▁La	-2174
-ines	-2175
-read	-2176
-vious	-2177
-zelwa	-2178
-▁Park	-2179
-▁Premi	-2180
-▁kwabo	-2181
-▁health	-2182
-▁company	-2183
-▁izindawo	-2184
-phakathini	-2185
-In	-2186
-Re	-2187
-kes	-2188
-kthi	-2189
-tivi	-2190
-▁exc	-2191
-▁copy	-2192
-▁fore	-2193
-▁labo	-2194
-uation	-2195
-▁conduc	-2196
-tivities	-2197
-▁present	-2198
-▁sikhathi	-2199
-gomo	-2200
-oper	-2201
-qoka	-2202
-ring	-2203
-qashi	-2204
-lution	-2205
-ombolo	-2206
-▁major	-2207
-▁taken	-2208
-ination	-2209
-phathwa	-2210
-vention	-2211
-▁integr	-2212
-▁protec	-2213
-▁rights	-2214
-jwayelekile	-2215
-▁registered	-2216
-▁ikakhulukazi	-2217
-not	-2218
-beke	-2219
-chwe	-2220
-▁lab	-2221
-▁sim	-2222
-matic	-2223
-▁ngal	-2224
-bility	-2225
-elwane	-2226
-▁impro	-2227
-▁okung	-2228
-▁resid	-2229
-zingeni	-2230
-ace	-2231
-yed	-2232
-vate	-2233
-vent	-2234
-zisi	-2235
-phuma	-2236
-▁nobu	-2237
-shesha	-2238
-▁allow	-2239
-▁because	-2240
-▁impahla	-2241
-▁licence	-2242
-velopment	-2243
-▁kwabantu	-2244
-sp	-2245
-▁6	-2246
-abu	-2247
-apa	-2248
-ood	-2249
-tham	-2250
-▁end	-2251
-▁say	-2252
-manje	-2253
-ustry	-2254
-▁meas	-2255
-▁same	-2256
-▁abanga	-2257
-kwel	-2258
-zimo	-2259
-khali	-2260
-terial	-2261
-tively	-2262
-▁indic	-2263
-thuthukisa	-2264
-▁authority	-2265
-▁resources	-2266
-▁activities	-2267
-erg	-2268
-ual	-2269
-umi	-2270
-ando	-2271
-udge	-2272
-▁hol	-2273
-gcwal	-2274
-zathu	-2275
-phakam	-2276
-▁nezinye	-2277
-Se	-2278
-ron	-2279
-▁awa	-2280
-ately	-2281
-fairs	-2282
-▁kwin	-2283
-jekthi	-2284
-▁incre	-2285
-▁yezin	-2286
-▁amalungu	-2287
-▁administr	-2288
-angaphandle	-2289
-▁amaphoyisa	-2290
-▁sesifundazwe	-2291
-fy	-2292
-fes	-2293
-jab	-2294
-vus	-2295
-come	-2296
-lulo	-2297
-▁ezo	-2298
-▁sti	-2299
-cated	-2300
-dunan	-2301
-qondo	-2302
-tures	-2303
-ording	-2304
-sukela	-2305
-▁Kodwa	-2306
-▁crime	-2307
-▁enter	-2308
-▁found	-2309
-▁nokun	-2310
-▁sakho	-2311
-khuluma	-2312
-▁Deputy	-2313
-▁training	-2314
-▁emhlabeni	-2315
-▁department	-2316
-▁umphakathi	-2317
-Ma	-2318
-amu	-2319
-thw	-2320
-tle	-2321
-▁Do	-2322
-▁sk	-2323
-ises	-2324
-istic	-2325
-▁curr	-2326
-▁emin	-2327
-khokha	-2328
-xazulu	-2329
-ability	-2330
-▁respect	-2331
-▁specific	-2332
-ininingwane	-2333
-ton	-2334
-bani	-2335
-jini	-2336
-khwa	-2337
-lete	-2338
-zamo	-2339
-▁fam	-2340
-chaza	-2341
-▁kuba	-2342
-hambis	-2343
-▁compla	-2344
-▁Ad	-2345
-▁Ag	-2346
-less	-2347
-uphi	-2348
-zali	-2349
-▁200	-2350
-khiwe	-2351
-▁deta	-2352
-▁kwal	-2353
-▁wezi	-2354
-▁wuku	-2355
-fanayo	-2356
-▁Offic	-2357
-▁ngoba	-2358
-▁power	-2359
-▁cannot	-2360
-andelayo	-2361
-▁continu	-2362
-▁various	-2363
-dunankulu	-2364
-br	-2365
-ob	-2366
-qwa	-2367
-▁Be	-2368
-▁Or	-2369
-ests	-2370
-sive	-2371
-▁And	-2372
-▁Imi	-2373
-▁med	-2374
-▁sin	-2375
-dleko	-2376
-hluku	-2377
-▁grow	-2378
-hlukan	-2379
-yalelo	-2380
-▁esing	-2381
-▁matter	-2382
-▁particip	-2383
-bandakanya	-2384
-▁necessary	-2385
-▁0	-2386
-fac	-2387
-ork	-2388
-rea	-2389
-balo	-2390
-burg	-2391
-kana	-2392
-ulwe	-2393
-▁yes	-2394
-buyis	-2395
-jects	-2396
-mboni	-2397
-ombuso	-2398
-ulation	-2399
-▁perman	-2400
-▁policy	-2401
-khathini	-2402
-▁ababili	-2403
-▁kukhona	-2404
-▁special	-2405
-▁izindlela	-2406
-vil	-2407
-used	-2408
-inted	-2409
-phend	-2410
-▁When	-2411
-▁kung	-2412
-▁nalo	-2413
-▁zaba	-2414
-khetho	-2415
-▁retur	-2416
-▁appear	-2417
-▁regard	-2418
-▁account	-2419
-▁material	-2420
-bom	-2421
-ike	-2422
-rid	-2423
-orts	-2424
-▁did	-2425
-▁war	-2426
-aling	-2427
-ption	-2428
-▁dele	-2429
-▁down	-2430
-idlalo	-2431
-▁Afrikha	-2432
-▁Premier	-2433
-▁parties	-2434
-▁sokuthi	-2435
-esifazane	-2436
-▁ubufakazi	-2437
-erc	-2438
-imba	-2439
-▁uya	-2440
-bizwa	-2441
-gcwele	-2442
-▁Njeng	-2443
-▁ndawo	-2444
-rojekthi	-2445
-▁control	-2446
-▁nokuthi	-2447
-▁yimuphi	-2448
-▁Director	-2449
-▁previous	-2450
-hie	-2451
-hwa	-2452
-▁wu	-2453
-biko	-2454
-phik	-2455
-unge	-2456
-▁men	-2457
-bhala	-2458
-fakwa	-2459
-hlela	-2460
-minal	-2461
-tives	-2462
-▁life	-2463
-▁nabo	-2464
-gether	-2465
-khumbi	-2466
-thinte	-2467
-▁means	-2468
-bhalisa	-2469
-session	-2470
-▁Fakela	-2471
-▁ukunga	-2472
-▁complete	-2473
-Ndunankulu	-2474
-dy	-2475
-▁fi	-2476
-ills	-2477
-rial	-2478
-hloko	-2479
-urban	-2480
-▁ques	-2481
-▁yaba	-2482
-tshalo	-2483
-lungelo	-2484
-▁alleged	-2485
-▁efanele	-2486
-▁foreign	-2487
-▁project	-2488
-▁function	-2489
-▁izinsuku	-2490
-▁komthetho	-2491
-▁Amaphoyisa	-2492
-▁Q	-2493
-gci	-2494
-gum	-2495
-orm	-2496
-vam	-2497
-cept	-2498
-holo	-2499
-unda	-2500
-xoxo	-2501
-eleka	-2502
-wever	-2503
-▁isit	-2504
-cribed	-2505
-▁contr	-2506
-▁forms	-2507
-▁okwen	-2508
-▁resul	-2509
-▁ukung	-2510
-▁associ	-2511
-▁proced	-2512
-kwakhiwa	-2513
-dokhumende	-2514
-▁7	-2515
-els	-2516
-kol	-2517
-▁At	-2518
-olen	-2519
-orth	-2520
-tors	-2521
-▁usu	-2522
-cwadi	-2523
-kethe	-2524
-venue	-2525
-▁cour	-2526
-▁broad	-2527
-ikelele	-2528
-yisensi	-2529
-Thekwini	-2530
-▁private	-2531
-finyelela	-2532
-▁constitution	-2533
-mn	-2534
-ends	-2535
-hief	-2536
-ship	-2537
-▁cha	-2538
-iseni	-2539
-kahle	-2540
-▁five	-2541
-ombili	-2542
-ulture	-2543
-▁ngaba	-2544
-alities	-2545
-Hulumeni	-2546
-gatshana	-2547
-▁permanent	-2548
-▁political	-2549
-▁ngokushesha	-2550
-Si	-2551
-ono	-2552
-▁imm	-2553
-gical	-2554
-▁medi	-2555
-▁proble	-2556
-shintsha	-2557
-▁Complete	-2558
-▁Gcwalisa	-2559
-▁njengoku	-2560
-▁education	-2561
-thuthukiswa	-2562
-▁subsection	-2563
-▁Ba	-2564
-illi	-2565
-phuc	-2566
-▁ado	-2567
-▁iza	-2568
-▁lim	-2569
-acity	-2570
-ights	-2571
-ulela	-2572
-▁izwe	-2573
-▁posi	-2574
-▁rema	-2575
-▁role	-2576
-▁kwemi	-2577
-esearch	-2578
-zingane	-2579
-▁njengo	-2580
-▁contribu	-2581
-▁kwenziwe	-2582
-ug	-2583
-ras	-2584
-entu	-2585
-rime	-2586
-▁ayi	-2587
-anoma	-2588
-▁care	-2589
-▁kula	-2590
-bonelo	-2591
-boshwa	-2592
-isting	-2593
-▁achie	-2594
-▁trade	-2595
-zindaba	-2596
-▁Municip	-2597
-▁property	-2598
-chwepheshe	-2599
-▁financial	-2600
-▁important	-2601
-▁relations	-2602
-kwesi	-2603
-tathu	-2604
-zenzo	-2605
-▁help	-2606
-▁lama	-2607
-▁naku	-2608
-▁writ	-2609
-▁appli	-2610
-▁least	-2611
-▁waste	-2612
-bhekana	-2613
-▁Submit	-2614
-▁Uhlelo	-2615
-▁stolen	-2616
-▁izimoto	-2617
-echnology	-2618
-▁building	-2619
-▁continue	-2620
-▁ukuthola	-2621
-▁conditions	-2622
-▁ngaphakathi	-2623
-▁ay	-2624
-ator	-2625
-fika	-2626
-zima	-2627
-▁him	-2628
-▁whe	-2629
-▁esin	-2630
-▁ezis	-2631
-▁nawe	-2632
-▁read	-2633
-▁zabo	-2634
-▁yethu	-2635
-thumela	-2636
-▁months	-2637
-▁society	-2638
-▁approach	-2639
-ats	-2640
-bus	-2641
-oth	-2642
-noma	-2643
-tand	-2644
-vele	-2645
-▁enc	-2646
-▁get	-2647
-wards	-2648
-▁past	-2649
-▁zizo	-2650
-▁banga	-2651
-▁party	-2652
-▁Kumele	-2653
-▁ngcono	-2654
-semthethweni	-2655
-▁wesifundazwe	-2656
-▁'	-2657
-lan	-2658
-uch	-2659
-ceed	-2660
-eter	-2661
-ithu	-2662
-wulo	-2663
-▁addi	-2664
-▁babe	-2665
-▁bama	-2666
-▁laba	-2667
-▁lowo	-2668
-▁initi	-2669
-vimbela	-2670
-▁accord	-2671
-fication	-2672
-▁Affairs	-2673
-▁payment	-2674
-andlululo	-2675
-▁different	-2676
-▁maqondana	-2677
-▁ngokulandela	-2678
-Ri	-2679
-eld	-2680
-tes	-2681
-▁Oku	-2682
-▁bod	-2683
-▁ibe	-2684
-▁pat	-2685
-▁sol	-2686
-South	-2687
-inary	-2688
-phila	-2689
-Sekela	-2690
-atives	-2691
-idence	-2692
-themba	-2693
-▁kwabe	-2694
-▁kwalo	-2695
-▁motor	-2696
-▁naman	-2697
-▁peace	-2698
-▁ukuzi	-2699
-▁centre	-2700
-▁success	-2701
-▁appropri	-2702
-▁established	-2703
-jo	-2704
-ns	-2705
-ash	-2706
-ards	-2707
-ming	-2708
-ulti	-2709
-zeni	-2710
-ffici	-2711
-zinda	-2712
-▁remo	-2713
-elelwe	-2714
-tified	-2715
-▁colle	-2716
-versity	-2717
-▁effect	-2718
-▁applicant	-2719
-▁possession	-2720
-kla	-2721
-pol	-2722
-rac	-2723
-▁30	-2724
-▁nal	-2725
-▁sto	-2726
-▁back	-2727
-▁data	-2728
-▁sizo	-2729
-▁group	-2730
-▁inani	-2731
-▁Durban	-2732
-▁involved	-2733
-▁executive	-2734
-abin	-2735
-vuma	-2736
-bamba	-2737
-ially	-2738
-▁zing	-2739
-▁chall	-2740
-▁democ	-2741
-▁zezin	-2742
-General	-2743
-Nkantolo	-2744
-▁Executive	-2745
-cu	-2746
-holi	-2747
-ough	-2748
-▁kus	-2749
-▁stu	-2750
-anisa	-2751
-phele	-2752
-tters	-2753
-zimoto	-2754
-▁exerc	-2755
-▁still	-2756
-▁visit	-2757
-▁experi	-2758
-▁ezinye	-2759
-▁ngakho	-2760
-▁capacity	-2761
-▁election	-2762
-▁lesicelo	-2763
-▁together	-2764
-bun	-2765
-gwe	-2766
-hli	-2767
-uka	-2768
-inda	-2769
-▁cam	-2770
-▁kuy	-2771
-acted	-2772
-thela	-2773
-▁week	-2774
-estern	-2775
-khanka	-2776
-▁every	-2777
-▁kusho	-2778
-▁kubantu	-2779
-▁possible	-2780
-▁received	-2781
-▁responsible	-2782
-gs	-2783
-odi	-2784
-una	-2785
-▁ci	-2786
-▁mi	-2787
-▁ty	-2788
-didi	-2789
-erve	-2790
-then	-2791
-▁air	-2792
-▁ear	-2793
-▁har	-2794
-▁ukw	-2795
-cingo	-2796
-ested	-2797
-isedu	-2798
-thing	-2799
-▁home	-2800
-▁post	-2801
-▁prin	-2802
-▁want	-2803
-▁yabo	-2804
-▁zesi	-2805
-ending	-2806
-▁struc	-2807
-fession	-2808
-▁provisi	-2809
-▁delivery	-2810
-▁industry	-2811
-▁facilities	-2812
-ia	-2813
-nd	-2814
-rge	-2815
-▁bi	-2816
-bene	-2817
-berg	-2818
-pula	-2819
-xusa	-2820
-▁aim	-2821
-hluka	-2822
-mbiko	-2823
-shiwo	-2824
-▁agre	-2825
-▁does	-2826
-▁full	-2827
-▁sezi	-2828
-abinet	-2829
-▁among	-2830
-▁Commit	-2831
-hlangana	-2832
-▁abaningi	-2833
-▁includes	-2834
-▁emthethweni	-2835
-▁isitifikedi	-2836
-ola	-2837
-▁Ho	-2838
-ekho	-2839
-igwa	-2840
-▁Res	-2841
-▁iya	-2842
-alisa	-2843
-fakwe	-2844
-▁City	-2845
-zekile	-2846
-▁chang	-2847
-▁incid	-2848
-▁ngemp	-2849
-▁zinga	-2850
-zempilo	-2851
-▁Centre	-2852
-▁abanye	-2853
-▁intela	-2854
-lungiswa	-2855
-zomnotho	-2856
-▁natural	-2857
-▁whether	-2858
-entuthuko	-2859
-▁Abasolwa	-2860
-▁wesicelo	-2861
-▁Uhulumeni	-2862
-use	-2863
-▁oth	-2864
-anies	-2865
-benza	-2866
-▁beli	-2867
-▁kwes	-2868
-▁nale	-2869
-hlango	-2870
-▁lethu	-2871
-▁yakhe	-2872
-▁result	-2873
-bonakala	-2874
-▁okungen	-2875
-bambisana	-2876
-▁ilungelo	-2877
-▁completed	-2878
-▁programmes	-2879
-000	-2880
-edu	-2881
-zol	-2882
-▁BI	-2883
-wers	-2884
-▁che	-2885
-▁ori	-2886
-▁zen	-2887
-Funda	-2888
-iling	-2889
-kheni	-2890
-khuba	-2891
-▁SAPS	-2892
-▁ezim	-2893
-▁next	-2894
-ayensi	-2895
-▁given	-2896
-itation	-2897
-▁esinga	-2898
-▁robber	-2899
-khokhela	-2900
-truction	-2901
-▁Cabinet	-2902
-▁incwadi	-2903
-▁schools	-2904
-▁subject	-2905
-▁umhlaba	-2906
-thunyelwa	-2907
-▁ehhovisi	-2908
-▁imithetho	-2909
-▁izinhlelo	-2910
-▁accordance	-2911
-▁eliphezulu	-2912
-▁Commissioner	-2913
-AT	-2914
-NC	-2915
-hed	-2916
-oms	-2917
-viv	-2918
-▁Su	-2919
-▁sm	-2920
-amba	-2921
-kisi	-2922
-line	-2923
-reen	-2924
-ward	-2925
-▁mas	-2926
-kithi	-2927
-zinye	-2928
-▁bezi	-2929
-▁basis	-2930
-▁nokwe	-2931
-▁while	-2932
-hlukume	-2933
-shayela	-2934
-stances	-2935
-cwaningo	-2936
-poration	-2937
-xoxisana	-2938
-▁economy	-2939
-▁station	-2940
-▁Umthetho	-2941
-▁responsi	-2942
-▁kwesikhathi	-2943
-▁zikahulumeni	-2944
-uza	-2945
-andi	-2946
-▁Kun	-2947
-▁Man	-2948
-▁azi	-2949
-▁azo	-2950
-▁bes	-2951
-▁old	-2952
-bhuku	-2953
-bophe	-2954
-▁Bill	-2955
-▁engu	-2956
-▁sent	-2957
-▁yizi	-2958
-bekiwe	-2959
-overty	-2960
-▁clear	-2961
-▁gener	-2962
-vakashi	-2963
-▁change	-2964
-▁letter	-2965
-▁certain	-2966
-▁meeting	-2967
-▁working	-2968
-▁identity	-2969
-▁Development	-2970
-cac	-2971
-gqe	-2972
-kale	-2973
-meme	-2974
-tshe	-2975
-▁bir	-2976
-▁dra	-2977
-▁rac	-2978
-▁sig	-2979
-alest	-2980
-bopho	-2981
-dlini	-2982
-gekho	-2983
-▁High	-2984
-▁Road	-2985
-▁nang	-2986
-ishini	-2987
-▁ezise	-2988
-▁Health	-2989
-▁action	-2990
-▁firearm	-2991
-▁amaningi	-2992
-▁approved	-2993
-Khomishana	-2994
-pi	-2995
-wun	-2996
-▁Sc	-2997
-arge	-2998
-sese	-2999
-usto	-3000
-wala	-3001
-zele	-3002
-▁Mem	-3003
-▁bal	-3004
-▁see	-3005
-▁Cont	-3006
-▁Town	-3007
-▁ange	-3008
-▁anim	-3009
-▁ngqo	-3010
-▁reli	-3011
-▁tour	-3012
-bulala	-3013
-ission	-3014
-khethe	-3015
-thombe	-3016
-▁objec	-3017
-▁reason	-3018
-laration	-3019
-vunyelwe	-3020
-▁individ	-3021
-▁investig	-3022
-▁enkantolo	-3023
-▁requirements	-3024
--3	-3025
-eal	-3026
-ris	-3027
-▁10	-3028
-lack	-3029
-lima	-3030
-▁glo	-3031
-▁spe	-3032
-ready	-3033
-▁free	-3034
-▁held	-3035
-▁inde	-3036
-ically	-3037
-olence	-3038
-▁Chief	-3039
-▁benef	-3040
-▁eling	-3041
-▁emerg	-3042
-▁issue	-3043
-▁lonke	-3044
-▁multi	-3045
-▁muntu	-3046
-ithupha	-3047
-thunywa	-3048
-▁confir	-3049
-▁issues	-3050
-▁persons	-3051
-▁amathuba	-3052
-▁izidingo	-3053
-▁okukhulu	-3054
-▁ezehlukene	-3055
-▁kungenzeka	-3056
-yc	-3057
-▁5	-3058
-asa	-3059
-cas	-3060
-ony	-3061
-▁er	-3062
-abal	-3063
-loye	-3064
-▁Any	-3065
-▁aye	-3066
-▁sci	-3067
-▁vac	-3068
-hlisa	-3069
-▁enti	-3070
-▁last	-3071
-▁team	-3072
-▁wish	-3073
-wandle	-3074
-▁based	-3075
-▁categ	-3076
-▁invest	-3077
-▁izinga	-3078
-▁omunye	-3079
-khankaso	-3080
-▁izimali	-3081
-▁isinqumo	-3082
-▁marriage	-3083
-phrojekthi	-3084
-▁Registrar	-3085
-▁ezintathu	-3086
-com	-3087
-uqu	-3088
-ably	-3089
-ands	-3090
-bela	-3091
-oney	-3092
-ules	-3093
-vula	-3094
-▁May	-3095
-▁ela	-3096
-▁pot	-3097
-qweni	-3098
-theid	-3099
-yiphi	-3100
-▁SARS	-3101
-▁dist	-3102
-▁give	-3103
-hlanzi	-3104
-▁icala	-3105
-▁legal	-3106
-▁needs	-3107
-▁regar	-3108
-chedule	-3109
-▁review	-3110
-▁already	-3111
-▁ezifana	-3112
-titutions	-3113
-▁Services	-3114
-▁izindaba	-3115
-gqugquzela	-3116
-yisithupha	-3117
-▁uhulumeni	-3118
-ict	-3119
-zam	-3120
-▁fu	-3121
-bhed	-3122
-duce	-3123
-kani	-3124
-mizi	-3125
-qale	-3126
-yeka	-3127
-▁emb	-3128
-ample	-3129
-bheni	-3130
-zalwa	-3131
-▁amas	-3132
-▁appo	-3133
-inated	-3134
-lawula	-3135
-qinisa	-3136
-▁large	-3137
-▁Public	-3138
-▁family	-3139
-▁inqubo	-3140
-▁medical	-3141
-▁omkhulu	-3142
-▁referred	-3143
-▁kwezimali	-3144
-▁uMkhandlu	-3145
-▁prescribed	-3146
-▁profession	-3147
-▁Ngesikhathi	-3148
-▁emphakathini	-3149
-▁opportunities	-3150
-gen	-3151
-ora	-3152
-▁Li	-3153
-guqu	-3154
-veza	-3155
-▁ben	-3156
-▁cir	-3157
-qhamu	-3158
-▁hous	-3159
-▁mini	-3160
-antshi	-3161
-fakela	-3162
-▁Abantu	-3163
-dlelwane	-3164
-▁quality	-3165
-khokhelwa	-3166
-▁ezithile	-3167
-▁abasebenzi	-3168
-ink	-3169
-▁Co	-3170
-▁UN	-3171
-ater	-3172
-ciph	-3173
-diza	-3174
-jani	-3175
-koku	-3176
-osha	-3177
-aries	-3178
-inten	-3179
-khomp	-3180
-kwela	-3181
-osuku	-3182
-unywa	-3183
-▁waba	-3184
-overed	-3185
-▁death	-3186
-▁kwayo	-3187
-▁wethu	-3188
-▁women	-3189
-thelela	-3190
-▁ngokom	-3191
-mayelana	-3192
-▁appoint	-3193
-▁nokunga	-3194
-▁Amalungu	-3195
-▁learners	-3196
-hlalakahle	-3197
-▁appropriate	-3198
-▁nemisebenzi	-3199
-ne	-3200
-▁(	-3201
-ank	-3202
-buk	-3203
-ery	-3204
-▁Kw	-3205
-▁eP	-3206
-▁vo	-3207
-pers	-3208
-ufac	-3209
-uswa	-3210
-▁sen	-3211
-▁wen	-3212
-Ripha	-3213
-▁head	-3214
-▁here	-3215
-▁kwam	-3216
-▁less	-3217
-▁rene	-3218
-▁ukus	-3219
-khwama	-3220
-zimele	-3221
-▁great	-3222
-▁ngoko	-3223
-▁proof	-3224
-lawulwa	-3225
-spector	-3226
-▁amanzi	-3227
-▁histor	-3228
-▁regula	-3229
-Fundazwe	-3230
-▁nearest	-3231
-▁princip	-3232
-▁request	-3233
-▁yeningi	-3234
-intenance	-3235
-▁criminal	-3236
-▁Committee	-3237
-▁municipality	-3238
-▁imininingwane	-3239
-bhu	-3240
-buc	-3241
-eds	-3242
-ick	-3243
-pay	-3244
-▁ur	-3245
-▁000	-3246
-▁due	-3247
-▁eye	-3248
-▁mod	-3249
-▁ses	-3250
-bonga	-3251
-▁allo	-3252
-▁just	-3253
-▁view	-3254
-ensive	-3255
-khutha	-3256
-thulwa	-3257
-hlukile	-3258
-website	-3259
-onalanga	-3260
-▁amacala	-3261
-▁contain	-3262
-▁employe	-3263
-▁prevent	-3264
-RC	-3265
-bwe	-3266
-chi	-3267
-lim	-3268
-▁Em	-3269
-▁Ye	-3270
-▁jo	-3271
-cies	-3272
-daka	-3273
-onto	-3274
-shin	-3275
-▁ine	-3276
-▁ohl	-3277
-▁ple	-3278
-▁ube	-3279
-▁umb	-3280
-eleke	-3281
-ously	-3282
-ercial	-3283
-komidi	-3284
-phenyo	-3285
-▁Crime	-3286
-▁ngemi	-3287
-gations	-3288
-khiqiza	-3289
-▁around	-3290
-▁imvume	-3291
-▁kwemin	-3292
-▁second	-3293
-▁contact	-3294
-▁poverty	-3295
-hlangothi	-3296
-▁kwamanye	-3297
-▁partners	-3298
-▁provision	-3299
-ici	-3300
-fake	-3301
-omba	-3302
-poti	-3303
-reet	-3304
-tual	-3305
-zise	-3306
-▁Aku	-3307
-▁nab	-3308
-▁six	-3309
-▁wel	-3310
-ategy	-3311
-atsha	-3312
-hlazi	-3313
-qhube	-3314
-yutha	-3315
-zimba	-3316
-▁done	-3317
-kotela	-3318
-vikele	-3319
-vumela	-3320
-yakeni	-3321
-▁goods	-3322
-▁igama	-3323
-▁prior	-3324
-▁small	-3325
-▁targe	-3326
-▁ukuya	-3327
-▁valid	-3328
-▁wakhe	-3329
-khalazo	-3330
-▁assess	-3331
-▁njenga	-3332
-atimende	-3333
-▁umsolwa	-3334
-▁kwenziwa	-3335
-bandlululo	-3336
-▁submitted	-3337
-ami	-3338
-hab	-3339
-lus	-3340
-▁21	-3341
-▁Sa	-3342
-etro	-3343
-ishe	-3344
-tein	-3345
-▁Ngu	-3346
-▁bom	-3347
-▁pho	-3348
-cinde	-3349
-icela	-3350
-teral	-3351
-▁come	-3352
-▁nazo	-3353
-▁took	-3354
-bucayi	-3355
-vision	-3356
-▁affec	-3357
-▁custo	-3358
-▁media	-3359
-▁money	-3360
-▁occur	-3361
-imbabwe	-3362
-khamizi	-3363
-partheid	-3364
-▁monitor	-3365
-▁vehicles	-3366
-hlukunyezwa	-3367
-pt	-3368
-▁8	-3369
-andl	-3370
-ches	-3371
-qeda	-3372
-yoni	-3373
-▁Uni	-3374
-▁ebu	-3375
-▁how	-3376
-▁les	-3377
-▁ose	-3378
-▁ste	-3379
-aliwe	-3380
-eseka	-3381
-ither	-3382
-poses	-3383
-zinto	-3384
-▁deal	-3385
-▁even	-3386
-▁mana	-3387
-▁nala	-3388
-▁reco	-3389
-▁star	-3390
-elling	-3391
-heduli	-3392
-▁belie	-3393
-▁expec	-3394
-▁force	-3395
-hlukana	-3396
-ngenisa	-3397
-▁amount	-3398
-▁Western	-3399
-▁conflic	-3400
-▁consult	-3401
-▁website	-3402
-▁Provincial	-3403
-▁maintenance	-3404
-fuc	-3405
-▁Wa	-3406
-biwe	-3407
-bono	-3408
-cike	-3409
-ened	-3410
-iled	-3411
-▁ikh	-3412
-▁pop	-3413
-▁yil	-3414
-atory	-3415
-bekwa	-3416
-bhine	-3417
-gwaqo	-3418
-letha	-3419
-mizwa	-3420
-zelwe	-3421
-▁luka	-3422
-▁once	-3423
-▁vess	-3424
-▁weze	-3425
-isweni	-3426
-phazam	-3427
-usazwe	-3428
-▁armed	-3429
-▁birth	-3430
-▁plant	-3431
-▁udaba	-3432
-▁value	-3433
-▁young	-3434
-▁kunoma	-3435
-▁Revenue	-3436
-▁fishing	-3437
-▁Schedule	-3438
-▁evidence	-3439
-▁products	-3440
-▁research	-3441
-▁determined	-3442
-▁okulandelayo	-3443
-ca	-3444
-ju	-3445
-ws	-3446
-lin	-3447
-▁sy	-3448
-brea	-3449
-fety	-3450
-keti	-3451
-kwes	-3452
-pped	-3453
-▁isa	-3454
-hloni	-3455
-itiki	-3456
-paign	-3457
-pheli	-3458
-▁ethi	-3459
-▁farm	-3460
-▁waye	-3461
-bhalwe	-3462
-itable	-3463
-phinda	-3464
-vakash	-3465
-▁quali	-3466
-▁sever	-3467
-hluleka	-3468
-▁kuleli	-3469
-▁skills	-3470
-▁sokuba	-3471
-▁status	-3472
-▁organis	-3473
-▁underta	-3474
-formation	-3475
-▁projects	-3476
-▁purposes	-3477
-▁statement	-3478
-▁transport	-3479
-▁institutions	-3480
-CC	-3481
-by	-3482
-her	-3483
-acts	-3484
-hola	-3485
-lomo	-3486
-onga	-3487
-pawu	-3488
-ziso	-3489
-▁age	-3490
-▁asi	-3491
-▁esa	-3492
-▁lit	-3493
-ilisa	-3494
-isted	-3495
-qubom	-3496
-tices	-3497
-ville	-3498
-▁cost	-3499
-▁dise	-3500
-▁food	-3501
-▁item	-3502
-▁leso	-3503
-mazisi	-3504
-▁coast	-3505
-▁konke	-3506
-▁kwale	-3507
-▁promo	-3508
-▁today	-3509
-Mthetho	-3510
-rastruc	-3511
-▁direct	-3512
-▁kwakhe	-3513
-▁origin	-3514
-hlangabe	-3515
-▁kokuthi	-3516
-▁manufac	-3517
-▁nendawo	-3518
-▁zabantu	-3519
-▁Njengoba	-3520
-▁citizens	-3521
-▁interest	-3522
-▁kusukela	-3523
--2	-3524
-fon	-3525
-ley	-3526
-mer	-3527
-ume	-3528
-▁12	-3529
-▁Bo	-3530
-▁Dr	-3531
-▁fr	-3532
-cing	-3533
-game	-3534
-ides	-3535
-nown	-3536
-olon	-3537
-yini	-3538
-▁Ubu	-3539
-bambe	-3540
-bhuli	-3541
-ndeni	-3542
-▁uMnu	-3543
-▁yalo	-3544
-▁ziya	-3545
-kulung	-3546
-thanda	-3547
-▁State	-3548
-▁close	-3549
-▁deleg	-3550
-▁izimo	-3551
-▁photo	-3552
-amandla	-3553
-bhekene	-3554
-vakasha	-3555
-▁kulesi	-3556
-politiki	-3557
-▁However	-3558
-▁njengom	-3559
-▁promote	-3560
-▁traffic	-3561
-dakamizwa	-3562
-ombusazwe	-3563
-▁esikhulu	-3564
-▁regional	-3565
-▁situation	-3566
-na	-3567
-ues	-3568
-uro	-3569
-yab	-3570
-▁Na	-3571
-▁eB	-3572
-SARS	-3573
-atal	-3574
-fisa	-3575
-pasi	-3576
-saka	-3577
-ured	-3578
-uses	-3579
-ways	-3580
-yiwe	-3581
-zuzo	-3582
-▁foc	-3583
-dlule	-3584
-hleli	-3585
-isile	-3586
-zange	-3587
-▁body	-3588
-abanye	-3589
-aniswa	-3590
-hlophe	-3591
-▁cases	-3592
-▁ngazo	-3593
-▁usizo	-3594
-yisense	-3595
-▁threat	-3596
-angasese	-3597
-▁sustain	-3598
-operation	-3599
-▁iminyaka	-3600
-▁question	-3601
-▁appointed	-3602
-▁performan	-3603
-▁yokuhlala	-3604
-sebenzisana	-3605
-▁okungenani	-3606
-▁ukusetshenziswa	-3607
-cwe	-3608
-ino	-3609
-▁ke	-3610
-hiwe	-3611
-qubu	-3612
-sing	-3613
-wayo	-3614
-zile	-3615
-▁Ind	-3616
-▁Mar	-3617
-▁Ums	-3618
-▁lea	-3619
-▁ozo	-3620
-▁phe	-3621
-▁rem	-3622
-alung	-3623
-phezu	-3624
-▁city	-3625
-▁esis	-3626
-▁kuwo	-3627
-▁kuze	-3628
-entsha	-3629
-fucuza	-3630
-isters	-3631
-khawun	-3632
-▁singa	-3633
-▁zethu	-3634
-ciphisa	-3635
-▁Intern	-3636
-▁become	-3637
-▁recomm	-3638
-▁ukudla	-3639
-▁general	-3640
-▁justice	-3641
-dingekayo	-3642
-▁allegedly	-3643
-▁ukuqinisekisa	-3644
-sc	-3645
-emu	-3646
-ghl	-3647
-oya	-3648
-▁Ab	-3649
-Kapa	-3650
-ancy	-3651
-biza	-3652
-kets	-3653
-ones	-3654
-shay	-3655
-▁Cer	-3656
-▁She	-3657
-▁bre	-3658
-▁sal	-3659
-arian	-3660
-ories	-3661
-▁naye	-3662
-▁poor	-3663
-▁ukum	-3664
-igwaqo	-3665
-mayini	-3666
-nikazi	-3667
-nikeza	-3668
-▁Agric	-3669
-▁Ukuze	-3670
-▁abang	-3671
-▁ezine	-3672
-▁treat	-3673
-▁wakho	-3674
-bhuliki	-3675
-fakelwa	-3676
-▁Rights	-3677
-Masipala	-3678
-bhedlela	-3679
-hlangene	-3680
-▁officer	-3681
-qubomgomo	-3682
-▁measures	-3683
-▁effective	-3684
-▁emergency	-3685
-▁therefore	-3686
-▁assistance	-3687
-▁waseNingizimu	-3688
-▁administration	-3689
-50	-3690
-IS	-3691
-yd	-3692
-bum	-3693
-eks	-3694
-ages	-3695
-cint	-3696
-keli	-3697
-ours	-3698
-yeni	-3699
-▁cho	-3700
-▁tri	-3701
-▁wes	-3702
-▁win	-3703
-aneni	-3704
-jiswa	-3705
-▁ngas	-3706
-▁unom	-3707
-alunga	-3708
-ishumi	-3709
-qinise	-3710
-▁agric	-3711
-▁eside	-3712
-▁imoto	-3713
-▁lwama	-3714
-▁okuyi	-3715
-▁short	-3716
-entando	-3717
-lungisa	-3718
-▁common	-3719
-▁immedi	-3720
-▁nature	-3721
-▁unders	-3722
-khakheni	-3723
-▁details	-3724
-▁kanjani	-3725
-▁related	-3726
-hlinzekwa	-3727
-kwamukela	-3728
-phakamiso	-3729
-▁Africans	-3730
-▁campaign	-3731
-▁decision	-3732
-▁violence	-3733
-tshenziswe	-3734
-▁applicable	-3735
-▁ngumthetho	-3736
-▁investigation	-3737
-DP	-3738
-▁9	-3739
-ral	-3740
-▁uN	-3741
-bika	-3742
-cela	-3743
-gula	-3744
-xolo	-3745
-▁awu	-3746
-▁few	-3747
-▁ila	-3748
-aster	-3749
-based	-3750
-fully	-3751
-inywa	-3752
-thoko	-3753
-uquko	-3754
-▁beku	-3755
-▁esit	-3756
-enzeka	-3757
-khetha	-3758
-▁basic	-3759
-▁offer	-3760
-▁separ	-3761
-▁subst	-3762
-fontein	-3763
-hlobene	-3764
-sungula	-3765
-▁amanye	-3766
-▁discus	-3767
-▁either	-3768
-▁naseku	-3769
-▁nezing	-3770
-breaking	-3771
-kululeko	-3772
-ological	-3773
-▁capital	-3774
-▁elisedu	-3775
-▁yokuthi	-3776
-▁passport	-3777
-cumstances	-3778
-▁production	-3779
-Riphabhuliki	-3780
-▁kwemisebenzi	-3781
-▁ukusebenzisa	-3782
-▁environmental	-3783
-bel	-3784
-▁eS	-3785
-doda	-3786
-engo	-3787
-keme	-3788
-kolo	-3789
-tims	-3790
-zobu	-3791
-▁bar	-3792
-▁fee	-3793
-butho	-3794
-inile	-3795
-iting	-3796
-legal	-3797
-▁Supp	-3798
-▁bank	-3799
-▁play	-3800
-anager	-3801
-iliphi	-3802
-thathe	-3803
-zelela	-3804
-▁abase	-3805
-▁ebese	-3806
-▁wathi	-3807
-▁weeks	-3808
-▁growth	-3809
-▁manner	-3810
-▁powers	-3811
-▁return	-3812
-pasipoti	-3813
-▁izicelo	-3814
-▁outside	-3815
-▁results	-3816
-hambisane	-3817
-sebenzini	-3818
-▁challeng	-3819
-▁certified	-3820
-▁samaphoyisa	-3821
-▁wePhalamende	-3822
-ie	-3823
-cks	-3824
-eka	-3825
-ics	-3826
-zwi	-3827
-▁Me	-3828
-▁ul	-3829
-alys	-3830
-dile	-3831
-endo	-3832
-goti	-3833
-hlol	-3834
-meli	-3835
-rect	-3836
-tees	-3837
-voti	-3838
-▁Acc	-3839
-▁But	-3840
-▁One	-3841
-▁put	-3842
-hluko	-3843
-ranch	-3844
-roduc	-3845
-wanga	-3846
-▁laun	-3847
-▁port	-3848
-▁soon	-3849
-bhange	-3850
-gameko	-3851
-idingo	-3852
-ishiya	-3853
-qeqesh	-3854
-▁above	-3855
-▁emgwa	-3856
-▁event	-3857
-▁until	-3858
-ference	-3859
-▁Ngakho	-3860
-▁encour	-3861
-▁levels	-3862
-▁nokuba	-3863
-▁taking	-3864
-▁umbiko	-3865
-khawunti	-3866
-▁elikhulu	-3867
-qinisekise	-3868
-▁Provinces	-3869
-▁amathathu	-3870
-▁operation	-3871
-emthethweni	-3872
-▁infrastruc	-3873
-▁institution	-3874
-▁zaseNingizimu	-3875
-nec	-3876
-orn	-3877
-wed	-3878
-▁Ne	-3879
-bang	-3880
-geke	-3881
-hips	-3882
-qobo	-3883
-▁Rec	-3884
-▁aya	-3885
-▁sum	-3886
-▁tre	-3887
-▁ver	-3888
-asing	-3889
-bheke	-3890
-cimbi	-3891
-ikeza	-3892
-isele	-3893
-phile	-3894
-shaya	-3895
-zansi	-3896
-▁able	-3897
-▁away	-3898
-▁happ	-3899
-▁liqu	-3900
-▁lolu	-3901
-▁reso	-3902
-holela	-3903
-phenya	-3904
-reedom	-3905
-▁evela	-3906
-▁ngokw	-3907
-▁repla	-3908
-▁rules	-3909
-qhamuka	-3910
-thathwe	-3911
-▁angeke	-3912
-▁arrest	-3913
-▁export	-3914
-▁income	-3915
-▁nezoku	-3916
-▁region	-3917
-▁vessel	-3918
-Khabhine	-3919
-fficient	-3920
-▁Justice	-3921
-▁omhlaba	-3922
-Registrar	-3923
-▁komhlaba	-3924
-thintekayo	-3925
-▁isibonelo	-3926
-▁regarding	-3927
-hlanganiswa	-3928
-hlanganyela	-3929
-▁UMongameli	-3930
-▁protection	-3931
-▁declaration	-3932
-she	-3933
-tal	-3934
-▁Ac	-3935
-aded	-3936
-aker	-3937
-bisa	-3938
-bosh	-3939
-cele	-3940
-cula	-3941
-doba	-3942
-hlam	-3943
-icha	-3944
-phom	-3945
-sign	-3946
-▁Pri	-3947
-▁bel	-3948
-▁dru	-3949
-▁fla	-3950
-▁gra	-3951
-ading	-3952
-enior	-3953
-kezwe	-3954
-khasi	-3955
-kuphi	-3956
-pping	-3957
-qhath	-3958
-ratic	-3959
-thern	-3960
-yelwe	-3961
-▁lezo	-3962
-▁olun	-3963
-andisa	-3964
-gcinwa	-3965
-iswano	-3966
-▁bethu	-3967
-▁imith	-3968
-gqekeza	-3969
-▁attemp	-3970
-▁global	-3971
-▁kulabo	-3972
-zinikela	-3973
-▁amafomu	-3974
-▁leaders	-3975
-▁testing	-3976
-phikisana	-3977
-sebenzela	-3978
-▁communic	-3979
-Khomishani	-3980
-khethekile	-3981
-▁according	-3982
-▁agreement	-3983
-▁esibucayi	-3984
-tshonalanga	-3985
-▁corporation	-3986
-▁izinyathelo	-3987
-▁ngokuphelele	-3988
-DF	-3989
-Is	-3990
-kal	-3991
-yim	-3992
-▁Jo	-3993
-▁US	-3994
-▁ef	-3995
-Zulu	-3996
-boni	-3997
-chem	-3998
-ergy	-3999
-pose	-4000
-unzi	-4001
-uter	-4002
-weng	-4003
-▁abu	-4004
-▁bur	-4005
-▁eyo	-4006
-▁key	-4007
-▁pub	-4008
-▁tal	-4009
-anayo	-4010
-elves	-4011
-ities	-4012
-tshwe	-4013
-ziswa	-4014
-▁Kuzo	-4015
-▁Lezi	-4016
-▁Unga	-4017
-▁paid	-4018
-▁rest	-4019
-▁seri	-4020
-▁site	-4021
-olobha	-4022
-▁ezoku	-4023
-▁kwawo	-4024
-▁ngaso	-4025
-pendent	-4026
-zindawo	-4027
-▁energy	-4028
-▁others	-4029
-kwenzeka	-4030
-▁Magistr	-4031
-▁Members	-4032
-▁wendawo	-4033
-bugebengu	-4034
-▁reported	-4035
-▁determine	-4036
-phathimandla	-4037
-▁association	-4038
-▁esikhathini	-4039
-11	-4040
-EC	-4041
-col	-4042
-uts	-4043
-wum	-4044
-▁Ri	-4045
-▁uS	-4046
-bale	-4047
-buli	-4048
-echn	-4049
-▁Tra	-4050
-▁Wor	-4051
-▁far	-4052
-▁ten	-4053
-ledge	-4054
-▁assa	-4055
-▁disa	-4056
-▁hosp	-4057
-▁host	-4058
-▁kwim	-4059
-▁nawo	-4060
-koleni	-4061
-mukele	-4062
-▁direc	-4063
-▁equip	-4064
-▁final	-4065
-▁highl	-4066
-▁manje	-4067
-▁ngale	-4068
-hlasela	-4069
-▁Office	-4070
-▁accomp	-4071
-▁inform	-4072
-▁prepar	-4073
-▁signed	-4074
-tifiketi	-4075
-▁imigomo	-4076
-▁kancane	-4077
-▁nakhona	-4078
-▁parents	-4079
-▁systems	-4080
-▁written	-4081
-▁provides	-4082
-▁continent	-4083
-▁developed	-4084
-▁potential	-4085
-▁reference	-4086
-▁imiphumela	-4087
-▁zomphakathi	-4088
-▁organisation	-4089
-▁responsibility	-4090
-jis	-4091
-men	-4092
-aman	-4093
-enda	-4094
-form	-4095
-hora	-4096
-kisa	-4097
-▁hon	-4098
-Afric	-4099
-inant	-4100
-mweni	-4101
-theni	-4102
-▁Siya	-4103
-▁fill	-4104
-▁kwis	-4105
-▁neng	-4106
-▁thir	-4107
-▁zemi	-4108
-kundla	-4109
-qinile	-4110
-tholwa	-4111
-thutha	-4112
-▁Futhi	-4113
-▁Zonke	-4114
-▁white	-4115
-hlakalo	-4116
-khishwe	-4117
-▁arrang	-4118
-▁labour	-4119
-▁olunga	-4120
-▁kwesimo	-4121
-▁matters	-4122
-▁perform	-4123
-▁species	-4124
-akhawunti	-4125
-▁amaqembu	-4126
-▁exercise	-4127
-▁kwalokho	-4128
-▁okwenziwa	-4129
-▁residence	-4130
-▁emgwaqweni	-4131
-▁loMkhandlu	-4132
-▁njengokusho	-4133
-▁performance	-4134
-▁ukufinyelela	-4135
-▁implementation	-4136
-▁municipalities	-4137
-yn	-4138
-alu	-4139
-ero	-4140
-ler	-4141
-old	-4142
-cent	-4143
-eral	-4144
-icil	-4145
-itsh	-4146
-ondo	-4147
-phoq	-4148
-thol	-4149
-vely	-4150
-zona	-4151
-▁aka	-4152
-▁loc	-4153
-dlala	-4154
-echan	-4155
-iseka	-4156
-ishwa	-4157
-oshwa	-4158
-▁Ngen	-4159
-▁Unit	-4160
-▁West	-4161
-▁dest	-4162
-▁much	-4163
-▁temp	-4164
-▁vote	-4165
-cement	-4166
-gabeni	-4167
-omlomo	-4168
-person	-4169
-▁Apply	-4170
-▁Lapho	-4171
-▁budge	-4172
-▁kwase	-4173
-▁okuzo	-4174
-▁sonke	-4175
-▁think	-4176
-▁future	-4177
-▁kwezwe	-4178
-▁obtain	-4179
-▁supply	-4180
-▁ikhophi	-4181
-▁lokuthi	-4182
-▁reports	-4183
-▁victims	-4184
-▁yiliphi	-4185
-qhubekayo	-4186
-▁jikelele	-4187
-▁concerned	-4188
-▁amalungelo	-4189
-▁ibhizinisi	-4190
-▁amadokhumende	-4191
-▁baseNingizimu	-4192
-iz	-4193
-kt	-4194
-ney	-4195
-rup	-4196
-▁Ta	-4197
-▁eG	-4198
-acks	-4199
-emba	-4200
-ging	-4201
-▁Ang	-4202
-▁Cor	-4203
-▁Lab	-4204
-▁Ngo	-4205
-▁act	-4206
-▁don	-4207
-▁led	-4208
-▁len	-4209
-dlame	-4210
-ember	-4211
-eries	-4212
-ished	-4213
-manzi	-4214
-seshi	-4215
-wonke	-4216
-▁annu	-4217
-▁emba	-4218
-▁ethu	-4219
-▁guar	-4220
-▁kuse	-4221
-▁list	-4222
-▁njen	-4223
-▁zibe	-4224
-igence	-4225
-mukela	-4226
-tioned	-4227
-▁Chair	-4228
-▁kuthi	-4229
-▁staff	-4230
-khomish	-4231
-sukwini	-4232
-tricity	-4233
-▁strong	-4234
-isebenza	-4235
-vivinywa	-4236
-zezimali	-4237
-▁council	-4238
-▁robbery	-4239
-▁strateg	-4240
-▁towards	-4241
-▁wentela	-4242
-▁izingane	-4243
-▁izinsiza	-4244
-▁problems	-4245
-▁progress	-4246
-▁incidents	-4247
-▁officials	-4248
-▁practices	-4249
-▁procedures	-4250
-▁komphakathi	-4251
-sen	-4252
-xab	-4253
-hlom	-4254
-itch	-4255
-keze	-4256
-lind	-4257
-lula	-4258
-mayo	-4259
-mela	-4260
-pilo	-4261
-udic	-4262
-▁rap	-4263
-▁run	-4264
-adium	-4265
-atula	-4266
-banga	-4267
-hloli	-4268
-khodi	-4269
-kwele	-4270
-shisa	-4271
-▁Home	-4272
-▁That	-4273
-▁With	-4274
-▁adop	-4275
-▁inst	-4276
-▁real	-4277
-hlamvu	-4278
-mbalwa	-4279
-ondolo	-4280
-phanga	-4281
-vamise	-4282
-▁amend	-4283
-▁espec	-4284
-Sheduli	-4285
-tanding	-4286
-tuthuko	-4287
-▁driver	-4288
-▁iqembu	-4289
-▁kwakho	-4290
-▁negoti	-4291
-icabanga	-4292
-▁conduct	-4293
-▁nabantu	-4294
-▁nezinto	-4295
-▁Municipal	-4296
-▁apartheid	-4297
-▁conducted	-4298
-▁izimpahla	-4299
-▁okufanele	-4300
-qinisekiswe	-4301
-▁additional	-4302
-▁especially	-4303
-▁provisional	-4304
-▁housebreaking	-4305
-Bu	-4306
-ams	-4307
-dwe	-4308
-ede	-4309
-ger	-4310
-osa	-4311
-osi	-4312
-que	-4313
-▁Ga	-4314
-▁uD	-4315
-empi	-4316
-gada	-4317
-idel	-4318
-ires	-4319
-rown	-4320
-tima	-4321
-▁Mnu	-4322
-▁Sci	-4323
-▁Spe	-4324
-▁Sup	-4325
-▁eni	-4326
-▁eyi	-4327
-▁mur	-4328
-orary	-4329
-yedwa	-4330
-▁ling	-4331
-▁tele	-4332
-▁term	-4333
-▁wezo	-4334
-bekela	-4335
-khethi	-4336
-turing	-4337
-▁ababe	-4338
-▁activ	-4339
-▁ekwen	-4340
-▁isith	-4341
-▁resol	-4342
-fakelwe	-4343
-qondisi	-4344
-▁extent	-4345
-▁indust	-4346
-▁ingane	-4347
-▁kufaka	-4348
-▁kulezi	-4349
-▁making	-4350
-▁ngokwa	-4351
-vumelana	-4352
-▁current	-4353
-▁deliver	-4354
-▁example	-4355
-▁okufaka	-4356
-▁semvume	-4357
-▁abafundi	-4358
-▁existing	-4359
-▁househol	-4360
-▁equipment	-4361
-▁processes	-4362
-▁unomphela	-4363
-▁commission	-4364
-▁ngaphezulu	-4365
-▁saseNingizimu	-4366
-▁infrastructure	-4367
-RP	-4368
-ex	-4369
-eti	-4370
-gas	-4371
-uma	-4372
-ury	-4373
-▁Pe	-4374
-▁br	-4375
-SAPS	-4376
-ciko	-4377
-como	-4378
-fane	-4379
-half	-4380
-keka	-4381
-kelo	-4382
-▁Asi	-4383
-▁Fin	-4384
-▁bri	-4385
-▁flo	-4386
-▁lem	-4387
-▁van	-4388
-acter	-4389
-gwini	-4390
-qokwa	-4391
-shona	-4392
-tweni	-4393
-ulile	-4394
-▁Indi	-4395
-▁Kapa	-4396
-▁Leli	-4397
-▁nayo	-4398
-▁para	-4399
-▁upon	-4400
-phambi	-4401
-zabala	-4402
-zolimo	-4403
-▁Kunga	-4404
-▁black	-4405
-▁exclu	-4406
-▁kwazo	-4407
-▁kweng	-4408
-▁langu	-4409
-▁reduc	-4410
-▁ugesi	-4411
-engathi	-4412
-habilit	-4413
-khawulo	-4414
-▁former	-4415
-▁impact	-4416
-▁kwenze	-4417
-▁unless	-4418
-echnical	-4419
-qondiswe	-4420
-▁Umsolwa	-4421
-▁endlini	-4422
-▁nalokho	-4423
-▁nokunye	-4424
-▁several	-4425
-ishiyagal	-4426
-zakhamizi	-4427
-▁amakhulu	-4428
-▁kwezinye	-4429
-▁planning	-4430
-▁relating	-4431
-▁transfer	-4432
-▁provinces	-4433
-▁sobhaliso	-4434
-▁standards	-4435
-▁identified	-4436
-▁resolution	-4437
-▁integration	-4438
-▁professional	-4439
-47	-4440
--30	-4441
-isk	-4442
-▁ir	-4443
-▁sw	-4444
-fuyo	-4445
-ison	-4446
-kali	-4447
-kamb	-4448
-moto	-4449
-olun	-4450
-osed	-4451
-room	-4452
-▁Two	-4453
-▁cos	-4454
-▁edu	-4455
-▁mil	-4456
-▁obs	-4457
-▁ung	-4458
-▁wan	-4459
-bhalo	-4460
-ensed	-4461
-luphi	-4462
-omali	-4463
-phind	-4464
-qhuba	-4465
-sonto	-4466
-▁Isra	-4467
-▁angu	-4468
-▁disp	-4469
-▁eman	-4470
-▁leyo	-4471
-▁norm	-4472
-▁self	-4473
-bulili	-4474
-khatha	-4475
-khokhi	-4476
-olelwa	-4477
-unithi	-4478
-▁River	-4479
-▁begin	-4480
-▁known	-4481
-▁lakho	-4482
-▁using	-4483
-gciwane	-4484
-▁School	-4485
-▁eyodwa	-4486
-▁mining	-4487
-esidingo	-4488
-ziphatha	-4489
-▁changes	-4490
-▁namanye	-4491
-▁proceed	-4492
-▁receive	-4493
-▁approval	-4494
-▁strategy	-4495
-zombusazwe	-4496
-▁currently	-4497
-▁employees	-4498
-▁izinhlobo	-4499
-▁oMkhandlu	-4500
-▁suspected	-4501
-▁supporting	-4502
-▁ubugebengu	-4503
-▁applications	-4504
-▁circumstances	-4505
-NA	-4506
-che	-4507
-ugg	-4508
-▁CC	-4509
-amew	-4510
-esho	-4511
-quma	-4512
-roll	-4513
-suka	-4514
-udan	-4515
-viki	-4516
-yawo	-4517
-▁Abe	-4518
-▁blo	-4519
-▁inj	-4520
-▁spo	-4521
-cweti	-4522
-hlali	-4523
-kweni	-4524
-phere	-4525
-▁UMnu	-4526
-▁cred	-4527
-▁isig	-4528
-▁siya	-4529
-▁stri	-4530
-▁trav	-4531
-banjwa	-4532
-gatsha	-4533
-phuthu	-4534
-▁Every	-4535
-▁abane	-4536
-▁explo	-4537
-Afrikha	-4538
-bandela	-4539
-bhaliwe	-4540
-▁United	-4541
-▁compli	-4542
-▁create	-4543
-▁kuleyo	-4544
-▁kwethu	-4545
-▁ukwazi	-4546
-thuthuka	-4547
-▁illegal	-4548
-▁majority	-4549
-▁ngabantu	-4550
-▁Education	-4551
-▁nomthetho	-4552
-hlanganweni	-4553
-▁considered	-4554
-▁eminyakeni	-4555
-▁Agriculture	-4556
-▁electricity	-4557
-▁immediately	-4558
-▁nokusebenza	-4559
-▁yesikhashana	-4560
-IV	-4561
-bor	-4562
-lor	-4563
-vic	-4564
-▁Vi	-4565
-busa	-4566
-ells	-4567
-here	-4568
-jele	-4569
-lean	-4570
-leli	-4571
-lose	-4572
-qoqo	-4573
-qulu	-4574
-wula	-4575
-▁met	-4576
-▁wal	-4577
-dlula	-4578
-hlale	-4579
-hwebo	-4580
-manye	-4581
-tered	-4582
-tured	-4583
-xhasa	-4584
-▁Form	-4585
-▁arri	-4586
-▁best	-4587
-▁hard	-4588
-▁lobu	-4589
-▁yemi	-4590
-dlweng	-4591
-fakele	-4592
-hlanje	-4593
-phathe	-4594
-tshala	-4595
-▁After	-4596
-▁Imali	-4597
-▁milit	-4598
-▁owner	-4599
-▁sakhe	-4600
-mukelwe	-4601
-▁attend	-4602
-▁collec	-4603
-▁groups	-4604
-▁ngokun	-4605
-▁okwaku	-4606
-▁phambi	-4607
-▁streng	-4608
-▁General	-4609
-▁bakwazi	-4610
-▁coastal	-4611
-▁izindlu	-4612
-▁ngenhla	-4613
-▁purpose	-4614
-▁yabantu	-4615
-▁ezinkulu	-4616
-▁ngonyaka	-4617
-▁recommend	-4618
-▁recovered	-4619
-▁challenges	-4620
-▁Environment	-4621
-▁agricultural	-4622
-▁yaseNingizimu	-4623
-▁Constitutional	-4624
-BI	-4625
-eo	-4626
-nel	-4627
-rop	-4628
-ror	-4629
-▁36	-4630
-▁Di	-4631
-▁fo	-4632
-ffir	-4633
-hlal	-4634
-ized	-4635
-mang	-4636
-ront	-4637
-roun	-4638
-sika	-4639
-wise	-4640
-▁Eng	-4641
-▁Our	-4642
-▁fri	-4643
-▁ide	-4644
-▁mor	-4645
-▁sex	-4646
-bhola	-4647
-enced	-4648
-endlu	-4649
-hlolo	-4650
-lodwa	-4651
-lokhu	-4652
-mises	-4653
-ought	-4654
-▁educ	-4655
-▁line	-4656
-▁ukwa	-4657
-▁yobu	-4658
-irates	-4659
-itness	-4660
-thenga	-4661
-tually	-4662
-xabano	-4663
-▁class	-4664
-▁esikh	-4665
-▁focus	-4666
-▁going	-4667
-▁grant	-4668
-▁ngobu	-4669
-▁point	-4670
-▁usuku	-4671
-casting	-4672
-inyango	-4673
-▁analys	-4674
-▁copies	-4675
-▁ground	-4676
-▁having	-4677
-▁inspec	-4678
-▁market	-4679
-▁mechan	-4680
-▁nkonzo	-4681
-▁record	-4682
-▁strugg	-4683
-zimpahla	-4684
-▁Manager	-4685
-▁applies	-4686
-▁facilit	-4687
-▁ukwakha	-4688
-▁yisiphi	-4689
-▁Security	-4690
-▁eminingi	-4691
-▁nokwenza	-4692
-sivivinywa	-4693
-▁substanti	-4694
-▁isikhundla	-4695
-▁photograph	-4696
-▁Magistrates	-4697
-▁emsebenzini	-4698
-▁opportunity	-4699
-▁zokusebenza	-4700
-▁ngempumelelo	-4701
-▁ngokomthetho	-4702
-▁constitutional	-4703
-▁ngokusebenzisa	-4704
-av	-4705
-kl	-4706
-ars	-4707
-nes	-4708
-bele	-4709
-eria	-4710
-kane	-4711
-lass	-4712
-vert	-4713
-visa	-4714
-void	-4715
-▁Ing	-4716
-▁Kwe	-4717
-▁cli	-4718
-▁org	-4719
-▁tas	-4720
-alula	-4721
-ordin	-4722
-▁feed	-4723
-▁find	-4724
-▁inno	-4725
-▁onke	-4726
-▁town	-4727
-alanga	-4728
-ansela	-4729
-hluphe	-4730
-lethwa	-4731
-▁Yenza	-4732
-▁field	-4733
-▁joint	-4734
-▁lakhe	-4735
-▁lutho	-4736
-▁night	-4737
-▁Indawo	-4738
-▁Palest	-4739
-▁Umuntu	-4740
-▁accept	-4741
-▁behalf	-4742
-▁dispos	-4743
-▁impilo	-4744
-▁murder	-4745
-▁remain	-4746
-▁victim	-4747
-▁driving	-4748
-▁imibuzo	-4749
-▁ngokung	-4750
-buyiselwa	-4751
-hambisani	-4752
-khokhelwe	-4753
-▁cultural	-4754
-kulungwane	-4755
-▁Ministers	-4756
-▁allocated	-4757
-▁eThekwini	-4758
-▁commitment	-4759
-▁investment	-4760
-▁appointment	-4761
-▁complainant	-4762
-▁ezinsukwini	-4763
-▁yomphakathi	-4764
-tw	-4765
-pes	-4766
-swa	-4767
-ump	-4768
-won	-4769
-▁Pa	-4770
-▁au	-4771
-▁du	-4772
-▁uC	-4773
-etec	-4774
-fida	-4775
-ilar	-4776
-nake	-4777
-tics	-4778
-yona	-4779
-▁Ins	-4780
-▁ega	-4781
-▁tur	-4782
-andid	-4783
-isini	-4784
-komba	-4785
-onstr	-4786
-phawu	-4787
-tshon	-4788
-ummit	-4789
-▁Fund	-4790
-▁Lesi	-4791
-▁bang	-4792
-▁kusi	-4793
-abanzi	-4794
-gional	-4795
-lungis	-4796
-▁Other	-4797
-▁along	-4798
-▁ezizo	-4799
-▁later	-4800
-▁never	-4801
-▁times	-4802
-amework	-4803
-qeqesho	-4804
-zakhiwo	-4805
-▁accoun	-4806
-▁entsha	-4807
-▁ngisho	-4808
-▁okwesi	-4809
-iliation	-4810
-▁Nations	-4811
-▁kabanzi	-4812
-▁nabanye	-4813
-▁regular	-4814
-▁included	-4815
-▁isidingo	-4816
-▁yokuqala	-4817
-▁yokwenza	-4818
-fundazweni	-4819
-▁committee	-4820
-▁customary	-4821
-▁delegates	-4822
-▁nezindawo	-4823
-▁procedure	-4824
-▁Management	-4825
-▁experience	-4826
-angaphakathi	-4827
-▁ngokuhambisana	-4828
-EA	-4829
-ER	-4830
-aka	-4831
-mon	-4832
-rel	-4833
-swe	-4834
-▁Ka	-4835
-▁cr	-4836
-▁os	-4837
-cish	-4838
-enya	-4839
-foli	-4840
-hlwa	-4841
-iplo	-4842
-nika	-4843
-sequ	-4844
-tron	-4845
-wona	-4846
-zila	-4847
-▁Cap	-4848
-▁Mon	-4849
-▁Per	-4850
-▁bam	-4851
-▁cat	-4852
-▁sil	-4853
-▁wum	-4854
-bopha	-4855
-forts	-4856
-isisa	-4857
-lahle	-4858
-ondlo	-4859
-ukela	-4860
-▁esif	-4861
-▁kubo	-4862
-▁kune	-4863
-▁kuye	-4864
-▁leli	-4865
-▁luzo	-4866
-▁seng	-4867
-elanga	-4868
-elinye	-4869
-istent	-4870
-iteshi	-4871
-ourism	-4872
-▁Detec	-4873
-▁Trans	-4874
-▁cause	-4875
-▁cover	-4876
-▁share	-4877
-▁volun	-4878
-▁whose	-4879
-dolobha	-4880
-entific	-4881
-kapheli	-4882
-ulekile	-4883
-▁assign	-4884
-▁called	-4885
-▁charge	-4886
-▁govern	-4887
-▁ilungu	-4888
-▁recogn	-4889
-gcwalisa	-4890
-hlaselwa	-4891
-thengisa	-4892
-▁amagama	-4893
-▁disease	-4894
-▁eceleni	-4895
-▁ngokuba	-4896
-▁ukhetho	-4897
-▁yiluphi	-4898
-▁benefits	-4899
-▁conflict	-4900
-▁emazweni	-4901
-▁expected	-4902
-▁ezincane	-4903
-▁ihhovisi	-4904
-▁maintain	-4905
-▁nesicelo	-4906
-▁sengathi	-4907
-tification	-4908
-zokuphepha	-4909
-▁inkampani	-4910
-▁interests	-4911
-▁treatment	-4912
-▁democratic	-4913
-▁elandelayo	-4914
-▁kweminyaka	-4915
-▁departments	-4916
-▁legislative	-4917
-▁Registration	-4918
-▁izinhlangano	-4919
-▁establishment	-4920
-IA	-4921
-▁X	-4922
-gue	-4923
-ido	-4924
-mbo	-4925
-reh	-4926
-yil	-4927
-ywe	-4928
-zel	-4929
-alls	-4930
-bewu	-4931
-gram	-4932
-racy	-4933
-wali	-4934
-zoni	-4935
-▁Pla	-4936
-▁ayo	-4937
-▁max	-4938
-Gungu	-4939
-Khaya	-4940
-anama	-4941
-asson	-4942
-ening	-4943
-ented	-4944
-erali	-4945
-going	-4946
-itela	-4947
-khang	-4948
-nific	-4949
-power	-4950
-▁Spec	-4951
-▁babo	-4952
-▁book	-4953
-▁cond	-4954
-▁elin	-4955
-▁enye	-4956
-▁exam	-4957
-▁fact	-4958
-▁larg	-4959
-▁sour	-4960
-▁went	-4961
-bukiso	-4962
-qalasi	-4963
-sekela	-4964
-ticles	-4965
-veness	-4966
-▁Union	-4967
-▁aimed	-4968
-▁bring	-4969
-▁build	-4970
-▁costs	-4971
-▁lives	-4972
-▁lwase	-4973
-▁nakho	-4974
-▁subsi	-4975
-▁theft	-4976
-andlela	-4977
-fundisa	-4978
-hambisa	-4979
-▁Basson	-4980
-▁Protec	-4981
-▁across	-4982
-▁linked	-4983
-▁lokuba	-4984
-▁nalabo	-4985
-▁sezulu	-4986
-eminyaka	-4987
-▁Section	-4988
-▁Speaker	-4989
-▁charged	-4990
-▁charges	-4991
-▁competi	-4992
-▁efforts	-4993
-▁elected	-4994
-▁imizamo	-4995
-▁labantu	-4996
-▁managed	-4997
-▁ngosuku	-4998
-▁problem	-4999
-▁serious	-5000
-▁variety	-5001
-▁witness	-5002
-▁zombuso	-5003
-phumelele	-5004
-▁category	-5005
-▁demonstr	-5006
-▁ezintsha	-5007
-▁increase	-5008
-▁kwezinto	-5009
-▁paragraph	-5010
-qalasizinda	-5011
-▁commercial	-5012
-▁komsebenzi	-5013
-▁population	-5014
-▁unelungelo	-5015
-▁ngokubambisana	-5016
-29	-5017
-73	-5018
-ET	-5019
-cab	-5020
-dli	-5021
-ids	-5022
-siy	-5023
-▁18	-5024
-anta	-5025
-buza	-5026
-dilo	-5027
-emic	-5028
-fike	-5029
-hayi	-5030
-know	-5031
-limi	-5032
-mini	-5033
-ombu	-5034
-tate	-5035
-▁Str	-5036
-▁pap	-5037
-▁pas	-5038
-▁wez	-5039
-eased	-5040
-halal	-5041
-klamo	-5042
-shumi	-5043
-▁exch	-5044
-▁face	-5045
-▁sele	-5046
-▁utsh	-5047
-khiphe	-5048
-though	-5049
-▁cross	-5050
-▁depos	-5051
-▁detec	-5052
-▁lwesi	-5053
-▁okoku	-5054
-▁ufuna	-5055
-cabanga	-5056
-phakeme	-5057
-tically	-5058
-tshalwa	-5059
-unikazi	-5060
-zimpawu	-5061
-▁Author	-5062
-▁Secret	-5063
-▁abroad	-5064
-▁acknow	-5065
-▁attack	-5066
-▁candid	-5067
-▁displa	-5068
-phambili	-5069
-shintsho	-5070
-zingxoxo	-5071
-▁animals	-5072
-▁correct	-5073
-▁enacted	-5074
-▁kwemali	-5075
-yingxenye	-5076
-▁kwamanzi	-5077
-▁committed	-5078
-▁knowledge	-5079
-▁okwenzeka	-5080
-Khabhinethi	-5081
-▁designated	-5082
-▁emkhakheni	-5083
-▁employment	-5084
-▁individual	-5085
-▁technology	-5086
-▁uMongameli	-5087
-hlangabezana	-5088
-▁eziphathelene	-5089
-▁likaMongameli	-5090
-▁ngokuphathelene	-5091
-Bh	-5092
-DC	-5093
-IC	-5094
-MA	-5095
-Mnu	-5096
-bos	-5097
-dle	-5098
-ode	-5099
-ray	-5100
-ssy	-5101
-xen	-5102
-▁Ms	-5103
-biwa	-5104
-isms	-5105
-posi	-5106
-uhla	-5107
-vota	-5108
-wela	-5109
-zase	-5110
-zeke	-5111
-▁bul	-5112
-▁cul	-5113
-▁ded	-5114
-▁low	-5115
-▁san	-5116
-▁sla	-5117
-abelo	-5118
-alela	-5119
-asons	-5120
-elebr	-5121
-hambe	-5122
-konti	-5123
-uleka	-5124
-wonye	-5125
-▁Emva	-5126
-▁Inga	-5127
-▁Once	-5128
-▁Yebo	-5129
-▁Your	-5130
-▁anti	-5131
-▁baya	-5132
-▁kwab	-5133
-▁live	-5134
-▁roll	-5135
-▁yila	-5136
-▁yisa	-5137
-bulawa	-5138
-empela	-5139
-hlelwa	-5140
-illion	-5141
-istics	-5142
-ranted	-5143
-shicil	-5144
-▁beach	-5145
-▁minim	-5146
-▁occup	-5147
-▁press	-5148
-▁thank	-5149
-▁ukwen	-5150
-▁wenze	-5151
-bhalise	-5152
-eration	-5153
-lingana	-5154
-▁izenzo	-5155
-▁nanoma	-5156
-▁orders	-5157
-▁reserv	-5158
-▁safety	-5159
-baluleka	-5160
-dokotela	-5161
-ilateral	-5162
-phendula	-5163
-qubekela	-5164
-▁Station	-5165
-▁consequ	-5166
-▁defence	-5167
-▁emibili	-5168
-▁forward	-5169
-▁freedom	-5170
-▁kulokho	-5171
-▁married	-5172
-▁ukubona	-5173
-▁ukusiza	-5174
-▁umnotho	-5175
-khulunywa	-5176
-▁amancane	-5177
-▁amazinga	-5178
-▁distribu	-5179
-▁military	-5180
-▁premises	-5181
-▁ukungena	-5182
-phuthumayo	-5183
-▁Companies	-5184
-▁Inspector	-5185
-▁izinyanga	-5186
-▁otherwise	-5187
-▁ukwenziwa	-5188
-tshenziselwa	-5189
-yisishiyagal	-5190
-▁Information	-5191
-▁isitatimende	-5192
-▁International	-5193
-31	-5194
-BC	-5195
-Ja	-5196
-ern	-5197
-ple	-5198
-pre	-5199
-bezi	-5200
-bour	-5201
-cebo	-5202
-lier	-5203
-pace	-5204
-tory	-5205
-uals	-5206
-▁Ple	-5207
-▁bed	-5208
-▁ens	-5209
-▁ess	-5210
-▁pic	-5211
-▁sel	-5212
-ables	-5213
-aring	-5214
-banye	-5215
-enayo	-5216
-ommod	-5217
-▁besi	-5218
-▁yayo	-5219
-▁ying	-5220
-alelwa	-5221
-ayense	-5222
-ention	-5223
-ingozi	-5224
-kulumo	-5225
-lation	-5226
-selelo	-5227
-vamile	-5228
-▁breed	-5229
-▁check	-5230
-▁decla	-5231
-▁often	-5232
-▁thems	-5233
-▁umoya	-5234
-hlakani	-5235
-omestic	-5236
-qondene	-5237
-vikelwa	-5238
-▁Import	-5239
-▁attach	-5240
-▁better	-5241
-▁compet	-5242
-▁connec	-5243
-▁crimes	-5244
-▁decisi	-5245
-▁ethile	-5246
-▁impela	-5247
-▁living	-5248
-▁passed	-5249
-▁propos	-5250
-▁receip	-5251
-▁religi	-5252
-khiqizwa	-5253
-khombise	-5254
-sungulwa	-5255
-zemfundo	-5256
-▁believe	-5257
-▁bokuthi	-5258
-▁express	-5259
-▁iqiniso	-5260
-▁similar	-5261
-dolobheni	-5262
-hlukanisa	-5263
-▁affected	-5264
-▁informed	-5265
-▁intended	-5266
-▁kwenzeka	-5267
-▁ngamunye	-5268
-▁ngokunga	-5269
-▁portfoli	-5270
-kwamukelwa	-5271
-▁character	-5272
-▁directive	-5273
-▁materials	-5274
-▁nezidingo	-5275
-▁ehambisana	-5276
-▁integrated	-5277
-▁omphakathi	-5278
-▁operations	-5279
-▁principles	-5280
-▁structures	-5281
-▁themselves	-5282
-▁imiphakathi	-5283
-▁njengamanje	-5284
-▁sustainable	-5285
-▁Municipality	-5286
-▁nguMongameli	-5287
-▁representatives	-5288
-12	-5289
-OC	-5290
-bit	-5291
-eor	-5292
-iry	-5293
-jwe	-5294
-kus	-5295
-vey	-5296
-vit	-5297
-▁Fe	-5298
-▁Gu	-5299
-doti	-5300
-ites	-5301
-kosi	-5302
-llis	-5303
-load	-5304
-ream	-5305
-ruit	-5306
-text	-5307
-yuka	-5308
-▁ANC	-5309
-▁Sin	-5310
-▁cal	-5311
-▁too	-5312
-▁yis	-5313
-elled	-5314
-entsh	-5315
-ering	-5316
-fying	-5317
-orter	-5318
-pheni	-5319
-qapha	-5320
-qonde	-5321
-right	-5322
-thamo	-5323
-thane	-5324
-▁Part	-5325
-▁abal	-5326
-▁kill	-5327
-▁mean	-5328
-▁risk	-5329
-▁sebe	-5330
-▁stud	-5331
-▁yawo	-5332
-inyane	-5333
-iselwe	-5334
-kelele	-5335
-khomba	-5336
-tshela	-5337
-uclear	-5338
-zindlu	-5339
-▁Manje	-5340
-▁Organ	-5341
-▁break	-5342
-▁eduze	-5343
-▁hlelo	-5344
-▁kuhla	-5345
-▁lwezi	-5346
-▁since	-5347
-▁teach	-5348
-▁third	-5349
-makhaya	-5350
-zwekazi	-5351
-▁akukho	-5352
-▁celebr	-5353
-▁course	-5354
-▁ebekwe	-5355
-▁enable	-5356
-▁kalula	-5357
-▁olunye	-5358
-▁owners	-5359
-▁plants	-5360
-dlelwano	-5361
-kwelapha	-5362
-mination	-5363
-▁Kukhona	-5364
-▁applied	-5365
-▁arrests	-5366
-▁ngubani	-5367
-▁reasons	-5368
-zemidlalo	-5369
-▁addition	-5370
-▁construc	-5371
-▁deceased	-5372
-▁izilwane	-5373
-▁ngasinye	-5374
-▁officers	-5375
-▁practice	-5376
-▁umyalelo	-5377
-isebenzisa	-5378
-▁UMkhandlu	-5379
-▁abathathu	-5380
-▁amaphepha	-5381
-▁kudingeka	-5382
-▁imikhiqizo	-5383
-▁impumelelo	-5384
-habilitation	-5385
-▁Certificate	-5386
-▁construction	-5387
-▁kwisigatshana	-5388
-UN	-5389
-fil	-5390
-sol	-5391
-top	-5392
-▁14	-5393
-▁ce	-5394
-▁ed	-5395
-ames	-5396
-atis	-5397
-culo	-5398
-fula	-5399
-ided	-5400
-indo	-5401
-lame	-5402
-lilo	-5403
-lymp	-5404
-time	-5405
-veni	-5406
-wood	-5407
-yele	-5408
-▁Des	-5409
-▁Eku	-5410
-▁Let	-5411
-▁Mor	-5412
-▁ene	-5413
-▁fra	-5414
-▁mus	-5415
-▁swe	-5416
-▁tic	-5417
-▁urg	-5418
-emuva	-5419
-jelwa	-5420
-phiko	-5421
-ungqu	-5422
-urope	-5423
-yelwa	-5424
-▁Bank	-5425
-▁came	-5426
-▁deep	-5427
-▁lizo	-5428
-▁look	-5429
-▁phys	-5430
-▁seed	-5431
-▁send	-5432
-▁tear	-5433
-▁wabo	-5434
-angeni	-5435
-ctoral	-5436
-emqoka	-5437
-qalisa	-5438
-thimba	-5439
-▁Const	-5440
-▁might	-5441
-▁roads	-5442
-▁urban	-5443
-▁whole	-5444
-Mantshi	-5445
-atshang	-5446
-eshwana	-5447
-makethe	-5448
-ministr	-5449
-▁Inqubo	-5450
-▁comply	-5451
-▁formal	-5452
-▁indima	-5453
-▁kunoku	-5454
-▁kuzoba	-5455
-▁nemali	-5456
-▁parent	-5457
-▁umenzi	-5458
-▁uthole	-5459
-idelines	-5460
-memezelo	-5461
-umalanga	-5462
-▁Izicelo	-5463
-▁achieve	-5464
-▁attacks	-5465
-▁consent	-5466
-▁counter	-5467
-▁granted	-5468
-▁nalapho	-5469
-▁nalokhu	-5470
-▁publish	-5471
-▁receipt	-5472
-▁workers	-5473
-phumelela	-5474
-tholakale	-5475
-tholakele	-5476
-▁amakhono	-5477
-▁employer	-5478
-▁introduc	-5479
-▁komnotho	-5480
-▁kwendawo	-5481
-▁ngolwazi	-5482
-yisisekelo	-5483
-zepolitiki	-5484
-▁continues	-5485
-▁esigabeni	-5486
-▁inkantolo	-5487
-▁izinkinga	-5488
-▁ucwaningo	-5489
-▁iNingizimu	-5490
-▁increasing	-5491
-qinisekisiwe	-5492
-zenhlalakahle	-5493
-▁ezilandelayo	-5494
-▁kukahulumeni	-5495
-▁uNgqongqoshe	-5496
-▁Environmental	-5497
-▁representative	-5498
-10	-5499
-tc	-5500
-cub	-5501
-gqi	-5502
-lul	-5503
-mbu	-5504
-oma	-5505
-ope	-5506
-ute	-5507
-xol	-5508
-▁Te	-5509
-▁uB	-5510
-ande	-5511
-jaji	-5512
-mile	-5513
-noun	-5514
-trum	-5515
-wuku	-5516
-▁Tax	-5517
-▁Yes	-5518
-▁dou	-5519
-▁fer	-5520
-▁yet	-5521
-balwa	-5522
-ilini	-5523
-jiswe	-5524
-ngena	-5525
-omoya	-5526
-phofu	-5527
-phula	-5528
-qokwe	-5529
-ulisa	-5530
-▁1947	-5531
-▁Anim	-5532
-▁Iran	-5533
-▁beng	-5534
-▁cash	-5535
-▁cust	-5536
-▁elis	-5537
-▁sibe	-5538
-▁stab	-5539
-ampuli	-5540
-asosiy	-5541
-ingana	-5542
-kudala	-5543
-thinta	-5544
-▁Mayor	-5545
-▁North	-5546
-▁claim	-5547
-▁clean	-5548
-▁colla	-5549
-▁hhayi	-5550
-▁kwizi	-5551
-▁light	-5552
-▁ngiya	-5553
-▁seven	-5554
-▁wezin	-5555
-gcineni	-5556
-iliyoni	-5557
-ithathu	-5558
-udicial	-5559
-▁Akukho	-5560
-▁Ngenxa	-5561
-▁Supply	-5562
-▁System	-5563
-▁animal	-5564
-▁appeal	-5565
-▁kwenza	-5566
-▁okunye	-5567
-▁seized	-5568
-gcwalise	-5569
-hanjiswa	-5570
-licensed	-5571
-vuselela	-5572
-zabalazo	-5573
-▁enterpr	-5574
-▁kulokhu	-5575
-▁yemvelo	-5576
-▁yendawo	-5577
-▁zombili	-5578
-eterinary	-5579
-hlonishwa	-5580
-sebenzise	-5581
-▁emanzini	-5582
-dluliselwa	-5583
-▁According	-5584
-▁Authority	-5585
-▁Community	-5586
-▁democracy	-5587
-▁izikhathi	-5588
-▁izindleko	-5589
-▁kwesigaba	-5590
-▁masinyane	-5591
-▁questions	-5592
-▁Ngaphandle	-5593
-▁kwezinsiza	-5594
-▁Isitifikedi	-5595
-▁citizenship	-5596
-▁particulars	-5597
-▁organisations	-5598
-ED	-5599
-IF	-5600
-ANC	-5601
-are	-5602
-den	-5603
-dis	-5604
-obu	-5605
-uce	-5606
-uzi	-5607
-zes	-5608
-▁20	-5609
-▁Ph	-5610
-▁eD	-5611
-ades	-5612
-agga	-5613
-ambo	-5614
-arms	-5615
-bate	-5616
-ento	-5617
-fort	-5618
-illa	-5619
-indi	-5620
-lant	-5621
-sela	-5622
-shon	-5623
-tili	-5624
-umba	-5625
-vile	-5626
-▁Dec	-5627
-▁Hos	-5628
-▁Isa	-5629
-▁New	-5630
-▁eth	-5631
-banzi	-5632
-ellow	-5633
-lands	-5634
-phoko	-5635
-qonda	-5636
-sabal	-5637
-theli	-5638
-toria	-5639
-useum	-5640
-zunge	-5641
-▁enze	-5642
-▁isim	-5643
-▁kobu	-5644
-▁lawo	-5645
-▁nabe	-5646
-▁radi	-5647
-▁show	-5648
-bukeka	-5649
-gamela	-5650
-iswayo	-5651
-titute	-5652
-▁Ngiya	-5653
-▁Trade	-5654
-▁amane	-5655
-▁avoid	-5656
-▁brief	-5657
-▁efana	-5658
-▁nokwa	-5659
-▁owaye	-5660
-▁phezu	-5661
-▁plans	-5662
-alungis	-5663
-andleni	-5664
-kweledu	-5665
-outhern	-5666
-qhubeke	-5667
-ungweni	-5668
-▁Labour	-5669
-▁Social	-5670
-▁always	-5671
-▁kuqala	-5672
-▁listed	-5673
-▁nation	-5674
-▁nesimo	-5675
-▁notice	-5676
-▁oyedwa	-5677
-qeqeshwa	-5678
-qubuzana	-5679
-tiveness	-5680
-ventions	-5681
-▁distric	-5682
-▁efanayo	-5683
-▁egameni	-5684
-▁housing	-5685
-▁izikole	-5686
-▁vacancy	-5687
-abilities	-5688
-▁Zimbabwe	-5689
-▁accommod	-5690
-▁activity	-5691
-▁esimweni	-5692
-▁njengesi	-5693
-▁payments	-5694
-▁policies	-5695
-▁released	-5696
-▁struggle	-5697
-▁Umsebenzi	-5698
-▁ekwenzeni	-5699
-▁INingizimu	-5700
-▁ezahlukene	-5701
-▁inhlangano	-5702
-▁processing	-5703
-▁ukuxhumana	-5704
-▁unlicensed	-5705
-▁ebalulekile	-5706
-▁eliseduzane	-5707
-▁represented	-5708
-▁yokusebenza	-5709
-IT	-5710
-ij	-5711
-bil	-5712
-bly	-5713
-cer	-5714
-ilu	-5715
-osh	-5716
-qab	-5717
-sec	-5718
-sia	-5719
-Iran	-5720
-engu	-5721
-fuge	-5722
-iodi	-5723
-kaze	-5724
-lala	-5725
-ried	-5726
-sets	-5727
-tial	-5728
-tled	-5729
-year	-5730
-▁abs	-5731
-▁emo	-5732
-▁fos	-5733
-▁ize	-5734
-▁job	-5735
-▁oyi	-5736
-Natal	-5737
-ental	-5738
-eping	-5739
-mbezi	-5740
-mpilo	-5741
-qasha	-5742
-ridge	-5743
-thwes	-5744
-ulung	-5745
-usuku	-5746
-▁Hosp	-5747
-▁Some	-5748
-▁dama	-5749
-▁drug	-5750
-▁kabi	-5751
-▁nokw	-5752
-▁safe	-5753
-▁sale	-5754
-▁type	-5755
-belana	-5756
-encies	-5757
-hlelwe	-5758
-hlungu	-5759
-lawulo	-5760
-mnyama	-5761
-qaleni	-5762
-qashwa	-5763
-ration	-5764
-ungula	-5765
-▁Igama	-5766
-▁abuse	-5767
-▁accep	-5768
-▁congr	-5769
-▁hours	-5770
-▁influ	-5771
-▁liber	-5772
-▁linga	-5773
-▁metho	-5774
-▁ngawo	-5775
-▁ofuna	-5776
-▁recon	-5777
-▁sites	-5778
-▁takes	-5779
-▁tradi	-5780
-▁woman	-5781
-▁works	-5782
-benzisa	-5783
-malungu	-5784
-osystem	-5785
-sebenze	-5786
-▁Ezinye	-5787
-▁Ingabe	-5788
-▁Summit	-5789
-▁announ	-5790
-▁consum	-5791
-▁courts	-5792
-▁deploy	-5793
-▁ekhaya	-5794
-▁eminye	-5795
-▁events	-5796
-▁itself	-5797
-▁observ	-5798
-▁racism	-5799
-▁recent	-5800
-▁reduce	-5801
-▁reflec	-5802
-▁terror	-5803
-alingani	-5804
-andulela	-5805
-buyekeza	-5806
-engxenye	-5807
-kholelwa	-5808
-▁Pirates	-5809
-▁however	-5810
-▁improve	-5811
-▁nohlelo	-5812
-▁numbers	-5813
-▁stadium	-5814
-▁teargas	-5815
-▁usually	-5816
-▁zindawo	-5817
-finyelele	-5818
-▁ehlukene	-5819
-▁izikhali	-5820
-▁kwamazwe	-5821
-▁ngokusho	-5822
-▁ngumuntu	-5823
-▁separate	-5824
-▁signific	-5825
-▁sokuqala	-5826
-▁Palestini	-5827
-▁companies	-5828
-▁izitshalo	-5829
-▁municipal	-5830
-▁ukusukela	-5831
-iodiversity	-5832
-▁izingxenye	-5833
-▁izinhlanzi	-5834
-▁kamasipala	-5835
-▁nezindlela	-5836
-▁nezinhlelo	-5837
-hlukahlukene	-5838
-▁Directorate	-5839
-▁angaphandle	-5840
-▁okungenzeka	-5841
-▁sokubhalisa	-5842
-AU	-5843
-Le	-5844
-Lw	-5845
-New	-5846
-adu	-5847
-bur	-5848
-joy	-5849
-▁Il	-5850
-▁Ko	-5851
-▁aw	-5852
-▁da	-5853
-▁eC	-5854
-▁mu	-5855
-bana	-5856
-huny	-5857
-inwe	-5858
-laba	-5859
-nike	-5860
-siwe	-5861
-test	-5862
-town	-5863
-▁Bay	-5864
-▁Emp	-5865
-▁Tho	-5866
-▁bac	-5867
-▁bem	-5868
-▁lod	-5869
-▁obe	-5870
-▁top	-5871
-▁wem	-5872
-alled	-5873
-benzi	-5874
-elona	-5875
-gumbi	-5876
-▁Supt	-5877
-▁belo	-5878
-▁card	-5879
-▁clos	-5880
-▁feat	-5881
-▁left	-5882
-▁samp	-5883
-▁sith	-5884
-▁situ	-5885
-▁told	-5886
-bhangi	-5887
-cacile	-5888
-esheni	-5889
-kholwa	-5890
-zation	-5891
-▁Impro	-5892
-▁Where	-5893
-▁cishe	-5894
-▁eight	-5895
-▁extra	-5896
-▁lizwe	-5897
-▁lwaba	-5898
-▁maxim	-5899
-▁nanga	-5900
-▁recre	-5901
-▁sound	-5902
-▁ukuku	-5903
-African	-5904
-dawonye	-5905
-fundeni	-5906
-hambela	-5907
-hleliwe	-5908
-khethwa	-5909
-▁Associ	-5910
-▁Presid	-5911
-▁assaul	-5912
-▁elinga	-5913
-▁elinye	-5914
-▁honour	-5915
-▁kulowo	-5916
-▁mainly	-5917
-▁ngaman	-5918
-▁please	-5919
-▁sigaba	-5920
-▁taxpay	-5921
-bilities	-5922
-didiyela	-5923
-zenhlalo	-5924
-▁Isigaba	-5925
-▁KwaZulu	-5926
-▁Primary	-5927
-▁actions	-5928
-▁context	-5929
-▁impacts	-5930
-▁kwezoku	-5931
-▁kwifomu	-5932
-▁nolwazi	-5933
-▁renewal	-5934
-▁started	-5935
-elligence	-5936
-▁applying	-5937
-▁ezihamba	-5938
-▁ezingama	-5939
-▁followed	-5940
-▁ingxenye	-5941
-▁lokuqala	-5942
-▁ngalinye	-5943
-▁personal	-5944
-▁policing	-5945
-qinisekiso	-5946
-▁emithathu	-5947
-▁framework	-5948
-▁ukuphatha	-5949
-▁administer	-5950
-▁alandelayo	-5951
-▁committees	-5952
-▁congratula	-5953
-▁industrial	-5954
-▁kaMasipala	-5955
-▁provisions	-5956
-▁undertaken	-5957
-▁ubudlelwane	-5958
-▁kubalulekile	-5959
-20	-5960
-DS	-5961
-ES	-5962
-IP	-5963
-kwi	-5964
-ozi	-5965
-pon	-5966
-qam	-5967
-ria	-5968
-xed	-5969
-zis	-5970
-▁uP	-5971
-bile	-5972
-ford	-5973
-onom	-5974
-qash	-5975
-sile	-5976
-tely	-5977
-uled	-5978
-webo	-5979
-▁Esi	-5980
-▁ask	-5981
-▁bro	-5982
-▁eas	-5983
-▁etc	-5984
-▁fre	-5985
-▁olw	-5986
-▁shi	-5987
-abled	-5988
-arily	-5989
-ecala	-5990
-hhala	-5991
-yiswe	-5992
-▁Imin	-5993
-▁acqu	-5994
-▁duty	-5995
-▁hope	-5996
-▁isin	-5997
-▁loss	-5998
-▁nega	-5999
-▁ngab	-6000
-▁okwe	-6001
-▁page	-6002
-▁spir	-6003
-▁zobu	-6004
-aliswa	-6005
-dayisa	-6006
-gramme	-6007
-hloswe	-6008
-indeni	-6009
-ishiwo	-6010
-kanani	-6011
-kethwe	-6012
-olunye	-6013
-qhinga	-6014
-rolled	-6015
-waneni	-6016
-▁Isimo	-6017
-▁civil	-6018
-▁fully	-6019
-▁izifo	-6020
-▁kubhe	-6021
-▁neigh	-6022
-▁possi	-6023
-▁reach	-6024
-▁veter	-6025
-Lungelo	-6026
-angweni	-6027
-phomedi	-6028
-shintsh	-6029
-uration	-6030
-▁States	-6031
-▁Ulwazi	-6032
-▁esihle	-6033
-▁estate	-6034
-▁excell	-6035
-▁forces	-6036
-▁ingabe	-6037
-▁single	-6038
-▁wezoku	-6039
-baluleke	-6040
-emthetho	-6041
-vikeleka	-6042
-▁Amafomu	-6043
-▁Ukufaka	-6044
-▁abazali	-6045
-▁adopted	-6046
-▁allowed	-6047
-▁iSekela	-6048
-▁imibiko	-6049
-▁mission	-6050
-▁namuhla	-6051
-▁produce	-6052
-▁product	-6053
-gcwaliswe	-6054
-tificates	-6055
-▁Izindawo	-6056
-▁district	-6057
-▁nendlela	-6058
-▁ngempela	-6059
-▁stations	-6060
-▁uMthetho	-6061
-▁nohulumeni	-6062
-▁strengthen	-6063
-▁kunesidingo	-6064
-▁kwezomnotho	-6065
-▁particularly	-6066
-Hl	-6067
-US	-6068
-Zi	-6069
-my	-6070
-acy	-6071
-bia	-6072
-emo	-6073
-ept	-6074
-qen	-6075
-set	-6076
-vul	-6077
-▁16	-6078
-▁Bu	-6079
-▁Id	-6080
-▁uK	-6081
-Jaji	-6082
-beki	-6083
-bhli	-6084
-buya	-6085
-dili	-6086
-enzo	-6087
-eric	-6088
-geza	-6089
-iter	-6090
-muva	-6091
-pper	-6092
-qile	-6093
-tary	-6094
-ulum	-6095
-vesi	-6096
-yota	-6097
-yuny	-6098
-▁Ass	-6099
-▁Est	-6100
-▁Exc	-6101
-▁Int	-6102
-▁Ste	-6103
-▁clu	-6104
-▁cru	-6105
-▁eff	-6106
-▁fig	-6107
-▁fil	-6108
-▁ill	-6109
-▁iyo	-6110
-▁omn	-6111
-▁saw	-6112
-▁sid	-6113
-▁tor	-6114
-abeni	-6115
-abisa	-6116
-alezo	-6117
-ataba	-6118
-elesi	-6119
-elisa	-6120
-ensic	-6121
-hweba	-6122
-iture	-6123
-phone	-6124
-shush	-6125
-thint	-6126
-valwa	-6127
-▁bani	-6128
-▁bayo	-6129
-▁daba	-6130
-▁ekwa	-6131
-▁ezom	-6132
-▁lona	-6133
-▁neze	-6134
-▁obli	-6135
-▁proc	-6136
-▁seek	-6137
-▁sure	-6138
-action	-6139
-bhishi	-6140
-sakaza	-6141
-thwalo	-6142
-▁Child	-6143
-▁Kanti	-6144
-▁Water	-6145
-▁affir	-6146
-▁exist	-6147
-▁makes	-6148
-▁names	-6149
-eograph	-6150
-issions	-6151
-khokhwa	-6152
-shayeli	-6153
-yakatho	-6154
-yembezi	-6155
-▁anyone	-6156
-▁credit	-6157
-▁descri	-6158
-▁duties	-6159
-▁handed	-6160
-▁houses	-6161
-▁ithuba	-6162
-▁kwenye	-6163
-▁needed	-6164
-▁okunge	-6165
-▁search	-6166
-Zimbabwe	-6167
-khansela	-6168
-minerali	-6169
-thikithi	-6170
-xazululo	-6171
-▁Tourism	-6172
-▁ezingen	-6173
-▁kwezing	-6174
-▁pattern	-6175
-▁respond	-6176
-▁writing	-6177
-ngenelela	-6178
-▁Hospital	-6179
-▁esedlule	-6180
-▁hospital	-6181
-▁inombolo	-6182
-▁isikhala	-6183
-▁izinqumo	-6184
-▁njengama	-6185
-halalisela	-6186
-▁Isikhathi	-6187
-▁employers	-6188
-▁temporary	-6189
-▁importance	-6190
-▁ukukhokhela	-6191
-▁yisakhamuzi	-6192
-▁contribution	-6193
-▁relationship	-6194
-▁weziFundazwe	-6195
-▁emiphakathini	-6196
-▁kuqinisekiswe	-6197
-▁ngokungemthetho	-6198
-EN	-6199
-abi	-6200
-app	-6201
-dal	-6202
-gni	-6203
-gub	-6204
-iss	-6205
-lam	-6206
-odo	-6207
-ori	-6208
-qui	-6209
-rin	-6210
-say	-6211
-uly	-6212
-▁23	-6213
-▁Ra	-6214
-▁eg	-6215
-bert	-6216
-bing	-6217
-dini	-6218
-dons	-6219
-icro	-6220
-mail	-6221
-oned	-6222
-otes	-6223
-qiwe	-6224
-secu	-6225
-ster	-6226
-tify	-6227
-▁031	-6228
-▁HIV	-6229
-▁Umb	-6230
-▁Ver	-6231
-▁ali	-6232
-▁ifa	-6233
-▁ima	-6234
-▁jud	-6235
-▁uyi	-6236
-▁won	-6237
-comes	-6238
-dlali	-6239
-dlalo	-6240
-fanek	-6241
-gcine	-6242
-gxile	-6243
-jista	-6244
-pheph	-6245
-twana	-6246
-where	-6247
-▁Loku	-6248
-▁amaf	-6249
-▁engi	-6250
-▁fair	-6251
-▁gave	-6252
-▁unit	-6253
-▁upgr	-6254
-Palest	-6255
-intsha	-6256
-jabulo	-6257
-khwali	-6258
-limala	-6259
-othisi	-6260
-phutha	-6261
-▁Bonke	-6262
-▁Yonke	-6263
-▁below	-6264
-▁carry	-6265
-▁enama	-6266
-▁enfor	-6267
-▁indlu	-6268
-▁judge	-6269
-▁range	-6270
-▁sched	-6271
-▁serve	-6272
-enhloso	-6273
-lutions	-6274
-onakala	-6275
-phenyis	-6276
-phucula	-6277
-qeqesha	-6278
-qukethe	-6279
-ression	-6280
-yunithi	-6281
-zibophe	-6282
-▁Animal	-6283
-▁Identi	-6284
-▁Please	-6285
-▁Street	-6286
-▁agreed	-6287
-▁angama	-6288
-▁okuthi	-6289
-▁season	-6290
-bonisana	-6291
-▁Inhloso	-6292
-▁instrum	-6293
-▁mthetho	-6294
-▁ngaleso	-6295
-▁ngokwen	-6296
-▁nuclear	-6297
-▁prospec	-6298
-▁wokuthi	-6299
-▁yikuphi	-6300
-▁yohlobo	-6301
-andakanya	-6302
-ciliation	-6303
-vakashela	-6304
-vuselelwa	-6305
-▁ahlukene	-6306
-▁director	-6307
-▁imfucuza	-6308
-▁obtained	-6309
-▁physical	-6310
-▁positive	-6311
-▁visitors	-6312
-ungquthela	-6313
-▁acknowled	-6314
-▁amendment	-6315
-▁complaint	-6316
-▁elections	-6317
-▁kwamacala	-6318
-▁mentioned	-6319
-▁ohlelweni	-6320
-▁ukwakhiwa	-6321
-▁associated	-6322
-▁collection	-6323
-▁delegation	-6324
-▁facilitate	-6325
-▁kaHulumeni	-6326
-▁kwezinsuku	-6327
-▁ngezinyawo	-6328
-▁understand	-6329
-alungiselelo	-6330
-▁independent	-6331
-▁participate	-6332
-▁significant	-6333
-▁Applications	-6334
-▁documentation	-6335
-▁administrative	-6336
-EM	-6337
-buy	-6338
-dra	-6339
-eke	-6340
-guq	-6341
-irl	-6342
-mos	-6343
-phy	-6344
-rie	-6345
-▁11	-6346
-▁El	-6347
-▁Go	-6348
-▁Om	-6349
-▁eW	-6350
-▁uJ	-6351
-biso	-6352
-body	-6353
-dian	-6354
-endi	-6355
-face	-6356
-gugu	-6357
-heke	-6358
-hibi	-6359
-hiwo	-6360
-hood	-6361
-icab	-6362
-prof	-6363
-utes	-6364
-vame	-6365
-▁Bas	-6366
-▁aud	-6367
-▁awo	-6368
-▁ong	-6369
-▁rub	-6370
-▁uyo	-6371
-erman	-6372
-funwa	-6373
-hambi	-6374
-kanye	-6375
-shado	-6376
-uliwe	-6377
-▁East	-6378
-▁ekus	-6379
-▁fees	-6380
-▁flow	-6381
-▁outs	-6382
-▁pric	-6383
-▁says	-6384
-▁size	-6385
-▁susp	-6386
-gcinwe	-6387
-hannes	-6388
-kelela	-6389
-lakala	-6390
-mitted	-6391
-ulweni	-6392
-ungile	-6393
-ushane	-6394
-vation	-6395
-▁Wonke	-6396
-▁anike	-6397
-▁colon	-6398
-▁dagga	-6399
-▁funds	-6400
-▁indig	-6401
-▁kuyin	-6402
-▁labor	-6403
-▁olung	-6404
-▁senze	-6405
-▁start	-6406
-▁thous	-6407
-▁union	-6408
-▁wenza	-6409
-▁youth	-6410
-ingcele	-6411
-ithombo	-6412
-kweletu	-6413
-osition	-6414
-ressive	-6415
-▁Izinto	-6416
-▁Report	-6417
-▁altern	-6418
-▁compar	-6419
-▁convic	-6420
-▁decide	-6421
-▁envisa	-6422
-▁inzuzo	-6423
-▁kulezo	-6424
-▁street	-6425
-National	-6426
-buyisela	-6427
-catshang	-6428
-fundiswa	-6429
-▁becomes	-6430
-▁kungaba	-6431
-▁minimum	-6432
-▁okwenza	-6433
-▁remains	-6434
-▁welcome	-6435
-Inspector	-6436
-khululeka	-6437
-kontileka	-6438
-zindaweni	-6439
-▁Register	-6440
-▁declared	-6441
-▁directly	-6442
-▁ezingeni	-6443
-▁Secretary	-6444
-▁eNkantolo	-6445
-▁ekusebenz	-6446
-▁ezimbalwa	-6447
-▁imikhakha	-6448
-▁kwamandla	-6449
-▁providing	-6450
-▁sikhundla	-6451
-▁technical	-6452
-▁Imisebenzi	-6453
-▁esiteshini	-6454
-▁kuMkhandlu	-6455
-▁kuhulumeni	-6456
-▁mechanisms	-6457
-▁previously	-6458
-▁reasonable	-6459
-ministration	-6460
-▁ngaphambili	-6461
-▁UNgqongqoshe	-6462
-▁aseNingizimu	-6463
-▁broadcasting	-6464
-▁intervention	-6465
-▁isivumelwano	-6466
-▁kubandakanya	-6467
-▁kuhlanganisa	-6468
-▁kwabasebenzi	-6469
-▁eziyisithupha	-6470
-▁rehabilitation	-6471
-Mo	-6472
-St	-6473
-bt	-6474
-arf	-6475
-ilt	-6476
-▁60	-6477
-▁ID	-6478
-▁Sh	-6479
-▁eK	-6480
-Isra	-6481
-alaw	-6482
-beza	-6483
-bung	-6484
-dies	-6485
-gies	-6486
-hind	-6487
-kers	-6488
-phas	-6489
-qoqa	-6490
-rian	-6491
-tage	-6492
-vili	-6493
-yizi	-6494
-yolo	-6495
-zula	-6496
-▁Kus	-6497
-▁Mus	-6498
-▁fes	-6499
-▁kam	-6500
-▁let	-6501
-▁why	-6502
-ander	-6503
-arfur	-6504
-bhomu	-6505
-cansi	-6506
-elani	-6507
-gcono	-6508
-hambo	-6509
-ident	-6510
-ports	-6511
-simbi	-6512
-suswa	-6513
-thule	-6514
-xhaso	-6515
-zwayo	-6516
-▁Head	-6517
-▁Lolu	-6518
-▁baba	-6519
-▁eval	-6520
-▁eziy	-6521
-▁lwem	-6522
-▁wena	-6523
-▁whom	-6524
-elungu	-6525
-iction	-6526
-julile	-6527
-khokhe	-6528
-limate	-6529
-obhala	-6530
-oreign	-6531
-orters	-6532
-phakan	-6533
-▁Inter	-6534
-▁Three	-6535
-▁abazo	-6536
-▁added	-6537
-▁aware	-6538
-▁bantu	-6539
-▁diplo	-6540
-▁elect	-6541
-▁infec	-6542
-▁insol	-6543
-▁kukho	-6544
-▁minor	-6545
-▁pursu	-6546
-▁units	-6547
-▁uxolo	-6548
-▁yizin	-6549
-▁zakhe	-6550
-encwadi	-6551
-ighting	-6552
-nikezwa	-6553
-philayo	-6554
-qaphele	-6555
-▁accred	-6556
-▁annual	-6557
-▁behind	-6558
-▁branch	-6559
-▁caused	-6560
-▁encane	-6561
-▁kubona	-6562
-▁launch	-6563
-▁rather	-6564
-▁semali	-6565
-▁yokuba	-6566
-andlwini	-6567
-qukethwe	-6568
-▁Ukwenza	-6569
-▁akumele	-6570
-▁benefic	-6571
-▁empower	-6572
-▁ezivela	-6573
-▁kohlelo	-6574
-▁limited	-6575
-▁offices	-6576
-▁sitting	-6577
-dlwengula	-6578
-pumalanga	-6579
-qongqoshe	-6580
-sebenzisi	-6581
-▁adoption	-6582
-▁baboshwa	-6583
-▁exchange	-6584
-▁isibhamu	-6585
-▁learning	-6586
-▁ngohlelo	-6587
-▁original	-6588
-▁produced	-6589
-▁resource	-6590
-▁Programme	-6591
-▁neighbour	-6592
-▁personnel	-6593
-▁requested	-6594
-▁zangasese	-6595
-▁abasebenza	-6596
-▁assessment	-6597
-▁concerning	-6598
-▁developing	-6599
-▁objectives	-6600
-▁throughout	-6601
-▁ukubhekana	-6602
-▁Palestinian	-6603
-▁governments	-6604
-▁nabasebenzi	-6605
-▁arrangements	-6606
-Pho	-6607
-fud	-6608
-ham	-6609
-tch	-6610
-ths	-6611
-une	-6612
-uzo	-6613
-vis	-6614
-zon	-6615
-▁08	-6616
-▁IC	-6617
-▁Ir	-6618
-▁ni	-6619
-▁uR	-6620
-bano	-6621
-buka	-6622
-gadi	-6623
-heka	-6624
-makh	-6625
-ores	-6626
-qoke	-6627
-▁adj	-6628
-▁amm	-6629
-▁bad	-6630
-▁big	-6631
-▁bot	-6632
-▁ebe	-6633
-▁sea	-6634
-▁yab	-6635
-▁yas	-6636
-abuko	-6637
-alile	-6638
-celwa	-6639
-futha	-6640
-ganda	-6641
-gungu	-6642
-onini	-6643
-versi	-6644
-▁Many	-6645
-▁Oper	-6646
-▁akhe	-6647
-▁enge	-6648
-▁hold	-6649
-▁lega	-6650
-▁mess	-6651
-▁uthi	-6652
-▁yale	-6653
-▁yimi	-6654
-hlahla	-6655
-hlanza	-6656
-khumba	-6657
-rounds	-6658
-thenda	-6659
-tshiwe	-6660
-▁Human	-6661
-▁expla	-6662
-▁ezazi	-6663
-▁faith	-6664
-▁ngoLw	-6665
-▁okuse	-6666
-▁satis	-6667
-▁seats	-6668
-▁sezin	-6669
-▁speak	-6670
-▁stage	-6671
-▁total	-6672
-▁unity	-6673
-hlomile	-6674
-kambiso	-6675
-▁Europe	-6676
-▁Imvume	-6677
-▁Sicela	-6678
-▁budget	-6679
-▁conclu	-6680
-▁except	-6681
-▁gather	-6682
-▁kwizin	-6683
-▁longer	-6684
-▁nezimo	-6685
-▁suppli	-6686
-bhaliswa	-6687
-bhekiswe	-6688
-xazulula	-6689
-▁Officer	-6690
-▁history	-6691
-▁located	-6692
-▁maximum	-6693
-▁primary	-6694
-▁returns	-6695
-khubazeka	-6696
-zaseKhaya	-6697
-▁collabor	-6698
-▁contract	-6699
-▁detained	-6700
-▁entitled	-6701
-▁imported	-6702
-▁izifundo	-6703
-▁namandla	-6704
-▁requires	-6705
-▁taxpayer	-6706
-khandlwini	-6707
-▁challenge	-6708
-▁ezifanele	-6709
-▁household	-6710
-▁nezindaba	-6711
-▁objective	-6712
-▁ukukhokha	-6713
-development	-6714
-▁kwezindawo	-6715
-▁monitoring	-6716
-▁submission	-6717
-hlukunyeziwe	-6718
-▁isitifiketi	-6719
-▁investigated	-6720
-▁wangaphandle	-6721
-Al	-6722
-Ch	-6723
-Sa	-6724
-Un	-6725
-eda	-6726
-ezi	-6727
-igc	-6728
-let	-6729
-ugh	-6730
-uke	-6731
-urs	-6732
-yer	-6733
-▁15	-6734
-▁Pi	-6735
-▁Yi	-6736
-▁uy	-6737
-aged	-6738
-buso	-6739
-fill	-6740
-part	-6741
-solo	-6742
-▁Bur	-6743
-▁omu	-6744
-▁sug	-6745
-▁vig	-6746
-▁zes	-6747
-acala	-6748
-ayine	-6749
-ellec	-6750
-jongo	-6751
-kekho	-6752
-qoqwa	-6753
-thulo	-6754
-▁Ukun	-6755
-▁acad	-6756
-▁bazi	-6757
-▁fall	-6758
-▁fing	-6759
-▁keep	-6760
-▁kind	-6761
-▁kuso	-6762
-▁lack	-6763
-▁lost	-6764
-▁netw	-6765
-▁oway	-6766
-▁prec	-6767
-▁ubun	-6768
-▁util	-6769
-▁weap	-6770
-alahle	-6771
-amanzi	-6772
-bhliki	-6773
-esheli	-6774
-ilwane	-6775
-khompu	-6776
-kwenze	-6777
-stroom	-6778
-tekisi	-6779
-thelwa	-6780
-zandla	-6781
-▁World	-6782
-▁engen	-6783
-▁exemp	-6784
-▁funda	-6785
-▁incor	-6786
-▁kules	-6787
-▁lezin	-6788
-▁quick	-6789
-▁rural	-6790
-akekela	-6791
-atabase	-6792
-emezelo	-6793
-fidavit	-6794
-istrict	-6795
-ountain	-6796
-qondile	-6797
-rekhodi	-6798
-tension	-6799
-▁advert	-6800
-▁akwazi	-6801
-▁diffic	-6802
-▁discri	-6803
-▁doctor	-6804
-▁edlule	-6805
-▁elithi	-6806
-▁foster	-6807
-▁kagesi	-6808
-▁marine	-6809
-▁nasema	-6810
-▁ndlela	-6811
-▁spirit	-6812
-▁things	-6813
-▁uhlaka	-6814
-bunikazi	-6815
-endabuko	-6816
-fanekiso	-6817
-inations	-6818
-kwandisa	-6819
-phephile	-6820
-thembeka	-6821
-vunyelwa	-6822
-▁Control	-6823
-▁benefit	-6824
-▁follows	-6825
-▁funding	-6826
-▁growing	-6827
-▁measure	-6828
-▁permits	-6829
-▁protect	-6830
-▁removal	-6831
-▁restric	-6832
-▁ukufaka	-6833
-▁wukuthi	-6834
-▁yentela	-6835
-▁zokuthi	-6836
-kwelashwa	-6837
-ordinated	-6838
-phakamisa	-6839
-yisihlanu	-6840
-▁UMnyango	-6841
-▁electron	-6842
-▁ezikhona	-6843
-▁identify	-6844
-▁izakhiwo	-6845
-▁lokwenza	-6846
-▁meetings	-6847
-▁msebenzi	-6848
-▁ngaphezu	-6849
-▁ukukhula	-6850
-alayisensi	-6851
-khompyutha	-6852
-▁bilateral	-6853
-▁decisions	-6854
-▁izikhungo	-6855
-▁kwezindlu	-6856
-▁kwisigaba	-6857
-▁namalungu	-6858
-▁nezinsiza	-6859
-▁operating	-6860
-▁residents	-6861
-▁specified	-6862
-▁zokuhlala	-6863
-khompuyutha	-6864
-lungiselela	-6865
-phazamiseka	-6866
-▁conference	-6867
-▁guidelines	-6868
-▁prevention	-6869
-▁ukubhalisa	-6870
-asosiyeshini	-6871
-▁Chairperson	-6872
-▁IKhomishana	-6873
-▁Improvement	-6874
-▁authorities	-6875
-▁individuals	-6876
-▁initiatives	-6877
-▁manufacture	-6878
-▁ngezikhathi	-6879
-▁proceedings	-6880
-▁traditional	-6881
-▁participation	-6882
-▁isishayamthetho	-6883
-AF	-6884
-Me	-6885
-af	-6886
-lw	-6887
-Hho	-6888
-aly	-6889
-bre	-6890
-car	-6891
-lot	-6892
-off	-6893
-tla	-6894
-▁Bi	-6895
-▁eT	-6896
-cted	-6897
-engi	-6898
-lect	-6899
-most	-6900
-ourn	-6901
-ques	-6902
-term	-6903
-vala	-6904
-yana	-6905
-zimp	-6906
-▁ans	-6907
-▁ekh	-6908
-▁hal	-6909
-▁hot	-6910
-▁lot	-6911
-▁lun	-6912
-▁nor	-6913
-anger	-6914
-anied	-6915
-bhodi	-6916
-eleli	-6917
-holwa	-6918
-kheli	-6919
-ology	-6920
-payip	-6921
-ships	-6922
-shiwe	-6923
-tshen	-6924
-xoxis	-6925
-ziswe	-6926
-▁Both	-6927
-▁Cong	-6928
-▁Well	-6929
-▁abam	-6930
-▁code	-6931
-▁isib	-6932
-▁ngoM	-6933
-▁wami	-6934
-▁wayo	-6935
-▁yena	-6936
-anding	-6937
-anging	-6938
-babili	-6939
-culazi	-6940
-hlathi	-6941
-kobezi	-6942
-kuleli	-6943
-mental	-6944
-olonti	-6945
-onomic	-6946
-tshani	-6947
-▁Inani	-6948
-▁Local	-6949
-▁agent	-6950
-▁eyayi	-6951
-▁green	-6952
-▁kwezo	-6953
-▁leave	-6954
-▁older	-6955
-▁paper	-6956
-▁ready	-6957
-▁stamp	-6958
-▁words	-6959
-Sihlalo	-6960
-enzelwe	-6961
-esilisa	-6962
-holders	-6963
-lateral	-6964
-vements	-6965
-▁assets	-6966
-▁became	-6967
-▁engine	-6968
-▁esinye	-6969
-▁gender	-6970
-▁igunya	-6971
-▁imithi	-6972
-▁iningi	-6973
-▁series	-6974
-▁sesimo	-6975
-▁uhlobo	-6976
-bhaliswe	-6977
-pulazini	-6978
-qiniseko	-6979
-▁Foreign	-6980
-▁afanele	-6981
-▁climate	-6982
-▁complex	-6983
-▁isigaba	-6984
-▁ngokuya	-6985
-▁removed	-6986
-cintisana	-6987
-fications	-6988
-gcizelela	-6989
-gunyaziwe	-6990
-hambelana	-6991
-hlukumeza	-6992
-▁Research	-6993
-▁aphezulu	-6994
-▁assigned	-6995
-▁computer	-6996
-▁emihlanu	-6997
-▁esisodwa	-6998
-▁eyenziwa	-6999
-▁informal	-7000
-▁nemigomo	-7001
-▁standard	-7002
-▁ukubamba	-7003
-▁wokuqala	-7004
-▁womhlaba	-7005
-empumelelo	-7006
-▁Detective	-7007
-▁condition	-7008
-▁continued	-7009
-▁economies	-7010
-▁ecosystem	-7011
-▁esingekho	-7012
-▁intuthuko	-7013
-▁isikhungo	-7014
-▁kumthetho	-7015
-▁nominated	-7016
-▁strategic	-7017
-▁ukuphepha	-7018
-▁businesses	-7019
-▁categories	-7020
-▁ekuthuthuk	-7021
-▁emazingeni	-7022
-▁functional	-7023
-▁ilayisensi	-7024
-▁kwamalungu	-7025
-▁nokwenziwa	-7026
-▁okusebenza	-7027
-▁scientific	-7028
-▁Association	-7029
-▁Kungathatha	-7030
-▁involvement	-7031
-▁nokuphathwa	-7032
-▁substantial	-7033
-▁yokushayela	-7034
--6	-7035
-Ar	-7036
-MS	-7037
-RO	-7038
-WC	-7039
-Kom	-7040
-god	-7041
-hay	-7042
-inc	-7043
-lue	-7044
-raq	-7045
-uba	-7046
-▁Gr	-7047
-▁My	-7048
-▁ud	-7049
-▁wr	-7050
-ania	-7051
-baba	-7052
-bhus	-7053
-bini	-7054
-bisi	-7055
-chit	-7056
-down	-7057
-fune	-7058
-klom	-7059
-komo	-7060
-lock	-7061
-omen	-7062
-omer	-7063
-onst	-7064
-thri	-7065
-tile	-7066
-ustr	-7067
-xaka	-7068
-zuku	-7069
-▁Aud	-7070
-▁His	-7071
-▁Now	-7072
-▁Tel	-7073
-▁Win	-7074
-▁gas	-7075
-▁hor	-7076
-▁nan	-7077
-▁sis	-7078
-▁via	-7079
-▁zis	-7080
-Repha	-7081
-anded	-7082
-bhasi	-7083
-chibi	-7084
-fting	-7085
-gment	-7086
-hipha	-7087
-hlose	-7088
-ichar	-7089
-ijing	-7090
-khukh	-7091
-kiswa	-7092
-order	-7093
-sosha	-7094
-thulu	-7095
-uteng	-7096
-verse	-7097
-vimba	-7098
-zwana	-7099
-▁Sizo	-7100
-▁Ukwe	-7101
-▁abas	-7102
-▁harm	-7103
-▁leng	-7104
-▁plas	-7105
-▁rate	-7106
-▁saba	-7107
-▁simo	-7108
-▁stop	-7109
-▁wobu	-7110
-▁yona	-7111
-▁zise	-7112
-fakiwe	-7113
-indele	-7114
-olonel	-7115
-tition	-7116
-vative	-7117
-yiseni	-7118
-▁Izing	-7119
-▁Olymp	-7120
-▁bakhe	-7121
-▁drive	-7122
-▁items	-7123
-▁parts	-7124
-▁rates	-7125
-▁remar	-7126
-▁scene	-7127
-▁title	-7128
-▁uqala	-7129
-▁uqobo	-7130
-▁yenza	-7131
-bhekele	-7132
-cindezi	-7133
-itarian	-7134
-phelela	-7135
-ruption	-7136
-tention	-7137
-volonti	-7138
-▁Master	-7139
-▁Okunye	-7140
-▁belong	-7141
-▁depend	-7142
-▁ekhona	-7143
-▁eseben	-7144
-▁expend	-7145
-▁friend	-7146
-▁kuhlon	-7147
-▁lwezin	-7148
-▁online	-7149
-▁prison	-7150
-▁rubber	-7151
-▁suffer	-7152
-▁worker	-7153
-Director	-7154
-khukhula	-7155
-khuthaza	-7156
-kundleni	-7157
-▁Israeli	-7158
-▁Mandela	-7159
-▁Special	-7160
-▁concent	-7161
-▁concern	-7162
-▁constra	-7163
-▁contrac	-7164
-▁dealing	-7165
-▁ebusuku	-7166
-▁ezimali	-7167
-▁figures	-7168
-▁kolwazi	-7169
-▁konyaka	-7170
-▁letters	-7171
-▁njengen	-7172
-▁yilungu	-7173
-▁zendawo	-7174
-Misebenzi	-7175
-Mphakathi	-7176
-angempela	-7177
-thengiswa	-7178
-▁Although	-7179
-▁Communic	-7180
-▁Industry	-7181
-▁Jikelele	-7182
-▁Training	-7183
-▁Umnyango	-7184
-▁consists	-7185
-▁launched	-7186
-▁movement	-7187
-▁ndawonye	-7188
-▁okuningi	-7189
-▁okuthile	-7190
-▁osebenza	-7191
-▁position	-7192
-▁umkhumbi	-7193
-▁zemfundo	-7194
-bonakalayo	-7195
-lahlekelwa	-7196
-▁ezikoleni	-7197
-▁ezingekho	-7198
-▁izithombe	-7199
-▁kusebenza	-7200
-▁nezingane	-7201
-▁published	-7202
-▁religious	-7203
-▁ushintsho	-7204
-hlanganiswe	-7205
-▁Protection	-7206
-▁atholakala	-7207
-▁izinguquko	-7208
-▁kuzwelonke	-7209
-▁nomsebenzi	-7210
-▁respective	-7211
-▁umhlangano	-7212
-bandakanyeka	-7213
-yisikhombisa	-7214
-▁esibhedlela	-7215
-▁investigate	-7216
-▁ngokugcwele	-7217
-▁outstanding	-7218
-▁implementing	-7219
-▁recreational	-7220
-▁esifundazweni	-7221
-▁ezibalulekile	-7222
--4	-7223
-IO	-7224
-Or	-7225
-RA	-7226
-xe	-7227
-xu	-7228
-get	-7229
-ols	-7230
-put	-7231
-win	-7232
-wor	-7233
-zal	-7234
-▁CM	-7235
-▁EM	-7236
-▁Ha	-7237
-▁IN	-7238
-▁wi	-7239
-anya	-7240
-bone	-7241
-cipl	-7242
-coma	-7243
-dabu	-7244
-inct	-7245
-kila	-7246
-ored	-7247
-paki	-7248
-qaba	-7249
-rate	-7250
-reci	-7251
-tiki	-7252
-tock	-7253
-▁Ban	-7254
-▁Cup	-7255
-▁Hon	-7256
-▁Nat	-7257
-▁Pot	-7258
-▁Was	-7259
-▁aso	-7260
-▁dig	-7261
-▁nas	-7262
-▁pip	-7263
-▁rou	-7264
-agent	-7265
-aleso	-7266
-cwasa	-7267
-edlul	-7268
-iring	-7269
-istry	-7270
-khadi	-7271
-kwana	-7272
-lahla	-7273
-luhlu	-7274
-mbiwa	-7275
-oking	-7276
-reets	-7277
-shesh	-7278
-thiwe	-7279
-ulegi	-7280
-using	-7281
-▁2007	-7282
-▁Emin	-7283
-▁Inde	-7284
-▁Insp	-7285
-▁Plan	-7286
-▁What	-7287
-▁canc	-7288
-▁clin	-7289
-▁enza	-7290
-▁feel	-7291
-▁foot	-7292
-▁kuna	-7293
-▁mass	-7294
-▁mort	-7295
-▁nani	-7296
-▁note	-7297
-▁olwa	-7298
-▁pred	-7299
-▁sold	-7300
-▁task	-7301
-▁test	-7302
-▁trac	-7303
-▁truc	-7304
-▁ways	-7305
-▁wide	-7306
-▁yami	-7307
-▁zayo	-7308
-ayithi	-7309
-balala	-7310
-buyela	-7311
-esekwa	-7312
-galelo	-7313
-hlotsh	-7314
-icated	-7315
-jabula	-7316
-keting	-7317
-kusasa	-7318
-sotsha	-7319
-ungech	-7320
-▁Board	-7321
-▁House	-7322
-▁aspec	-7323
-▁const	-7324
-▁flood	-7325
-▁heard	-7326
-▁limit	-7327
-▁mobil	-7328
-▁ngase	-7329
-▁perpe	-7330
-▁trial	-7331
-hlaziya	-7332
-phawula	-7333
-qeqeshi	-7334
-quiries	-7335
-shonile	-7336
-▁Produc	-7337
-▁civili	-7338
-▁kuyona	-7339
-▁liquid	-7340
-▁nokuzi	-7341
-▁organi	-7342
-▁purcha	-7343
-▁tender	-7344
-▁trends	-7345
-▁yezoku	-7346
-cishiswa	-7347
-edolobha	-7348
-ervation	-7349
-thanethi	-7350
-▁Contact	-7351
-▁Produce	-7352
-▁Science	-7353
-▁bendawo	-7354
-▁central	-7355
-▁culture	-7356
-▁defined	-7357
-▁inkinga	-7358
-▁kuhlelo	-7359
-▁kumuntu	-7360
-▁kwalabo	-7361
-▁morning	-7362
-▁nangoku	-7363
-▁revenue	-7364
-▁science	-7365
-▁tourism	-7366
-▁yiyiphi	-7367
-enyezelwa	-7368
-khukhwini	-7369
-▁designed	-7370
-▁disposal	-7371
-▁elilodwa	-7372
-▁ephakeme	-7373
-▁facility	-7374
-▁imigwaqo	-7375
-▁izikhulu	-7376
-▁kwenzeke	-7377
-▁language	-7378
-▁njengezi	-7379
-▁patterns	-7380
-▁recently	-7381
-▁situated	-7382
-▁ukubonga	-7383
-hlanganise	-7384
-▁Ukwakhiwa	-7385
-▁amakhophi	-7386
-▁assaulted	-7387
-▁essential	-7388
-▁ezindlini	-7389
-▁indicated	-7390
-▁izincwadi	-7391
-▁izingxoxo	-7392
-▁lamalungu	-7393
-▁ngezimali	-7394
-▁promoting	-7395
-▁robberies	-7396
-▁scheduled	-7397
-▁ukubulala	-7398
-▁ukuvikela	-7399
-▁yingxenye	-7400
-Rephabhliki	-7401
-mabhizinisi	-7402
-▁Abasebenzi	-7403
-▁Ngicabanga	-7404
-▁Veterinary	-7405
-▁compliance	-7406
-▁esikhalisa	-7407
-▁evaluation	-7408
-▁permission	-7409
-▁sifundazwe	-7410
-▁statistics	-7411
-▁weNkantolo	-7412
-▁implemented	-7413
-▁kwemithetho	-7414
-▁lokusebenza	-7415
-▁ngezindlela	-7416
-▁partnership	-7417
-▁certificates	-7418
-zobuchwepheshe	-7419
-PA	-7420
-ox	-7421
-pl	-7422
-▁/	-7423
-IFA	-7424
-bru	-7425
-ker	-7426
-nye	-7427
-qoq	-7428
-sus	-7429
-tro	-7430
-▁CK	-7431
-▁IS	-7432
-▁PA	-7433
-▁Po	-7434
-▁Qu	-7435
-char	-7436
-cons	-7437
-eres	-7438
-fish	-7439
-gcul	-7440
-jela	-7441
-kini	-7442
-kuba	-7443
-misa	-7444
-olid	-7445
-pofu	-7446
-qede	-7447
-reas	-7448
-tati	-7449
-undi	-7450
-weto	-7451
-wide	-7452
-zalo	-7453
-ziyo	-7454
-▁Col	-7455
-▁Ung	-7456
-▁VAT	-7457
-▁Wil	-7458
-▁hij	-7459
-▁mid	-7460
-▁pen	-7461
-▁tro	-7462
-▁uth	-7463
-▁yay	-7464
-acked	-7465
-alowo	-7466
-aniso	-7467
-close	-7468
-eniso	-7469
-gxila	-7470
-organ	-7471
-speci	-7472
-teshi	-7473
-thize	-7474
-unywe	-7475
-wodwa	-7476
-▁Land	-7477
-▁Noku	-7478
-▁Requ	-7479
-▁Sesi	-7480
-▁aben	-7481
-▁baka	-7482
-▁chem	-7483
-▁comb	-7484
-▁heav	-7485
-▁kuyi	-7486
-▁luya	-7487
-▁okhe	-7488
-▁seli	-7489
-▁semi	-7490
-▁uDkt	-7491
-▁ubul	-7492
-▁vacc	-7493
-▁yezo	-7494
-Israel	-7495
-andeli	-7496
-banjwe	-7497
-gement	-7498
-ishiwe	-7499
-reness	-7500
-thwala	-7501
-ulated	-7502
-zimela	-7503
-▁Ifomu	-7504
-▁Sudan	-7505
-▁acces	-7506
-▁atmos	-7507
-▁doing	-7508
-▁early	-7509
-▁ekuph	-7510
-▁embar	-7511
-▁ezikh	-7512
-▁fever	-7513
-▁fight	-7514
-▁kwami	-7515
-▁kwimi	-7516
-▁nakwe	-7517
-fundela	-7518
-fundisi	-7519
-jondolo	-7520
-pesheli	-7521
-related	-7522
-sihlalo	-7523
-tlement	-7524
-yunyane	-7525
-▁Asikho	-7526
-▁Chiefs	-7527
-▁During	-7528
-▁Iqembu	-7529
-▁Safety	-7530
-▁Umbiko	-7531
-▁active	-7532
-▁effort	-7533
-▁exceed	-7534
-▁finger	-7535
-▁guaran	-7536
-▁kulelo	-7537
-▁little	-7538
-▁mother	-7539
-▁placed	-7540
-▁render	-7541
-▁udlame	-7542
-▁umbuso	-7543
-▁urgent	-7544
-▁wanted	-7545
-bonelela	-7546
-hlabathi	-7547
-hlonipha	-7548
-indeleke	-7549
-kwamanye	-7550
-tshenzwa	-7551
-▁carried	-7552
-▁kunjalo	-7553
-▁kushiwo	-7554
-▁namanzi	-7555
-▁nenqubo	-7556
-▁phezulu	-7557
-▁recogni	-7558
-▁sokunga	-7559
-▁weekend	-7560
-dlulisela	-7561
-hlelekile	-7562
-khonjiswe	-7563
-omsebenzi	-7564
-phoyiseni	-7565
-shintshwa	-7566
-zomthetho	-7567
-zonikezwa	-7568
-▁Johannes	-7569
-▁achieved	-7570
-▁amalunga	-7571
-▁bobabili	-7572
-▁critical	-7573
-▁eyedlule	-7574
-▁improved	-7575
-▁izincomo	-7576
-▁kwelinye	-7577
-▁ngalokho	-7578
-▁suitable	-7579
-▁ukuhlola	-7580
-▁utshwala	-7581
-khomishani	-7582
-technology	-7583
-▁Izinhlelo	-7584
-▁affidavit	-7585
-▁attention	-7586
-▁ekuqaleni	-7587
-▁interview	-7588
-▁kwezimoto	-7589
-▁namazinga	-7590
-▁ngenyanga	-7591
-▁ukuthatha	-7592
-khubazekile	-7593
-▁agreements	-7594
-▁authorised	-7595
-▁contribute	-7596
-▁detectives	-7597
-▁inkululeko	-7598
-▁interested	-7599
-▁laboratory	-7600
-▁nesikhathi	-7601
-▁nomthelela	-7602
-▁ukuqhubeka	-7603
-▁accompanied	-7604
-▁ayisithupha	-7605
-▁ubudlelwano	-7606
-▁womphakathi	-7607
-▁consultation	-7608
-▁eMkhandlwini	-7609
-▁okuqhubekayo	-7610
-▁ukuthuthukisa	-7611
-▁recommendations	-7612
-Ng	-7613
-Th	-7614
-acc	-7615
-ara	-7616
-bes	-7617
-dlo	-7618
-dum	-7619
-fan	-7620
-mas	-7621
-oks	-7622
-ped	-7623
-rus	-7624
-ssi	-7625
-syc	-7626
-ubo	-7627
-▁Es	-7628
-▁Fr	-7629
-Limo	-7630
-ashi	-7631
-gidi	-7632
-izer	-7633
-more	-7634
-phes	-7635
-roup	-7636
-undu	-7637
-vour	-7638
-zimb	-7639
-▁Dis	-7640
-▁Fla	-7641
-▁Ila	-7642
-▁Kub	-7643
-▁Med	-7644
-▁ame	-7645
-▁asa	-7646
-▁ash	-7647
-▁esh	-7648
-▁mal	-7649
-▁nur	-7650
-alele	-7651
-ariff	-7652
-dluli	-7653
-eless	-7654
-field	-7655
-forms	-7656
-fungo	-7657
-hlahl	-7658
-iding	-7659
-khemi	-7660
-light	-7661
-qedwa	-7662
-quate	-7663
-uleni	-7664
-▁1998	-7665
-▁Kung	-7666
-▁Kuya	-7667
-▁auto	-7668
-▁bath	-7669
-▁dela	-7670
-▁dign	-7671
-▁enta	-7672
-▁game	-7673
-▁gene	-7674
-▁laws	-7675
-▁mach	-7676
-▁milk	-7677
-▁obun	-7678
-▁occa	-7679
-▁symb	-7680
-▁ubum	-7681
-▁wabe	-7682
-▁wawo	-7683
-▁yilo	-7684
-▁zawo	-7685
-United	-7686
-akhiwo	-7687
-alokhu	-7688
-cation	-7689
-coming	-7690
-hlawum	-7691
-hlolwe	-7692
-itting	-7693
-licate	-7694
-onents	-7695
-thetic	-7696
-unyiwe	-7697
-yalezo	-7698
-▁Mlaba	-7699
-▁Table	-7700
-▁Thola	-7701
-▁asked	-7702
-▁assum	-7703
-▁award	-7704
-▁benga	-7705
-▁elizo	-7706
-▁emibi	-7707
-▁enhle	-7708
-▁esezi	-7709
-▁ngizo	-7710
-▁raped	-7711
-▁remin	-7712
-▁remun	-7713
-▁yokun	-7714
-andelwa	-7715
-bhukuda	-7716
-iscated	-7717
-ithathe	-7718
-khiweni	-7719
-khulisa	-7720
-mbilini	-7721
-mbisana	-7722
-nership	-7723
-phenywa	-7724
-riminal	-7725
-▁Branch	-7726
-▁Resour	-7727
-▁acting	-7728
-▁amasha	-7729
-▁athola	-7730
-▁causes	-7731
-▁effici	-7732
-▁esisha	-7733
-▁expert	-7734
-▁famili	-7735
-▁imboni	-7736
-▁kwezim	-7737
-▁liquor	-7738
-▁okuhle	-7739
-▁omuhle	-7740
-▁othile	-7741
-▁secure	-7742
-▁yemali	-7743
-endaweni	-7744
-jabulisa	-7745
-landelwa	-7746
-phesheya	-7747
-piliyoni	-7748
-zimisela	-7749
-▁bathole	-7750
-▁content	-7751
-▁decided	-7752
-▁ebekiwe	-7753
-▁ekuseni	-7754
-▁entered	-7755
-▁ezinhle	-7756
-▁neminye	-7757
-▁ngokobu	-7758
-▁sectors	-7759
-▁visited	-7760
-Bugebengu	-7761
-ellectual	-7762
-rehensive	-7763
-▁Children	-7764
-▁District	-7765
-▁Regional	-7766
-▁articles	-7767
-▁domestic	-7768
-▁duration	-7769
-▁employed	-7770
-▁eyenziwe	-7771
-▁firearms	-7772
-▁indicate	-7773
-▁inkulumo	-7774
-▁izizathu	-7775
-▁kuphinde	-7776
-▁lokufaka	-7777
-▁nomnotho	-7778
-▁normally	-7779
-▁occurred	-7780
-▁outcomes	-7781
-▁presence	-7782
-▁proposed	-7783
-▁sections	-7784
-▁uMnyango	-7785
-▁yokwakha	-7786
-Khomishane	-7787
-elayisensi	-7788
-inthanethi	-7789
-itatimende	-7790
-khasimende	-7791
-mukelekile	-7792
-thintekile	-7793
-▁Financial	-7794
-▁commended	-7795
-▁eliseduze	-7796
-▁envisaged	-7797
-▁extension	-7798
-▁insolvent	-7799
-▁languages	-7800
-▁ngamandla	-7801
-▁processed	-7802
-▁promotion	-7803
-▁receiving	-7804
-▁supported	-7805
-▁thousands	-7806
-▁umphumela	-7807
-▁yezilwane	-7808
-▁consistent	-7809
-▁esifundeni	-7810
-▁ukuphathwa	-7811
-▁constraints	-7812
-▁ePhalamende	-7813
-▁expenditure	-7814
-▁izidakamizwa	-7815
-▁presentation	-7816
-▁Imininingwane	-7817
-▁eNtshonalanga	-7818
-▁interventions	-7819
-▁Administration	-7820
-▁okwesikhashana	-7821
--9	-7822
-OM	-7823
-PP	-7824
-Ph	-7825
-Ro	-7826
-Vi	-7827
-YE	-7828
-hn	-7829
-oe	-7830
-Pro	-7831
-ain	-7832
-ets	-7833
-gon	-7834
-lig	-7835
-ops	-7836
-rew	-7837
-sel	-7838
-thy	-7839
-ugu	-7840
-▁13	-7841
-▁Ke	-7842
-▁Nj	-7843
-▁iN	-7844
-▁ki	-7845
-▁pi	-7846
-chef	-7847
-cket	-7848
-dson	-7849
-emen	-7850
-enni	-7851
-gqam	-7852
-havi	-7853
-head	-7854
-hlwe	-7855
-kule	-7856
-loem	-7857
-logy	-7858
-pter	-7859
-resh	-7860
-size	-7861
-uded	-7862
-utri	-7863
-vide	-7864
-vuza	-7865
-ydro	-7866
-yers	-7867
-zany	-7868
-▁IRP	-7869
-▁Nor	-7870
-▁Sur	-7871
-▁fur	-7872
-▁gun	-7873
-▁ped	-7874
-▁umn	-7875
-▁upd	-7876
-▁vir	-7877
-aleka	-7878
-ayizi	-7879
-bosch	-7880
-dweba	-7881
-endle	-7882
-eorge	-7883
-fihlo	-7884
-ililo	-7885
-ilure	-7886
-istan	-7887
-pheka	-7888
-phozi	-7889
-rants	-7890
-sheya	-7891
-shiya	-7892
-▁Angi	-7893
-▁Brit	-7894
-▁From	-7895
-▁Stat	-7896
-▁aler	-7897
-▁dead	-7898
-▁else	-7899
-▁equi	-7900
-▁ezit	-7901
-▁goal	-7902
-▁imig	-7903
-▁kuwe	-7904
-▁lelo	-7905
-▁lwen	-7906
-▁lwes	-7907
-▁ongu	-7908
-▁prof	-7909
-▁rich	-7910
-▁seen	-7911
-▁shot	-7912
-▁side	-7913
-▁unre	-7914
-▁uthe	-7915
-▁valu	-7916
-▁yeng	-7917
-▁	-7918
-e	-7919
-a	-7920
-i	-7921
-n	-7922
-o	-7923
-t	-7924
-s	-7925
-l	-7926
-u	-7927
-h	-7928
-k	-7929
-r	-7930
-m	-7931
-d	-7932
-w	-7933
-g	-7934
-b	-7935
-c	-7936
-y	-7937
-z	-7938
-p	-7939
-f	-7940
-.	-7941
-v	-7942
-,	-7943
-q	-7944
--	-7945
-A	-7946
-I	-7947
-S	-7948
-T	-7949
-M	-7950
-j	-7951
-x	-7952
-C	-7953
-N	-7954
-U	-7955
-P	-7956
-R	-7957
-D	-7958
-K	-7959
-B	-7960
-E	-7961
-L	-7962
-W	-7963
-F	-7964
-O	-7965
-H	-7966
-0	-7967
-G	-7968
-;	-7969
-1	-7970
-:	-7971
-'	-7972
-2	-7973
-Z	-7974
-V	-7975
-Y	-7976
-J	-7977
-9	-7978
-3	-7979
-6	-7980
-4	-7981
-5	-7982
-7	-7983
-?	-7984
-8	-7985
-/	-7986
-Q	-7987
-X	-7988
-(	-7989
-)	-7990
-&	-7991
-!	-7992
-@	-7993
-_	-7994
-\	-7995
-^	-7996
+the
+,
+of
+.
+and
+to
+a
+in
+;
+or
+ed
+is
+that
+be
+l@@
+es
+ing
+by
+s@@
+noma
+must
+The
+n@@
+for
+ation
+t@@
+c@@
+in@@
+f@@
+with
+en@@
+any
+m@@
+re@@
+is@@
+as
+e@@
+el@@
+s
+an
+b@@
+un@@
+on
+t
+legislation
+e
+y@@
+-
+may
+v@@
+i@@
+National
+al
+w@@
+national
+al@@
+kw@@
+Constitution
+z@@
+ul@@
+futhi
+em@@
+provincial
+ate
+am@@
+tion
+ed@@
+u@@
+ers
+ab@@
+ent
+g@@
+ng@@
+im@@
+its
+ig@@
+are
+we
+Assembly
+y
+er
+on@@
+il@@
+ted
+terms
+con@@
+d@@
+ku@@
+President
+r@@
+it
+ob@@
+not
+it@@
+S@@
+Council
+other
+kufanele
+p@@
+kanye
+able
+I@@
+has
+o
+es@@
+um@@
+E@@
+R@@
+ment
+at
+1@@
+ence
+A
+which
+h@@
+legislature
+from
+ated
+thethosisekelo
+this
+as@@
+ac@@
+end@@
+an@@
+loku@@
+k@@
+ol@@
+2@@
+ise
+ance
+B@@
+o@@
+members
+er@@
+ph@@
+ap@@
+section
+ar@@
+ting
+uma
+ts
+person
+at@@
+ak@@
+one
+have
+ngoku@@
+elwe
+a@@
+member
+ela
+eng@@
+all
+us@@
+A@@
+ez@@
+ations
+new
+ity
+will
+ces
+id@@
+om@@
+or@@
+th@@
+se@@
+government
+M@@
+tions
+int@@
+q@@
+st@@
+noku@@
+esig@@
+iz@@
+aba
+their
+oku@@
+and@@
+ang@@
+kaZwelonke
+state
+u
+Parliament
+wa
+P@@
+i
+ic@@
+ungu
+province
+kazwelonke
+ud@@
+ies
+comm@@
+ala
+ith@@
+ele
+ti@@
+ing@@
+elwa
+South
+uM@@
+njeng@@
+pro@@
+dis@@
+omusha
+tr@@
+par@@
+we@@
+subsection
+pr@@
+for@@
+ow@@
+umthetho
+ative
+khandlu
+ates
+N@@
+T@@
+office
+ev@@
+inter@@
+our
+ib@@
+pe@@
+af@@
+been
+C@@
+functions
+O@@
+thetho
+ex@@
+aph@@
+ad@@
+si@@
+L@@
+refer@@
+if
+6
+Republic
+Act
+public
+res@@
+ill
+Deputy
+ec@@
+ani
+who
+executive
+law
+before
+av@@
+Commission
+koku@@
+municip@@
+after
+sub@@
+phakathi
+ule
+ons
+ass@@
+within
+az@@
+ile
+atshana
+iph@@
+qu@@
+ung@@
+-@@
+was
+I
+Premier
+iswa
+isa
+eth@@
+ub@@
+ishayamthetho
+nom@@
+Provin@@
+kul@@
+ek@@
+dec@@
+j@@
+pres@@
+umuntu
+ision
+stitutional
+Phalamende
+no
+ial
+elec@@
+tive
+J@@
+l
+m
+election
+when
+ote
+ish@@
+eni
+ters
+ngendlela
+ana
+reas@@
+sig@@
+lo@@
+alo
+commit@@
+red
+sec@@
+ent@@
+administr@@
+ter@@
+ot@@
+hl@@
+ement
+ik@@
+ay@@
+uku@@
+ir@@
+ch@@
+jud@@
+ci@@
+et@@
+Executive
+ary
+Mthethosisekelo
+Uku@@
+ona
+right
+en
+3
+ures
+F@@
+:
+abh@@
+U@@
+h
+iso
+Sch@@
+ind@@
+sh@@
+accord@@
+pre@@
+ality
+deleg@@
+H@@
+only
+ar
+os@@
+ure
+kwis@@
+ency
+azwe
+le@@
+ly
+party
+3@@
+represent@@
+4
+but
+Mkhandlu
+aw@@
+2
+iphi
+5
+legisl@@
+no@@
+cons@@
+rem@@
+soku@@
+declar@@
+ong@@
+undla
+d
+ce
+eso
+n
+Africa
+Um@@
+Cabinet
+agr@@
+pl@@
+rel@@
+authority
+under
+de@@
+inye
+ating
+elungelo
+func@@
+ep@@
+ukuthi
+cl@@
+okw@@
+Ch@@
+9
+G@@
+so@@
+iswe
+age
+exerc@@
+court
+eli
+eka
+ag@@
+ath@@
+uhl@@
+yoku@@
+em
+ally
+prom@@
+com@@
+service
+ov@@
+anele
+iq@@
+than
+oM@@
+appoin@@
+if@@
+iy@@
+effect
+pers@@
+time
+ustice
+eb@@
+Con@@
+equ@@
+ifundazwe
+eg@@
+ve
+emb@@
+est
+ue
+D@@
+you
+wh@@
+per@@
+Court
+po@@
+more
+anc@@
+ne@@
+0
+izin@@
+uq@@
+iki
+Ngqongqoshe
+op@@
+yil@@
+weni
+man@@
+onke
+erg@@
+subject
+rights
+koM@@
+ied
+Khomish@@
+ents
+matter
+form
+esi@@
+iwe
+pow@@
+If
+ahl@@
+W@@
+te@@
+zoku@@
+determin@@
+le
+ngaphandle
+ext@@
+ikh@@
+sesifundazwe
+199@@
+ur@@
+untu
+str@@
+hlangano
+ad
+yis@@
+ings
+athwa
+us
+ey@@
+Municip@@
+sho
+proced@@
+order
+njengoba
+1
+awo
+ights
+services
+be@@
+ok@@
+ngaphansi
+Iz@@
+including
+ongameli
+oc@@
+esid@@
+fr@@
+amalungu
+iwo
+esikhundleni
+number
+kwal@@
+ous
+out
+igaba
+end
+stitution
+following
+aq@@
+African
+acted
+desig@@
+kun@@
+ash@@
+ayo
+power
+tee
+oth@@
+ukh@@
+lim@@
+hol@@
+akh@@
+eph@@
+provide
+accoun@@
+ful@@
+uli
+ula
+those
+7@@
+ief
+iko
+eke
+ge
+regul@@
+kodwa
+each
+elo
+ombuso
+4@@
+particip@@
+ay
+ments
+previ@@
+ukusebenza
+det@@
+kh@@
+kom@@
+concer@@
+established
+loc@@
+they
+lika@@
+ain
+ungelo
+ist@@
+prov@@
+unywa
+ambi
+val@@
+parties
+Mongameli
+ter
+ning
+also
+provin@@
+effec@@
+abantu
+kwam@@
+such
+fac@@
+Minister
+nem@@
+make
+umb@@
+nez@@
+consid@@
+into
+ezimali
+kwem@@
+respect
+comp@@
+Afrika
+ord@@
+fol@@
+ithetho
+lw@@
+our@@
+days
+ely
+people
+ukuze
+between
+ekwe
+rec@@
+isi@@
+ach@@
+uny@@
+8
+nam@@
+enti@@
+sion
+set
+x@@
+local
+necessary
+Sekela
+port@@
+oq@@
+ere
+fl@@
+these
+Sh@@
+two
+aff@@
+kumele
+okh@@
+def@@
+yimuphi
+ver@@
+mon@@
+uk@@
+appropri@@
+another
+resul@@
+security
+UM@@
+yo@@
+og@@
+taken
+isikh@@
+kantolo
+ef@@
+30
+use
+su@@
+reg@@
+etho
+In@@
+uko
+were
+lead@@
+In
+od@@
+esh@@
+ukw@@
+least
+olu@@
+tion@@
+ba
+amandla
+ro@@
+sus@@
+isebenzi
+ngen@@
+ist
+anoma
+ha@@
+ong
+any@@
+uc@@
+akam@@
+ection
+proc@@
+It
+fe@@
+Pro@@
+An
+This
+ists
+plac@@
+inz@@
+k
+ept
+uz@@
+hal@@
+kuphela
+aseNingizimu
+ali
+sikh@@
+7
+cr@@
+Uma
+imisebenzi
+kahulumeni
+ezing@@
+establ@@
+por@@
+ini
+iv@@
+pos@@
+ic
+inc@@
+ook
+ture
+first
+perform@@
+purpos@@
+being
+direc@@
+ext
+Fund@@
+ikela
+made
+signed
+ner
+wana
+ish
+Minis@@
+hel@@
+wo
+kung@@
+ngokw@@
+me@@
+so
+ans
+ihl@@
+provided
+ale
+Am@@
+business
+uth@@
+sit@@
+fund@@
+vis@@
+ion
+exp@@
+prot@@
+over
+spec@@
+olo
+ensure
+ethe
+nezin@@
+ulu
+trans@@
+ey
+where
+ive
+kwez@@
+action
+pass@@
+nal@@
+offic@@
+consul@@
+kub@@
+should
+ngam@@
+ush@@
+andakanya
+conduc@@
+ised
+ublic
+shall
+prev@@
+co@@
+lowo
+can
+date
+police
+wom@@
+We
+cul@@
+ebenz@@
+andla
+umsebenzi
+information
+aged
+omb@@
+ezim@@
+economic
+bas@@
+jo@@
+permanent
+sib@@
+Kh@@
+acc@@
+wam@@
+phatha
+kum@@
+ene
+ukuba
+imi
+responsible
+do
+international
+isikhathi
+maj@@
+prac@@
+very
+ulwa
+inv@@
+less
+over@@
+ements
+ngas@@
+anayo
+itional
+law@@
+alities
+democ@@
+ehl@@
+ory
+lom@@
+of@@
+cont@@
+komthetho
+polic@@
+suppor@@
+'s
+om
+act
+iny@@
+th
+ikez@@
+org@@
+stitu@@
+eku@@
+sebenza
+ide
+um
+ect
+ability
+atha
+ess
+does
+shi@@
+appl@@
+own
+esith@@
+ah@@
+would
+my
+9@@
+ekela
+enc@@
+min@@
+up@@
+ukuph@@
+als
+utho
+ama
+development
+asipala
+Ac@@
+elayo:
+respon@@
+ubl@@
+wez@@
+ats
+arr@@
+il
+meas@@
+ship
+adv@@
+ities
+adop@@
+tiv@@
+ngokuthi
+implement@@
+ond@@
+uph@@
+An@@
+kwezin@@
+employ@@
+process
+cribed
+athi
+ekile
+hambisana
+tor@@
+lis@@
+aqembu
+esi
+he@@
+iqhaza
+ds
+ezib@@
+ezin@@
+ation@@
+ell@@
+form@@
+athelo
+without
+relevant
+ulela
+ards
+mat@@
+nguM@@
+embu
+epha
+hla
+Un@@
+ezelo
+Ndunankulu
+them
+report
+ard@@
+enze
+ven@@
+ateg@@
+compl@@
+ited
+ngaphambi
+When
+policy
+fir@@
+ngesikhathi
+sel@@
+aku@@
+tional
+ear@@
+yi@@
+ezith@@
+ezikh@@
+applic@@
+ties
+owo
+ected
+ling@@
+tly
+inqumo
+akhe
+itor@@
+includ@@
+exc@@
+ia
+Im@@
+human
+emva
+take
+azwelonke
+oz@@
+idence
+area
+ebenza
+amazwe
+esifundazwe
+ordin@@
+ill@@
+community
+akha
+ici@@
+institu@@
+oph@@
+need
+inisek@@
+emp@@
+work
+B
+ess@@
+requir@@
+against
+enza
+elele
+fer@@
+produc@@
+sol@@
+sal@@
+appe@@
+atives
+etshenziswa
+setshenziswa
+ast
+abeni
+ested
+athwe
+ekelwe
+f
+ngal@@
+esikh@@
+stat@@
+ine
+wesifundazwe
+cial
+aka
+emthethweni
+side
+tor
+thi
+land@@
+woku@@
+posi@@
+oli
+ilit@@
+esib@@
+govern@@
+Is@@
+li@@
+there
+regard
+bus@@
+ication
+izathu
+eration
+kuz@@
+continu@@
+qembu
+qubo
+No
+enziwe
+8@@
+esim@@
+entr@@
+stand@@
+yez@@
+sur@@
+organis@@
+part@@
+uy@@
+add@@
+ished
+prin@@
+zom@@
+sing@@
+andela
+clud@@
+mayelana
+amalungelo
+emuva
+St@@
+K@@
+period
+und@@
+itation
+benef@@
+med@@
+ility
+endawo
+coun@@
+maqondana
+amuk@@
+ful
+Ng@@
+xenye
+per
+eting
+ained
+unye
+view
+years
+agre@@
+rac@@
+me
+imo
+anga
+odwa
+ahulumeni
+igh@@
+ood
+yom@@
+e-@@
+amba
+kube
+eyo
+through
+ye
+ious
+ingo
+qala
+ills
+areas
+dla
+hulumeni
+General
+crimin@@
+ques@@
+prof@@
+mine
+curr@@
+ily
+cre@@
+fin@@
+hlangan@@
+tic
+wayelekile
+esing@@
+amele
+aban@@
+ness
+bu@@
+ances
+activities
+ical
+osh@@
+izwe
+social
+wel@@
+kuph@@
+approv@@
+est@@
+ka@@
+gro@@
+deter@@
+under@@
+ilungelo
+continue
+du@@
+nen@@
+igomo
+g
+oti
+firm@@
+efanele
+charg@@
+ery
+ika@@
+environ@@
+uf@@
+ests
+Par@@
+requ@@
+und
+Y@@
+V@@
+att@@
+ole
+les@@
+isana
+ezulu
+p
+nokuph@@
+investig@@
+tors
+ets
+taking
+umphakathi
+19@@
+div@@
+ails
+aso
+ite
+oy@@
+ethi
+ingi
+used
+omidi
+abasebenzi
+zik@@
+apply
+ace
+system
+amb@@
+all@@
+ser@@
+bec@@
+five
+he
+amaphoyisa
+Coun@@
+sebenz@@
+alungu
+to@@
+wini
+khona
+cour@@
+kwes@@
+ever
+said
+der@@
+air
+andelayo
+pec@@
+ain@@
+lapho
+som@@
+contr@@
+br@@
+elekile
+Government
+os
+your
+ples
+Presid@@
+communities
+low@@
+w
+akhiwo
+both
+required
+resources
+5@@
+kuy@@
+quality
+ard
+atic
+jects
+ustom@@
+zonke
+co-@@
+nang@@
+ition
+arm@@
+sim@@
+ove
+ezihl@@
+ukuq@@
+0@@
+adminis@@
+eq@@
+ngenxa
+country
+maint@@
+ban@@
+izim@@
+old
+Hulumeni
+andl@@
+aza
+yim@@
+ice
+kus@@
+ayi
+ant
+elela
+enkantolo
+alif@@
+same
+eny@@
+ising
+enz@@
+ten
+ew@@
+ages
+develop@@
+ungo
+follow@@
+omish@@
+ses@@
+application
+led
+Isi@@
+out@@
+control
+esikhathi
+off@@
+ust@@
+ably
+struc@@
+about
+okuf@@
+nges@@
+wes@@
+ned
+o-@@
+kuk@@
+mitted
+abo
+eme
+isting
+dlul@@
+hlang@@
+There
+sem@@
+hamb@@
+tur@@
+different
+Service
+ack
+ach
+nokw@@
+kuv@@
+priv@@
+iziny@@
+ase
+tural
+yem@@
+access
+conditions
+/@@
+kusho
+some
+aya
+ekelwa
+alis@@
+intsh@@
+mis@@
+res
+provid@@
+ended
+serv@@
+anti@@
+rece@@
+ngok@@
+zez@@
+lob@@
+shintsh@@
+sp@@
+ikhulu
+conf@@
+ambe
+capacity
+eneral
+/
+bo@@
+way
+go@@
+ose
+Ap@@
+ngaph@@
+izidingo
+el
+esiph@@
+ering
+ibh@@
+come
+dr@@
+theth@@
+lif@@
+op
+fam@@
+adl@@
+izikh@@
+Z@@
+part
+beg@@
+ulwe
+vention
+ika
+political
+Rev@@
+sebenzi
+anj@@
+eds
+author@@
+aining
+ukub@@
+athelene
+ature
+day
+ikw@@
+based
+S
+sin@@
+education
+uleka
+et
+ieve
+lab@@
+All
+financial
+call@@
+ered
+C
+three
+unyelwe
+possible
+ict
+role
+idingo
+conc@@
+duc@@
+eas@@
+sk@@
+etshenz@@
+yonke
+azo
+ngum@@
+enhl@@
+nab@@
+most
+ukela
+available
+amas@@
+okub@@
+up
+eza
+ut@@
+kukh@@
+ust
+aqhubeka
+society
+indlela
+yal@@
+ezis@@
+ukuv@@
+oned
+means
+yen@@
+akwe
+ra@@
+because
+official
+la@@
+kuth@@
+hlelo
+inform@@
+sign@@
+okuph@@
+te
+ms
+ises
+ther
+bl@@
+ome
+ili
+property
+posed
+ukukh@@
+kwab@@
+zim@@
+eko
+bel@@
+oper@@
+ibu@@
+olv@@
+ject
+yob@@
+cannot
+ives
+siz@@
+ezo
+Afric@@
+industry
+initi@@
+tak@@
+further
+ahla
+ukuhl@@
+Premi@@
+lokho
+evel@@
+issu@@
+land
+faka
+iation
+high
+ink@@
+ree
+ying
+management
+provisi@@
+elana
+qh@@
+like
+uba
+fu@@
+wr@@
+kwi@@
+indic@@
+El@@
+okung@@
+eS@@
+ange
+isekelo
+abang@@
+isayo
+dem@@
+lib@@
+id
+ip@@
+had
+suku
+ume
+umo
+indawo
+ukus@@
+support
+fore
+ant@@
+ens@@
+E
+col@@
+gu@@
+imikh@@
+water
+ukun@@
+These
+man
+ination
+inyaka
+cor@@
+kahle
+gre@@
+ezi
+legal
+abl@@
+citi@@
+yin@@
+ass
+what
+ye@@
+air@@
+edlule
+Th@@
+Sub@@
+during
+x
+akhamuzi
+ug@@
+ight
+ij@@
+ute
+zi
+sions
+wan@@
+cas@@
+enziwa
+lin@@
+ezi@@
+uphi
+elayo
+akwa
+ch
+athe
+ezinye
+elelwe
+emph@@
+project
+ezil@@
+del@@
+nes@@
+countries
+tif@@
+sm@@
+ekho
+thola
+mar@@
+imp@@
+lev@@
+ingxenye
+challeng@@
+ukuth@@
+mul@@
+year
+elelo
+fi@@
+many
+ately
+sioner
+icala
+world
+sion@@
+tax@@
+peri@@
+alisation
+past
+ators
+ngu@@
+ukan@@
+ngokulandela
+Noma
+akhiwe
+ks
+wonke
+ngokushesha
+dleko
+ike
+elelwa
+ently
+respec@@
+gr@@
+involv@@
+saf@@
+cer@@
+isiwe
+uso
+ngom@@
+atsh@@
+programmes
+R
+ff@@
+kan@@
+econom@@
+'@@
+ially
+tic@@
+jec@@
+Som@@
+ual
+Tr@@
+ukul@@
+educ@@
+alleg@@
+ath
+intela
+okwenza
+omthetho
+opportun@@
+ems
+aj@@
+sup@@
+itiki
+Sec@@
+AN@@
+particul@@
+webo
+esikhun@@
+oyisa
+together
+ple
+grow@@
+Comm@@
+sam@@
+nezinye
+eral
+cur@@
+ngez@@
+her
+igh
+important
+ty
+On@@
+succ@@
+uthuk@@
+otsh@@
+indiv@@
+health
+ohl@@
+esting
+vi@@
+esis@@
+sector
+ando
+tre@@
+abas@@
+As
+unic@@
+oug@@
+Cour@@
+ukuz@@
+eased
+tu@@
+wor@@
+aking
+well
+enzeka
+ht
+fundo
+aji
+ej@@
+ulung@@
+dep@@
+Inter@@
+Res@@
+6@@
+enzo
+appro@@
+okuv@@
+els
+eff@@
+citizen@@
+truc@@
+work@@
+port
+erv@@
+data
+se
+ually
+ee
+ors
+di@@
+ono
+ane
+crime
+ikezwa
+iven
+esses
+am
+iselwa
+ential
+trade
+incid@@
+L
+operation
+coll@@
+hous@@
+abab@@
+izimali
+til@@
+elib@@
+uty
+iev@@
+the@@
+body
+eM@@
+ened
+Commit@@
+imali
+amanye
+ati@@
+ends
+ound
+ilities
+four
+ongo
+tain@@
+ement@@
+olung@@
+Prov@@
+isi
+umela
+sev@@
+zib@@
+D
+specific
+ekh@@
+ans@@
+obo
+azi
+phumela
+amag@@
+opho
+buy@@
+change
+uzo
+akany@@
+bonke
+ou@@
+ack@@
+sible
+Pr@@
+thre@@
+ains
+okun@@
+neg@@
+ants
+Bh@@
+case
+parti@@
+tives
+khandl@@
+dleni
+andle
+memb@@
+ekwa
+oko
+obh@@
+ences
+integr@@
+sebenzisa
+are@@
+bhek@@
+imb@@
+mental
+ancial
+icul@@
+lokhu
+sid@@
+ren@@
+duce
+ngab@@
+ending
+ods
+ices
+imib@@
+tax
+pol@@
+imin@@
+ically
+app@@
+specif@@
+qond@@
+ahlukene
+eh@@
+u-@@
+You
+kwel@@
+athu
+ize
+abanye
+spe@@
+elweni
+sis@@
+ny@@
+facilities
+khulu
+cap@@
+istor@@
+then
+ail@@
+lear@@
+construc@@
+akw@@
+import@@
+ann@@
+road@@
+zem@@
+ethwe
+medi@@
+iwa
+isane
+yiz@@
+ost
+ves
+khul@@
+ibe
+viol@@
+Ex@@
+cw@@
+name
+ond
+ank
+Wh@@
+nob@@
+ening
+shor@@
+izing@@
+ezu
+low
+ivumelwano
+strateg@@
+ital
+uation
+ense
+pri@@
+ave
+acts
+mission
+esif@@
+zis@@
+dlela
+lik@@
+owever
+usa
+cil
+To
+cwal@@
+abin@@
+bh@@
+enj@@
+eliph@@
+ziph@@
+could
+For@@
+sy@@
+ezif@@
+centre
+inani
+larg@@
+ros@@
+her@@
+iphakathi
+atural
+abath@@
+whether
+uhlelo
+eziph@@
+complain@@
+ism
+ers@@
+ziy@@
+ology
+y-@@
+They
+Uhulumeni
+leg@@
+Direc@@
+anis@@
+ishwa
+izinto
+identif@@
+kuf@@
+ell
+ograph@@
+Com@@
+oba
+ns
+zing@@
+hlala
+inq@@
+now
+daba
+cip@@
+bal@@
+place
+hlobo
+etha
+bekw@@
+.@@
+ekayo
+nokuhl@@
+Ar@@
+arg@@
+ame
+ret@@
+ow
+eign
+pur@@
+oya
+He@@
+onal
+Ab@@
+chang@@
+ukwenza
+sed
+oshwa
+eziv@@
+tered
+Zwelonke
+ner@@
+his
+Ass@@
+ungula
+iting
+techn@@
+repor@@
+itical
+dlu
+?
+kuhl@@
+delivery
+inqubo
+ensi@@
+lung@@
+kokuba
+children
+permit
+ngalo
+ifund@@
+okho
+istr@@
+seng@@
+ila
+ater
+omunye
+Em@@
+months
+enye
+ment@@
+He
+akwazi
+ional
+des@@
+yes@@
+yab@@
+ena
+sez@@
+ebenzisa
+angaph@@
+alwa
+uka
+bir@@
+tific@@
+acala
+alul@@
+ress
+ners
+esifund@@
+associ@@
+olun@@
+utsh@@
+oka
+labo
+while
+dl@@
+impahla
+tice
+ngezin@@
+inj@@
+ut
+Commissioner
+non-@@
+izith@@
+elin@@
+ukung@@
+plan@@
+ashi
+sikhathi
+related
+kabusha
+mes
+X@@
+hum@@
+isicelo
+eted
+tures
+inga
+ziz@@
+ket
+akathini
+uhulumeni
+ilo
+T
+with@@
+ina
+okungen@@
+ebenzi
+school
+kuka@@
+found
+amoun@@
+aim@@
+ech@@
+arrested
+gqugquz@@
+eziy@@
+iqh@@
+thuthuk@@
+ayelana
+child
+ethwa
+ukum@@
+there@@
+victi@@
+Department
+izind@@
+ply
+akhona
+umel@@
+aze
+eleka
+isl@@
+did
+iti@@
+F
+adi@@
+training
+ian
+ezindawo
+okhu
+get
+resp@@
+ways
+wayo
+udlel@@
+antu
+amal@@
+ials
+izindlela
+know
+imbela
+road
+Cape
+star@@
+occ@@
+tu
+programme
+ru@@
+ahle
+isimo
+gcina
+izo
+issue
+ezingu-@@
+airs
+ongq@@
+ze
+isela
+endl@@
+c
+N
+azweni
+self
+ling
+know@@
+sc@@
+velo
+amakh@@
+hos@@
+ys@@
+edwa
+ax@@
+ener@@
+ich@@
+throug@@
+itsh@@
+kwenziwe
+hlaba
+azinga
+bre@@
+eling@@
+aman@@
+led@@
+a:
+ngokub@@
+mater@@
+ously
+Nd@@
+pay@@
+wane
+kam@@
+group
+njalo
+aphansi
+okukh@@
+anzi
+bese
+vic@@
+Ad@@
+00
+received
+lokw@@
+manag@@
+anye
+alised
+aid
+rol@@
+documents
+siy@@
+ngq@@
+ari@@
+osi@@
+level
+address
+yakhe
+okuz@@
+st
+still
+forms
+qoka
+t-@@
+ek
+Develop@@
+hlanganisa
+gcin@@
+eziz@@
+amaph@@
+ged
+phambili
+azwa
+lwez@@
+ived
+ababili
+sci@@
+oke
+ekw@@
+olog@@
+kulo
+ause
+syst@@
+istic@@
+ipha
+ho@@
+ansi
+roug@@
+tain
+gc@@
+Al@@
+ational
+sch@@
+notho
+uring
+iza
+ngenhloso
+athini
+king
+qhubeka
+him
+esikhashana
+iya
+Ukw@@
+ngokuph@@
+umelelo
+ready
+ahlang@@
+phansi
+submit
+ulwazi
+ecu@@
+activ@@
+andlululo
+nokub@@
+try
+les
+involved
+ombisa
+ciph@@
+private
+zith@@
+isib@@
+od
+esiv@@
+olw@@
+etsh@@
+gener@@
+completed
+amacala
+okuhl@@
+iqizo
+ked
+partment
+ety
+indus@@
+ngayo
+cwele
+zin@@
+ese
+wal@@
+qinisekisa
+qinisek@@
+ezindaba
+cwalisa
+aphoyisa
+V
+weng@@
+wano
+zabo
+ango
+urban
+nor@@
+izink@@
+una
+ease
+cane
+Rep@@
+ase@@
+akathi
+abal@@
+Application
+En@@
+angaphandle
+aqondana
+ethu
+viv@@
+vil@@
+nase@@
+working
+aye
+mil@@
+tern
+ebh@@
+angas@@
+uku
+idiy@@
+copy
+kud@@
+anu
+amah@@
+urity
+resid@@
+nokukh@@
+icelo
+do@@
+bet@@
+lez@@
+eleni
+xhumana
+go
+ezimbili
+isith@@
+abahl@@
+Serv@@
+unga
+tal@@
+sob@@
+zikh@@
+kuyo
+bes@@
+,@@
+mor@@
+izinga
+soci@@
+registered
+line
+esihl@@
+kakhulu
+ngemuva
+bi@@
+esti@@
+ngem@@
+sokuthi
+Police
+necess@@
+olakala
+yini
+crib@@
+tric@@
+tified
+various
+abez@@
+she
+ukile
+abaph@@
+iw@@
+ind
+minis@@
+ezela
+isek@@
+commun@@
+kwen@@
+umelwano
+onga
+olwa
+nokun@@
+obu@@
+schools
+nd@@
+aqhub@@
+nokuth@@
+uv@@
+emi@@
+landela
+nec@@
+kwabantu
+ben@@
+isho
+ild
+ubh@@
+itions
+ir
+Y
+lic@@
+qondo
+edl@@
+umi
+ophe
+alth
+noth@@
+doc@@
+lem@@
+Or@@
+mod@@
+bheka
+Wes@@
+ezinhl@@
+ur
+suspects
+okum@@
+resour@@
+i-@@
+bang@@
+bur@@
+othi
+As@@
+house
+ambisana
+issued
+akazi
+wa@@
+yp@@
+oma
+empilo
+exam@@
+Reg@@
+iving
+impl@@
+Pol@@
+ith
+ezint@@
+contin@@
+child@@
+ons@@
+row@@
+qhub@@
+kanti
+ta@@
+awulo
+entela
+vehic@@
+dif@@
+For
+xox@@
+Ku@@
+ikeza
+alulekile
+ugebengu
+ama@@
+nabo
+uses
+umkh@@
+complete
+eter@@
+O
+nje
+izinsuku
+include
+hovisi
+odi
+asem@@
+poin@@
+nokuthi
+enk@@
+Izin@@
+Durban
+ank@@
+iseni
+Centre
+Wor@@
+Ningizimu
+zen@@
+iningi
+car@@
+Kw@@
+can@@
+udl@@
+va
+eN@@
+esifazane
+ezwa
+ade
+fun@@
+building
+inzeka
+stolen
+iyo
+Ind@@
+Abas@@
+ithi
+Fr@@
+akhiwa
+lu@@
+Ph@@
+oo@@
+enkulu
+ezweni
+plic@@
+re
+yst@@
+ufakazi
+play@@
+ological
+ukuthola
+unyelwa
+endaweni
+aphinde
+i:
+inis@@
+esibh@@
+ols
+ola
+payment
+yokw@@
+omnotho
+Parliam@@
+bez@@
+na@@
+ophi
+egr@@
+eki
+uzi
+uza
+hand@@
+anda
+web@@
+uthor@@
+elis@@
+pat@@
+G
+e:
+on-@@
+umele
+onzo
+deliv@@
+amanzi
+ony@@
+Thekwini
+ingeka
+ized
+entif@@
+kanjalo
+wem@@
+ot
+ngemp@@
+Comp@@
+nezing@@
+expl@@
+elene
+Nor@@
+amp@@
+vume
+apha
+izinhlelo
+company
+der
+ft
+tries
+register
+ya
+iningwane
+ndawo
+enzi
+xh@@
+ayis@@
+ke
+ubufakazi
+ngena
+liam@@
+mp@@
+iness
+ars
+arm
+gquz@@
+ploy@@
+hloso
+kulu
+ersity
+waq@@
+okuth@@
+amabili
+ulo
+ural
+onyaka
+isation
+ships
+a-@@
+cond@@
+hamba
+uhla
+xaz@@
+olak@@
+entity
+Ukuhl@@
+ous@@
+eduze
+akash@@
+And
+ifomu
+vu
+ngokush@@
+nyango
+waqo
+Br@@
+ezingeni
+onj@@
+U
+iphumela
+ehlukene
+olwazi
+SA@@
+arres@@
+aki
+ake
+rob@@
+omhlaba
+differ@@
+ther@@
+qongqoshe
+kukhona
+azane
+ima
+usha
+ikazi
+esha
+eshe
+sti@@
+kubantu
+ngoba
+peo@@
+website
+im
+mas@@
+distr@@
+scho@@
+ich
+aqond@@
+gram@@
+docum@@
+olu
+Afr@@
+own@@
+enya
+war@@
+rol
+suspect
+lapha
+Le
+Off@@
+ambili
+ew
+Pl@@
+sokub@@
+way@@
+izwa
+document
+eti
+emba
+ast@@
+kule
+ukud@@
+estig@@
+bab@@
+anisa
+ign
+er's
+marri@@
+isit@@
+stre@@
+apho
+eya
+SA
+eshini
+okwenziwa
+Manag@@
+read@@
+Sup@@
+otela
+utha
+omp@@
+ulum@@
+ikelele
+b
+ilwane
+uthuko
+ezindaweni
+baz@@
+ticul@@
+isha
+nas@@
+Affairs
+Mr
+eni@@
+ngo@@
+ehhovisi
+gomo
+proper@@
+izindawo
+ede
+edi
+aqh@@
+ody
+oh@@
+certificate
+vehicle
+ngabe
+ins@@
+Kodwa
+ayin@@
+ld
+zi@@
+osuku
+'
+lando
+embly
+yase@@
+mit
+kab@@
+eNingizimu
+oshe
+waste
+Di@@
+site
+let@@
+emib@@
+year@@
+iniso
+akho
+mb@@
+registration
+funda
+ukuny@@
+okus@@
+capac@@
+thethweni
+week@@
+cono
+weph@@
+boku@@
+athatha
+kulung@@
+qal@@
+onz@@
+ton
+ampani
+kant@@
+nj@@
+istration
+upha
+xa
+izamo
+omu
+akhulu
+ie
+ogether
+eld
+ayensi
+vari@@
+ayini
+amath@@
+aste
+ululo
+inde
+amanje
+oso
+ime
+month@@
+oun@@
+Uhlelo
+opha
+(@@
+ips
+suspec@@
+ays
+bay@@
+build@@
+ezimp@@
+izimp@@
+q
+mot@@
+RS
+akela
+khokh@@
+echn@@
+Cabin@@
+athola
+avail@@
+H
+Ro@@
+Commis@@
+unan@@
+imbi
+Kung@@
+fur@@
+wala
+amo
+robb@@
+outh
+Q@@
+wazi
+esicelo
+wase@@
+phela
+izinisi
+anz@@
+abe
+dlalo
+Director@@
+Kapa
+ih@@
+entsh@@
+uthi
+halisa
+amathuba
+char@@
+asa
+osisekelo
+Lokhu
+session
+abanga
+viron@@
+200@@
+ishing
+tsh@@
+ild@@
+itshalo
+itic@@
+jeng@@
+ie@@
+idi
+letter
+vir@@
+kuzo
+ukug@@
+ekeza
+overn@@
+abaz@@
+present@@
+ozi
+qub@@
+licence
+ould
+o:
+Cr@@
+near@@
+possession
+akalo
+kanj@@
+Kumele
+Njeng@@
+ren
+ongqoshe
+certific@@
+base@@
+Pal@@
+close
+awu
+inda
+kuleli
+retur@@
+eziningi
+^
+ber@@
+Re@@
+ikho
+xhum@@
+)
+amende
+idl@@
+ondo
+ma@@
+K
+uye
+abaf@@
+ether
+inyelela
+ngaphakathi
+ube
+ikakhulukazi

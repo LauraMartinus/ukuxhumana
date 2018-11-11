@@ -1,3 +1,5 @@
+# This is using sentence piece. Tensor2Tensor and sentence piece do not get along right now. Some weird encoding issue
+
 import os
 import sys
 import sentencepiece as spm
@@ -65,18 +67,22 @@ for t in translations:
 
     # Train the sentence piece trainer
     model_prefix = 'bpe/en_%s/bpe.%d' % (t, vocab_size,)
-    spm.SentencePieceTrainer.Train('--input=%s,%s --model_prefix=%s --vocab_size=%d --character_coverage=1.0 --model_type=bpe' % 
-                                    (L1_train, L2_train, model_prefix, vocab_size))
+    #spm.SentencePieceTrainer.Train('--input=%s,%s --model_prefix=%s --vocab_size=%d --character_coverage=1.0 --model_type=bpe' % 
+    #                                (L1_train, L2_train, model_prefix, vocab_size))
  
-    sp = spm.SentencePieceProcessor()
-    sp.Load("%s.model" % (model_prefix,))
+    #sp = spm.SentencePieceProcessor()
+    #sp.Load("%s.model" % (model_prefix,))
 
     # Convert the files
-    for x, y in files:
-        encode_and_save_file(x, y, sp)
+    #for x, y in files:
+    #    encode_and_save_file(x, y, sp)
 
     # Clean the vocab for t2t (it doesn't like the probabilities)
     with open("%s.vocab" % (model_prefix), "r") as fin:
         with open("%s.tokens.vocab" % (model_prefix), "w") as fout:
+            first = True
             for l in fin:
-                fout.write('"' + l.split("\t")[0]+'"\n')
+                if first == False:
+                     fout.write("\n")
+                fout.write(l.split("\t")[0])
+                first = False

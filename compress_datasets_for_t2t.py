@@ -51,4 +51,3 @@ with tarfile.open(name=dev_path, mode='w:gz') as tar_handle:
         tar_handle.add(t, arcname=n)
 
 print("Tarballs %s and %s have been created" % (train_path, dev_path))
-
