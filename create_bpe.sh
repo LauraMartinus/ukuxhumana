@@ -2,7 +2,7 @@
 #!/bin/bash
 
 #languages=(zu af ts tn nso)
-languages=(ts tn nso)
+languages=(zu)
 root_folder=clean
 bpe_folder=bpe
 vocab_size=$1

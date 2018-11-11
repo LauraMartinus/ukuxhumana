@@ -17,6 +17,7 @@
 """Data generators for translation data-sets."""
 
 import os
+import tarfile
 from tensor2tensor.data_generators import generator_utils
 from tensor2tensor.data_generators import problem
 from tensor2tensor.data_generators import text_encoder
@@ -110,10 +111,26 @@ class TranslateEnzuBpeRma(translate.TranslateProblem):
     train = dataset_split == problem.DatasetSplit.TRAIN
     return _ENZU_BPE_TRAIN_DATASETS if train else _ENZU_BPE_TEST_DATASETS
 
+
+  def get_dataset(self, directory, filename, split):
+    """Extract the EN_ZU corpus `filename` to directory unless it's there."""
+    dataset = self.source_data_files(split)
+    train_path = os.path.join(directory, filename)
+    if not (tf.gfile.Exists(train_path + ".zu") and
+        tf.gfile.Exists(train_path + ".en")):
+        corpus_file = generator_utils.maybe_download(
+            directory, filename, dataset[0][0])
+        
+        with tarfile.open(corpus_file, "r:gz") as corpus_tar:
+            corpus_tar.extractall(directory)
+    return train_path
+
   def generate_samples(self, data_dir, tmp_dir, dataset_split):
     """Instance of token generator for the Autshomotso BPE en->zu task, training set."""
-    datasets = self.source_data_files(dataset_split)
-    
+    # Get data
+    filename = "enzu_parallel.%d.%s" % (self.bpe_vocab, dataset_split,)
+    data_path = self.get_dataset(tmp_dir,filename,dataset_split)
+
     # Vocab
     vocab_path = os.path.join(data_dir, self.vocab_filename)
     if not tf.gfile.Exists(vocab_path):
@@ -123,10 +140,8 @@ class TranslateEnzuBpeRma(translate.TranslateProblem):
       vocab_list.append(self.oov_token)
       text_encoder.TokenTextEncoder(
           None, vocab_list=vocab_list).store_to_file(vocab_path)
-    tag = "train" if dataset_split == problem.DatasetSplit.TRAIN else "dev"
-    data_path = translate.compile_data(tmp_dir, datasets, "%s-compiled-%s" % (self.name,
-                                                                    tag))
-    return text_problems.text2text_txt_iterator(data_path + ".lang1",
-                                                data_path + ".lang2")
+    
+    return text_problems.text2text_txt_iterator(data_path + ".en",
+                                                data_path + ".zu")
 
 
