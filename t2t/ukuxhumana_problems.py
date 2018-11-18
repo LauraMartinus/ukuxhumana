@@ -22,7 +22,17 @@ ukuxhumana_problems = {
     'translate_enzu_rma':probs.translate_enzu.TranslateEnzuRma(),
     'translate_enzu_rma_8k':probs.translate_enzu.TranslateEnzuRma8k()
 }
-
+t2t-trainer \
+  --generate_data \
+  --data_dir=/tmp/translate_enzu_rma8k/data \
+  --output_dir=/tmp/translate_enzu_rma8k/output \
+  --tmp_dir=/tmp/translate_enzu_rma8k/tmp \
+  --problem=translate_enzu_rma8k \
+  --model=transformer \
+  --hparams_set=transformer_base_single_gpu \
+  --train_steps=125000 \
+  --eval_steps=100 \
+  --t2t_usr_dir=./t2t/problems/
 
 def train(problem_name):
     tf.logging.set_verbosity(tf.logging.INFO)
