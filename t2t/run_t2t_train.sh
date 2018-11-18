@@ -11,6 +11,7 @@
 #pip install -r requirements.txt
 
 # usage: ./run_t2t_train.sh translate_enaf_rma ./clean/en_af enaf_parallel af
+
 problem_name=$1
 original_data_dir=$2
 original_data_prefix=$3
@@ -54,6 +55,7 @@ decode_from=$original_data_dir/$original_data_prefix.test.$source
 decode_to=/tmp/t2t/$problem_name/results/$original_data_prefix.test.$target
 reference=$original_data_dir/$original_data_prefix.test.$target
 
+echo "============ T2T Decoding =========="
 # Do decoding
 t2t-decoder \
   --data_dir=/tmp/t2t/$problem_name/data \
@@ -67,6 +69,7 @@ t2t-decoder \
 
 
 # BLEU scoring
+echo "============ T2T BLEU =========="
 t2t-bleu \
     --translation=$decode_to
     --reference=$reference
