@@ -7,7 +7,7 @@ from tensor2tensor.data_generators import text_problems
 from tensor2tensor.utils import registry
 from tensor2tensor.data_generators import text_encoder
 from tensor2tensor.data_generators import translate
-from translate_entn import TranslateEntnRma
+from problems.translate_entn import TranslateEntnRma
 from tensor2tensor.utils.trainer_lib import create_run_config, create_experiment, create_hparams
 
 

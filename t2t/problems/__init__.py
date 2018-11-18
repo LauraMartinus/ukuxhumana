@@ -1,4 +1,5 @@
-from os.path import dirname, basename, isfile
-import glob
-modules = glob.glob(dirname(__file__)+"/*.py")
-__all__ = [ basename(f)[:-3] for f in modules if isfile(f) and not f.endswith('__init__.py')]
+from . import translate_enaf
+from . import translate_ennso
+from . import translate_entn
+from . import translate_ents
+from . import translate_enzu

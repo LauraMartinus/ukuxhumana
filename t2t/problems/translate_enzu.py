@@ -76,8 +76,26 @@ _ENZU_BPE_TEST_DATASETS = [
 @registry.register_problem
 class TranslateEnzuRma(translate.TranslateProblem):
   """Problem spec for WMT English-Zulu translation."""
-  def __init__(self,approx_vocab_size=32768):
-        self.approx_vocab_size = approx_vocab_size
+  @property
+  def approx_vocab_size(self):
+    return 2**15  # 32768
+
+  @property
+  def vocab_filename(self):
+    return "vocab.enzn.%d" % self.approx_vocab_size
+
+
+  def source_data_files(self, dataset_split):
+    train = dataset_split == problem.DatasetSplit.TRAIN
+    return _ENZU_TRAIN_DATASETS if train else _ENZU_TEST_DATASETS
+
+@registry.register_problem
+class TranslateEnzuRma8k(translate.TranslateProblem):
+  """Problem spec for WMT English-Zulu translation."""
+  
+  @property
+  def approx_vocab_size(self):
+    return 8000
 
   @property
   def vocab_filename(self):

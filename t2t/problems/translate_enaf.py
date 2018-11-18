@@ -53,8 +53,10 @@ _ENAF_TEST_DATASETS = [
 @registry.register_problem
 class TranslateEnafRma(translate.TranslateProblem):
   """Problem spec for English-Afrikaans translation."""
-  def __init__(self, approx_vocab_size=32768):
-    self.approx_vocab_size = approx_vocab_size
+
+  @property
+  def approx_vocab_size(self):
+    return 2**15  # 32768
 
   @property
   def vocab_filename(self):
@@ -68,8 +70,10 @@ class TranslateEnafRma(translate.TranslateProblem):
 
 class TranslateEnafRma8K(TranslateEnafRma):
   """Problem spec for English-Afrikaans translation."""
-  def __init__(self):
-    super(TranslateEnafRma, self).__init__(approx_vocab_size=8000)
+
+  @property
+  def approx_vocab_size(self):
+    return 8000  # 32768
 
   @property
   def vocab_filename(self):
