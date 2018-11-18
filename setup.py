@@ -26,8 +26,6 @@ setuptools.setup(
         "License ::  GPL 3.0",
     ],
     install_requires=[
-        'tensor2tensor',
-        'pandas',
-        'nltk'
+        'tensor2tensor'
     ],
 )
