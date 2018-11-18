@@ -29,40 +29,53 @@ import tensorflow as tf
 EOS = text_encoder.EOS_ID
 
 
-_ENTN_TRAIN_DATASETS = [
+_ENAF_TRAIN_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_tn/eng_tswane.train.tar.gz?raw=true",
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_af/en_af.train.tar.gz?raw=true",
         (
-            "entn_parallel.train.en",
-            "entn_parallel.train.tn"
+            "enaf_parallel.train.en",
+            "enaf_parallel.train.af"
         )
     ]
 ]
 
-_ENTN_TEST_DATASETS = [
+_ENAF_TEST_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_tn/eng_tswane.dev.tar.gz?raw=true",
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_af/en_af.dev.tar.gz?raw=true",
         (
-            "entn_parallel.dev.en",
-            "entn_parallel.dev.tn"
+            "enaf_parallel.dev.en",
+            "enaf_parallel.dev.af"
         )
     ]
 ]
 
 
 @registry.register_problem
-class TranslateEntnRma(translate.TranslateProblem):
-  """Problem spec for WMT English-Tswane translation."""
-
-  @property
-  def approx_vocab_size(self):
-    return 2**15  # 32768
+class TranslateEnafRma(translate.TranslateProblem):
+  """Problem spec for English-Afrikaans translation."""
+  def __init__(self, approx_vocab_size=32768):
+    self.approx_vocab_size = approx_vocab_size
 
   @property
   def vocab_filename(self):
-    return "vocab.entn.%d" % self.approx_vocab_size
+    return "vocab.enaf.%d" % self.approx_vocab_size
 
 
   def source_data_files(self, dataset_split):
     train = dataset_split == problem.DatasetSplit.TRAIN
-    return _ENTN_TRAIN_DATASETS if train else _ENTN_TEST_DATASETS
+    return _ENAF_TRAIN_DATASETS if train else _ENAF_TEST_DATASETS
+
+
+class TranslateEnafRma8K(TranslateEnafRma):
+  """Problem spec for English-Afrikaans translation."""
+  def __init__(self):
+    super(TranslateEnafRma, self).__init__(approx_vocab_size=8000)
+
+  @property
+  def vocab_filename(self):
+    return "vocab.enaf.%d" % self.approx_vocab_size
+
+
+  def source_data_files(self, dataset_split):
+    train = dataset_split == problem.DatasetSplit.TRAIN
+    return _ENAF_TRAIN_DATASETS if train else _ENAF_TEST_DATASETS

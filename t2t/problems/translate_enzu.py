@@ -76,10 +76,8 @@ _ENZU_BPE_TEST_DATASETS = [
 @registry.register_problem
 class TranslateEnzuRma(translate.TranslateProblem):
   """Problem spec for WMT English-Zulu translation."""
-
-  @property
-  def approx_vocab_size(self):
-    return 2**15  # 32768
+  def __init__(self,approx_vocab_size=32768):
+        self.approx_vocab_size = approx_vocab_size
 
   @property
   def vocab_filename(self):

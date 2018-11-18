@@ -29,40 +29,38 @@ import tensorflow as tf
 EOS = text_encoder.EOS_ID
 
 
-_ENAF_TRAIN_DATASETS = [
+_ENNSO_TRAIN_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_af/en_af.train.tar.gz?raw=true",
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_nso/en_nso.train.tar.gz?raw=true",
         (
-            "enaf_parallel.train.en",
-            "enaf_parallel.train.af"
+            "ennso_parallel.train.en",
+            "ennso_parallel.train.nso"
         )
     ]
 ]
 
-_ENAF_TEST_DATASETS = [
+_ENNSO_TEST_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_af/en_af.dev.tar.gz?raw=true",
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_nso/en_nso.dev.tar.gz?raw=true",
         (
-            "enaf_parallel.dev.en",
-            "enaf_parallel.dev.af"
+            "ennso_parallel.dev.en",
+            "ennso_parallel.dev.nso"
         )
     ]
 ]
 
 
 @registry.register_problem
-class TranslateEnafRma(translate.TranslateProblem):
-  """Problem spec for English-Afrikaans translation."""
-
-  @property
-  def approx_vocab_size(self):
-    return 2**15  # 32768
+class TranslateEnnsoRma(translate.TranslateProblem):
+  """Problem spec for English-Northern Sotho translation."""
+  def __init__(self,approx_vocab_size=32768):
+        self.approx_vocab_size = approx_vocab_size
 
   @property
   def vocab_filename(self):
-    return "vocab.enaf.%d" % self.approx_vocab_size
+    return "vocab.ennso.%d" % self.approx_vocab_size
 
 
   def source_data_files(self, dataset_split):
     train = dataset_split == problem.DatasetSplit.TRAIN
-    return _ENAF_TRAIN_DATASETS if train else _ENAF_TEST_DATASETS
+    return _ENNSO_TRAIN_DATASETS if train else _ENNSO_TEST_DATASETS
