@@ -12,37 +12,43 @@ from tensor2tensor.utils.trainer_lib import create_run_config, create_experiment
 import sys
 
 def get_our_problems(vocab_size):
-    our_problems = [{
-        'source': 'en',
-        'target': 'af',
-        'problem_name': 'translate_enaf_rma',
-        'prefix': 'en_af_%s' % vocab_size,
-        'model': probs.translate_enaf.TranslateEnafRma(vocab_size),
-    },{
-        'source': 'en',
-        'target': 'nso',
-        'problem_name': 'translate_ennso_rma',
-        'prefix': 'en_nso_%s' % vocab_size,
-        'model': probs.translate_ennso.TranslateEnnsoRma(vocab_size),
-    },{
-        'source': 'en',
-        'target': 'tn',
-        'problem_name': 'translate_entn_rma',
-        'prefix': 'en_tn_%s' % vocab_size,
-        'model': probs.translate_entn.TranslateEntnRma(vocab_size),
-    },{
-        'source': 'en',
-        'target': 'ts',
-        'problem_name': 'translate_ents_rma',
-        'prefix': 'en_ts_%s' % vocab_size,
-        'model': probs.translate_ents.TranslateEntsRma(vocab_size),
-    },{
-        'source': 'en',
-        'target': 'zu',
-        'problem_name': 'translate_enzu_rma',
-        'prefix': 'en_zu_%s' % vocab_size,
-        'model': probs.translate_enzu.TranslateEnzuRma(vocab_size),
-    }]
+    our_problems = {
+        "translate_enaf_rma":{
+            'source': 'en',
+            'target': 'af',
+            'problem_name': 'translate_enaf_rma',
+            'prefix': 'en_af_%s' % vocab_size,
+            'model': probs.translate_enaf.TranslateEnafRma(vocab_size),
+        },
+        "translate_ennso_rma":{
+            'source': 'en',
+            'target': 'nso',
+            'problem_name': 'translate_ennso_rma',
+            'prefix': 'en_nso_%s' % vocab_size,
+            'model': probs.translate_ennso.TranslateEnnsoRma(vocab_size),
+        },
+        'translate_entn_rma':{
+            'source': 'en',
+            'target': 'tn',
+            'problem_name': 'translate_entn_rma',
+            'prefix': 'en_tn_%s' % vocab_size,
+            'model': probs.translate_entn.TranslateEntnRma(vocab_size),
+        },
+        'translate_ents_rma':{
+            'source': 'en',
+            'target': 'ts',
+            'problem_name': 'translate_ents_rma',
+            'prefix': 'en_ts_%s' % vocab_size,
+            'model': probs.translate_ents.TranslateEntsRma(vocab_size),
+        },
+        'translate_enzu_rma':{
+            'source': 'en',
+            'target': 'zu',
+            'problem_name': 'translate_enzu_rma',
+            'prefix': 'en_zu_%s' % vocab_size,
+            'model': probs.translate_enzu.TranslateEnzuRma(vocab_size),
+        }
+    }
     return our_problems
 
 
