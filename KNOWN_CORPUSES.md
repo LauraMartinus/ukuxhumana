@@ -4,7 +4,7 @@ Here we provide links to known text corpuses for specific African languages
 
 
 ### Parallel
-English-to-<Target>
+English-to-Target
   
 | Language | Source |
 |----------|--------|
