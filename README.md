@@ -26,6 +26,7 @@ Results are given in BLEU.
 | Transformer (40k BPE) (cased)    |   | 4.14 |  |  |  |
 | Transformer (8k BPE) (uncased)  |  |  |  |  |  |
 | Transformer (8k BPE) (cased)    |   |  |  |  |  |
+| Unsupervised MT (60K BPE)    |   | 4.45 |  |  |  |
 
 ### Language -> English
 | Model | Setswana | isiZulu | Northern Sotho | Xitsonga | Afrikaans |
