@@ -2,14 +2,26 @@
 
 Here we provide links to known text corpuses for specific African languages
 
-## Zulu
 
 ### Parallel
-- [Autshumato Corpus](https://rma.nwu.ac.za/index.php/autshumato-eng-zu-parallel-corpora.html)
+English-to-<Target>
+  
+| Language | Source |
+|----------|--------|
+|  Zulu    | [Autshumato Corpus](https://rma.nwu.ac.za/index.php/autshumato-eng-zu-parallel-corpora.html) |
+|  Setswana    |        |
+|  Xitsonga   |        |
+|  Northern-Sotho   |        |
+|  Afrikaans   |        |
+
 
 ### Monolingual
 
-- [Zulu Wikipedia](https://ftp.acc.umu.se/mirror/wikimedia.org/dumps/zuwiki/)
-- [NCHLT isiZulu Text Corpus](https://rma.nwu.ac.za/index.php/isizulu-nchlt-text-corpora.html)
-- [University of Leipzig Zulu Corpora](http://corpora.uni-leipzig.de/en?corpusId=zul_mixed_2016)
-- Current not-available: [isiZulu National Corpus](https://iznc.ukzn.ac.za/)
+| Language | Source |
+|----------|--------|
+|  Zulu    |  [Zulu Wikipedia](https://ftp.acc.umu.se/mirror/wikimedia.org/dumps/zuwiki/)  |
+|  Zulu    |  [NCHLT isiZulu Text Corpus](https://rma.nwu.ac.za/index.php/isizulu-nchlt-text-corpora.html)  |
+|  Zulu    |  [University of Leipzig Zulu Corpora](http://corpora.uni-leipzig.de/en?corpusId=zul_mixed_2016)  |
+|  Zulu    |  [isiZulu National Corpus](https://iznc.ukzn.ac.za/) (currently not avail) |
+|  Zulu    |  [African Speech Technology](https://rma.nwu.ac.za/index.php/resource-catalogue/ast-corpus-isizulu.html)  |
+|          |        |
