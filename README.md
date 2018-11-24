@@ -8,12 +8,18 @@
 
 Our parallel corpuses are from [the Autshumato project](https://biblio.ugent.be/publication/1851705/file/6736544#page=39). The datasets contain data that was translated by professional translators, data that was sourced as translated file pairs from translators and data obtained from Government websites and documents. We also performed extra cleaning on the corpuses, which is described [here](https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/README.md)
 
+
 ## Monolingual Corpuses
 
-Our monolingual corpuses are from a variety of sources. We've used the monolongual corpuses to 
+Our monolingual corpuses are from a variety of sources. We've used the monolingual corpuses for use in the training of fastText embeddings, which are also used in Unsupervised NMT.
 
-## Leipzig Corpus Collection
-- Zulu Corpus
+### Zulu
+
+- [Leipzig Zulu 100K Corpus](http://corpora.uni-leipzig.de/en?corpusId=zul_mixed_2016)
+- [NCHLT isiZulu Text Corpora](https://rma.nwu.ac.za/index.php/isizulu-nchlt-text-corpora.html) cleaned by [Bernhard Duvenhage](https://github.com/praekelt/feersum-lid-shared-task)
+### English
+
+- WMT 2014
 
 ## 
 
