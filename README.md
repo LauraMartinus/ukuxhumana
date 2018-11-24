@@ -1,12 +1,27 @@
 # Ukuxhumana
 
-"Ukuxhumana" means "Communicate" in Zulu. This project is aimed at exploring ideas for using Neural Machine Translation for low-resource languages - specifically for the official languages of South Africa.
+"Ukuxhumana" means "Communicate" in Zulu. This project is aimed at exploring ideas for using Neural Machine Translation for low-resource languages - specifically for the official languages of South Africa. 
 
 # Data
 
 ## Parallel Corpuses
 
-Our parallel corpuses are from [the Autshumato project](https://biblio.ugent.be/publication/1851705/file/6736544#page=39). The datasets contain data that was translated by professional translators, data that was sourced as translated file pairs from translators and data obtained from Government websites and documents
+Our parallel corpuses are from [the Autshumato project](https://biblio.ugent.be/publication/1851705/file/6736544#page=39). The datasets contain data that was translated by professional translators, data that was sourced as translated file pairs from translators and data obtained from Government websites and documents. We also performed extra cleaning on the corpuses, which is described [here](https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/README.md)
+
+
+## Monolingual Corpuses
+
+Our monolingual corpuses are from a variety of sources. We've used the monolingual corpuses for use in the training of fastText embeddings, which are also used in Unsupervised NMT.
+
+### Zulu
+
+- [Leipzig Zulu 100K Corpus](http://corpora.uni-leipzig.de/en?corpusId=zul_mixed_2016)
+- [NCHLT isiZulu Text Corpora](https://rma.nwu.ac.za/index.php/isizulu-nchlt-text-corpora.html) cleaned by [Bernhard Duvenhage](https://github.com/praekelt/feersum-lid-shared-task)
+### English
+
+- WMT 2014
+
+## 
 
 # Models
 Two main architectures are used throughout this project, namely Convolutional Sequence to Sequence by Gehring et. al. and Transformer by Vaswani et. al. Fairseq(-py) and Tensor2Tensor were used in modeling these techniques respectively.
@@ -22,10 +37,7 @@ Results are given in BLEU.
 | Convolutional Seq2Seq (8K BPE) |   | 2.19 | 15.45 |  | 26.78 |
 | Transformer (uncased)  | 33.53  | 4.55 | 29.23 | 47.37 | 35.26 |
 | Transformer (cased)    | 33.12  | 4.45 | 28.71 | 46.95 | 34.81 |
-| Transformer (40k BPE) (uncased)  |  | 4.29 |  |  |  |
-| Transformer (40k BPE) (cased)    |   | 4.14 |  |  |  |
-| Transformer (8k BPE) (uncased)  |  |  |  |  |  |
-| Transformer (8k BPE) (cased)    |   |  |  |  |  |
+| [Unsupervised MT (60K BPE)](https://github.com/facebookresearch/UnsupervisedMT)    |   | 4.45 |  |  |  |
 
 ### Language -> English
 | Model | Setswana | isiZulu | Northern Sotho | Xitsonga | Afrikaans |
@@ -33,3 +45,17 @@ Results are given in BLEU.
 | Convolutional Seq2Seq  |   |  |  |  |  |
 | Transformer (uncased)  |   |  |  |  |  |
 | Transformer (cased)    |   |  |  |  |  |
+
+# Publications & Citations
+
+[Towards Neural Machine Translation for African Languages](https://arxiv.org/abs/1811.05467)
+
+Please cite:
+```
+@article{abbott2018towards,
+  title={Towards Neural Machine Translation for African Languages},
+  author={Abbott, Jade Z and Martinus, Laura},
+  journal={arXiv preprint arXiv:1811.05467},
+  year={2018}
+}
+```
