@@ -6,7 +6,16 @@
 
 ## Parallel Corpuses
 
-Our parallel corpuses are from [the Autshumato project](https://biblio.ugent.be/publication/1851705/file/6736544#page=39). The datasets contain data that was translated by professional translators, data that was sourced as translated file pairs from translators and data obtained from Government websites and documents
+Our parallel corpuses are from [the Autshumato project](https://biblio.ugent.be/publication/1851705/file/6736544#page=39). The datasets contain data that was translated by professional translators, data that was sourced as translated file pairs from translators and data obtained from Government websites and documents. We also performed extra cleaning on the corpuses, which is described [here](https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/README.md)
+
+## Monolingual Corpuses
+
+Our monolingual corpuses are from a variety of sources. We've used the monolongual corpuses to 
+
+## Leipzig Corpus Collection
+- Zulu Corpus
+
+## 
 
 # Models
 Two main architectures are used throughout this project, namely Convolutional Sequence to Sequence by Gehring et. al. and Transformer by Vaswani et. al. Fairseq(-py) and Tensor2Tensor were used in modeling these techniques respectively.
