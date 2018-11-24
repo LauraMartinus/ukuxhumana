@@ -9,10 +9,10 @@ English-to-<Target>
 | Language | Source |
 |----------|--------|
 |  Zulu    | [Autshumato Corpus](https://rma.nwu.ac.za/index.php/autshumato-eng-zu-parallel-corpora.html) |
-|  Setswana    |        |
-|  Xitsonga   |        |
-|  Northern-Sotho   |        |
-|  Afrikaans   |        |
+|  Setswana    |   [Autshumato Corpus](http://rma.nwu.ac.za/index.php/resource-catalogue/autshumato-english-setswana-multi-bilingual-corpus.html)  |
+|  Xitsonga   |   [Autshumato Corpus](http://rma.nwu.ac.za/index.php/resource-catalogue/autshumato-english-xitsonga-bilingual-corpus.html)  |
+|  Northern-Sotho   |   [Autshumato Corpus](https://repo.sadilar.org/handle/20.500.12185/402)  |
+|  Afrikaans   |  [Autshumato Corpus](https://repo.sadilar.org/handle/20.500.12185/397)  |
 
 
 ### Monolingual
