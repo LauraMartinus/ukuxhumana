@@ -22,7 +22,7 @@ Results are given in BLEU.
 | Convolutional Seq2Seq (8K BPE) |   | 2.19 | 15.45 |  | 26.78 |
 | Transformer (uncased)  | 33.53  | 4.55 | 29.23 | 47.37 | 35.26 |
 | Transformer (cased)    | 33.12  | 4.45 | 28.71 | 46.95 | 34.81 |
-| Unsupervised MT (60K BPE)    |   | 4.45 |  |  |  |
+| [Unsupervised MT (60K BPE)](https://github.com/facebookresearch/UnsupervisedMT)    |   | 4.45 |  |  |  |
 
 ### Language -> English
 | Model | Setswana | isiZulu | Northern Sotho | Xitsonga | Afrikaans |
