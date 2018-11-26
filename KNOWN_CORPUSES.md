@@ -24,4 +24,5 @@ English-to-Target
 |  Zulu    |  [University of Leipzig Zulu Corpora](http://corpora.uni-leipzig.de/en?corpusId=zul_mixed_2016)  |
 |  Zulu    |  [isiZulu National Corpus](https://iznc.ukzn.ac.za/) (currently not avail) |
 |  Zulu    |  [African Speech Technology](https://rma.nwu.ac.za/index.php/resource-catalogue/ast-corpus-isizulu.html)  |
-|          |        |
+|  Zulu    |  [Zulu Bible](https://raw.githubusercontent.com/christos-c/bible-corpus/master/bibles/Zulu-NT.xml) (to be scraped) |
+|  Zulu    |  [Zulu Quoran](http://idmdawah.co.za/wp-content/uploads/2015/07/zulu-quran1.pdf) (to be scraped) |
