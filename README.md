@@ -1,6 +1,7 @@
 # Ukuxhumana
 
-"Ukuxhumana" means "Communicate" in Zulu. This project is aimed at exploring ideas for using Neural Machine Translation for low-resource languages - specifically for the official languages of South Africa. 
+"Ukuxhumana" means "Communicate" in Zulu. This project is aimed at exploring ideas for using Neural Machine Translation for low-resource languages - right now, specifically for the official languages of South Africa, but we are looking for collaborators across the continent to work together with us for the other languages
+
 # Mission
 
 - Provide a centralized repository for known datasets for African NMT and other NLP applications.
