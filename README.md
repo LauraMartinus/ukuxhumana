@@ -28,7 +28,10 @@ Our monolingual corpuses are from a variety of sources. We've used the monolingu
 
 - WMT 2014
 
-## 
+## Known Corpuses
+
+We keep a list of known corpuses for African languages [here](https://github.com/LauraMartinus/ukuxhumana/blob/master/KNOWN_CORPUSES.md). Please consider contributing a link to your corpus :) 
+
 
 # Models
 Two main architectures are used throughout this project, namely Convolutional Sequence to Sequence by Gehring et. al. and Transformer by Vaswani et. al. Fairseq(-py) and Tensor2Tensor were used in modeling these techniques respectively.
