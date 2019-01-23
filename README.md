@@ -43,7 +43,7 @@ Results are given in BLEU.
 | Model | Setswana | isiZulu | Northern Sotho | Xitsonga | Afrikaans |
 | ------- | ------- |------- |------- |------- |------- |
 | Convolutional Seq2Seq (clean)  | 24.18  | 0.28 | 7.41 | 36.96 | 16.17 |
-| Convolutional Seq2Seq (best BPE) |  | 1.79 (4k) | 12.18 (4k) |  | 25.04 (4k) |
+| Convolutional Seq2Seq (best BPE) |  | 1.79 (4k) | 12.18 (4k) | 37.45 (20k) | 25.04 (4k) |
 | Transformer (uncased)  | 33.53  | 4.55 | 29.23 | 47.37 | 35.26 |
 | Transformer (cased)    | 33.12  | 4.45 | 28.71 | 46.95 | 34.81 |
 | [Unsupervised MT (60K BPE)](https://github.com/facebookresearch/UnsupervisedMT)    |   | 4.45 |  |  |  |
