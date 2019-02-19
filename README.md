@@ -58,6 +58,7 @@ Results are given in BLEU.
 | Convolutional Seq2Seq (bpe)  |   | 5.13 (4k) | 11.98 (8k) | 36.11 (8k) | 26.76 (8k) |
 | Transformer (uncased)  |   |  |  |  |  |
 | Transformer (cased)    |   |  |  |  |  |
+
 \* Zulu data requires cleaning. Translations often contain more information than in original sentence, leading to poor BLEU scores.
 
 # Publications & Citations
