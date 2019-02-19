@@ -40,8 +40,9 @@ Two main architectures are used throughout this project, namely Convolutional Se
 Results are given in BLEU.
 ## Baseline 
 ### English -> Language
-| Model | Setswana | isiZulu | Northern Sotho | Xitsonga | Afrikaans |
+| Model | Setswana | isiZulu* | Northern Sotho | Xitsonga | Afrikaans |
 | ------- | ------- |------- |------- |------- |------- |
+| Google Translate       |        | 7.55 |       |       | 41.181 |
 | Convolutional Seq2Seq (clean)  | 24.18  | 0.28 | 7.41 | 36.96 | 16.17 |
 | Convolutional Seq2Seq (best BPE) |  | 1.79 (4k) | 12.18 (4k) | 37.45 (20k) | 25.04 (4k) |
 | Transformer (uncased)  | 33.53  | 4.55 | 24.16 (4k) | 49.74 (20k) | 35.26 (4k) |
@@ -52,7 +53,7 @@ Results are given in BLEU.
 
 
 ### Language -> English
-| Model | Setswana | isiZulu | Northern Sotho | Xitsonga | Afrikaans |
+| Model | Setswana | isiZulu* | Northern Sotho | Xitsonga | Afrikaans |
 | ------- | ------- |------- |------- |------- |------- |
 | Convolutional Seq2Seq (clean)  |   | 0.95 | 5.80 | 39.19 | 25.99 |
 | Convolutional Seq2Seq (morfessor)  |   | 2.38 |  |  |  |
@@ -62,6 +63,7 @@ Results are given in BLEU.
 | Transformer (cased)    |   |  |  |  |  |
 
 
+\* Zulu data requires cleaning. Translations often contain more information than in original sentence, leading to poor BLEU scores.
 
 # Publications & Citations
 
