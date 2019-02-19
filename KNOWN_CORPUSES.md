@@ -13,6 +13,7 @@ English-to-Target
 |  Xitsonga   |   [Autshumato Corpus](http://rma.nwu.ac.za/index.php/resource-catalogue/autshumato-english-xitsonga-bilingual-corpus.html)  |
 |  Northern-Sotho   |   [Autshumato Corpus](https://repo.sadilar.org/handle/20.500.12185/402)  |
 |  Afrikaans   |  [Autshumato Corpus](https://repo.sadilar.org/handle/20.500.12185/397)  |
+| Xhosa | [Navy Corpus](http://opus.nlpl.eu/XhosaNavy.php)
 
 
 ### Monolingual
