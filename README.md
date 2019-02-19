@@ -51,7 +51,7 @@ Results are given in BLEU.
 ### Language -> English
 | Model | Setswana | isiZulu | Northern Sotho | Xitsonga | Afrikaans |
 | ------- | ------- |------- |------- |------- |------- |
-| Google Translate       |        | 7.55 |       |       | 27.55 |
+| Google Translate       |        | 7.55 |       |       | 41.181 |
 | Convolutional Seq2Seq (clean)  |   | 0.95 | 5.80 | 39.19 | 25.99 |
 | Convolutional Seq2Seq (morfessor)  |   | 2.38 |  |  |  |
 | Convolutional Seq2Seq (bpe & morfessor)  |   | 5.06 |  |  |  |
