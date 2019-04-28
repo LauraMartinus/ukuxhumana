@@ -67,8 +67,8 @@ Results are given in BLEU.
 
 # Autshumato Machine Translation Benchmark (In Progress)
 | Model | Setswana | isiZulu* | Xitsonga | Afrikaans |
-| ------- | ------- |------- |------- |------- |------- |
-| Convolutional Seq2Seq (bpe)  |  |  |  |  | 
+| ------- | ------- |------- |------- |------- |
+| Convolutional Seq2Seq (bpe)  | 10.31 | 0.52 | 10.73 | 12.30 | 
 | Transformer (uncased)  | 15.60  | 1.34 |  17.98 | 20.60 |
 | Transformer (cased)    | 15.14  |  1.23 | 17.38 | 19.93 |
 
