@@ -65,6 +65,15 @@ Results are given in BLEU.
 
 \* Zulu data requires cleaning. Translations often contain more information than in original sentence, leading to poor BLEU scores.
 
+# Autshumato Machine Translation Benchmark (In Progress)
+| Model | Setswana | isiZulu* | Northern Sotho | Xitsonga | Afrikaans |
+| ------- | ------- |------- |------- |------- |------- |
+| Convolutional Seq2Seq (bpe)  |  |  |  |  | |
+| Transformer (uncased)  | 15.60  | 1.34 |  | 17.98 | 20.60 |
+| Transformer (cased)    | 15.14  |  1.23 | | 17.38 | 19.93 |
+
+
+
 # Publications & Citations
 
 [Towards Neural Machine Translation for African Languages](https://arxiv.org/abs/1811.05467)
