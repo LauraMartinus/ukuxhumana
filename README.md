@@ -34,7 +34,7 @@ We keep a list of known corpuses for African languages [here](https://github.com
 
 
 # Models
-Curerntly, two main architectures are used throughout this project, namely Convolutional Sequence to Sequence by Gehring et. al. and Transformer by Vaswani et. al. [Fairseq(-py)](https://github.com/pytorch/fairseq) and Tensor2Tensor were used in modeling these techniques respectively. For each language, a model was trained using [byte-pair encoding](https://arxiv.org/abs/1508.07909) (BPE) for tokenisation. The learning rate was set to 0.25 and dropout to 0.2. Beam search with a width of 5 was used in decoding the test data.
+Currently, two main architectures are used throughout this project, namely Convolutional Sequence to Sequence by [Gehring et. al. (2017)](https://arxiv.org/abs/1705.03122) and Transformer by [Vaswani et. al (2017)](https://arxiv.org/abs/1706.03762). [Fairseq(-py)](https://github.com/pytorch/fairseq) and Tensor2Tensor were used in modeling these techniques respectively. For each language, a model was trained using [byte-pair encoding](https://arxiv.org/abs/1508.07909) (BPE) for tokenisation. The learning rate was set to 0.25 and dropout to 0.2. Beam search with a width of 5 was used in decoding the test data.
 
 The original [Tensor2Tensor implementation](https://github.com/tensorflow/tensor2tensor) of Transformer was used. The learning rate was set to 0.4, with a batch size of 1024, and a learning rate warm-up of 45000 steps. Tokenisation was done using [WordPiece](https://github.com/google/sentencepiece). Beam search with width 4 was used for decoding.
 
