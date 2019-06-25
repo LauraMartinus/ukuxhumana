@@ -56,7 +56,7 @@ class TranslateEnafRma(translate.TranslateProblem):
 
   @property
   def approx_vocab_size(self):
-    return 2**15  # 32768
+    return 4000 #32768
 
   @property
   def vocab_filename(self):

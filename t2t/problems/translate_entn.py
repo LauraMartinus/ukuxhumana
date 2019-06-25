@@ -31,7 +31,7 @@ EOS = text_encoder.EOS_ID
 
 _ENTN_TRAIN_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_tn/eng_tswane.train.tar.gz?raw=true",
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_tn/en_tn.train.tar.gz?raw=true",
         (
             "entn_parallel.train.en",
             "entn_parallel.train.tn"
@@ -41,7 +41,7 @@ _ENTN_TRAIN_DATASETS = [
 
 _ENTN_TEST_DATASETS = [
     [
-        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_tn/eng_tswane.dev.tar.gz?raw=true",
+        "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_tn/en_tn.dev.tar.gz?raw=true",
         (
             "entn_parallel.dev.en",
             "entn_parallel.dev.tn"
@@ -56,7 +56,7 @@ class TranslateEntnRma(translate.TranslateProblem):
 
   @property
   def approx_vocab_size(self):
-    return 2**15  # 32768
+    return 32768
 
   @property
   def vocab_filename(self):

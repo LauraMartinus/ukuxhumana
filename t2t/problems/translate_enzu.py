@@ -44,8 +44,8 @@ _ENZU_TEST_DATASETS = [
     [
         "https://github.com/LauraMartinus/ukuxhumana/blob/master/clean/en_zu/en_zu.dev.tar.gz?raw=true",
         (
-            "enzu_parallel.dev.notest.en",
-            "enzu_parallel.dev.notest.zu"
+            "enzu_parallel.dev.en",
+            "enzu_parallel.dev.zu"
         )
     ]
 ]
@@ -78,7 +78,7 @@ class TranslateEnzuRma(translate.TranslateProblem):
   """Problem spec for WMT English-Zulu translation."""
   @property
   def approx_vocab_size(self):
-    return 2**15  # 32768
+    return 4000 # 32768
 
   @property
   def vocab_filename(self):
