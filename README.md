@@ -67,5 +67,7 @@ Results are given in BLEU.
 # Publications & Citations
 
 [Benchmarking Neural Machine Translation for Southern African Languages](https://arxiv.org/pdf/1906.10511.pdf)
+
 [A Focus on Neural Machine Translation for African Languages](https://arxiv.org/pdf/1906.05685.pdf)
+
 [Towards Neural Machine Translation for African Languages](https://arxiv.org/abs/1811.05467)
