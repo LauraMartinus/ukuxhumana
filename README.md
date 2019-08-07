@@ -44,7 +44,7 @@ Results are given in BLEU.
 ## Baseline 
 ### English -> Language
 | Model | Setswana | isiZulu* | Northern Sotho | Xitsonga | Afrikaans |
-| ------- | ------- |------- |------- |------- |------- |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | Google Translate       |        | 7.55 |       |       | 41.181 |
 | Convolutional Seq2Seq (clean)  | 24.18  | 0.28 | 7.41 | 36.96 | 16.17 |
 | Convolutional Seq2Seq (best BPE) | 26.36 (40k)  | 1.79 (4k) | 12.18 (4k) | 37.45 (20k) | 25.04 (4k) |
@@ -58,7 +58,7 @@ Results are given in BLEU.
 # Autshumato Machine Translation Benchmark 
 
 | Model | Afrikaans | isiZulu | Northern Sotho | Setswana | Xitsonga |
-| ------- | ------- |------- |------- |------- |
+| ------- | ------- | ------- | ------- | ------- |  ------- |
 | Convolutional Seq2Seq | 12.30 | 0.52 | 7.41 | 10.31 | 10.73 |
 | Transformer | 20.60 | 1.34 | 10.94 | 15.60 | 17.98 |
 
