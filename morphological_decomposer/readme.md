@@ -1,2 +1,0 @@
-python morfessor/scripts/morfessor -t prepared_data/zulu_train -s models/zulu.bin #-T test
-python morfessor/scripts/morfessor-segment -l models/zulu.bin prepared_data/zulu_test -e utf-8 -o unmerged_data/zulu_test.txt
