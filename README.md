@@ -47,46 +47,25 @@ Results are given in BLEU.
 | ------- | ------- |------- |------- |------- |------- |
 | Google Translate       |        | 7.55 |       |       | 41.181 |
 | Convolutional Seq2Seq (clean)  | 24.18  | 0.28 | 7.41 | 36.96 | 16.17 |
-| Convolutional Seq2Seq (best BPE) |  | 1.79 (4k) | 12.18 (4k) | 37.45 (20k) | 25.04 (4k) |
+| Convolutional Seq2Seq (best BPE) | 26.36 (40k)  | 1.79 (4k) | 12.18 (4k) | 37.45 (20k) | 25.04 (4k) |
 | Transformer (uncased)  | 33.53  | 3.33 | 24.16 (4k) | 49.74 (20k) | 35.26 (4k) |
 | Transformer (cased)    | 33.12  | 3.16 (4k) | 23.77 (4k) | 49.30 (20k) | 34.81 (4k) |
 | [Unsupervised MT (60K BPE)](https://github.com/facebookresearch/UnsupervisedMT)    |   | 4.45 |  |  |  |
 
 
-
-
-### Language -> English
-| Model | Setswana | isiZulu* | Northern Sotho | Xitsonga | Afrikaans |
-| ------- | ------- |------- |------- |------- |------- |
-| Convolutional Seq2Seq (clean)  |   | 0.95 | 5.80 | 39.19 | 25.99 |
-| Convolutional Seq2Seq (morfessor)  |   | 2.38 |  |  |  |
-| Convolutional Seq2Seq (bpe & morfessor)  |   | 5.06 |  |  |  |
-| Convolutional Seq2Seq (bpe)  |   | 5.13 (4k) | 11.98 (8k) | 36.11 (8k) | 26.76 (8k) |
-| Transformer (uncased)  |   |  |  |  |  |
-| Transformer (cased)    |   |  |  |  |  |
-
-
 \* Zulu data requires cleaning. Translations often contain more information than in original sentence, leading to poor BLEU scores.
 
-# Autshumato Machine Translation Benchmark (In Progress)
-| Model | Setswana | isiZulu* | Xitsonga | Afrikaans |
+# Autshumato Machine Translation Benchmark 
+
+| Model | Afrikaans | isiZulu | Northern Sotho | Setswana | Xitsonga |
 | ------- | ------- |------- |------- |------- |
-| Convolutional Seq2Seq (bpe)  | 10.31 | 0.52 | 10.73 | 12.30 | 
-| Transformer (uncased)  | 15.60  | 1.34 |  17.98 | 20.60 |
-| Transformer (cased)    | 15.14  |  1.23 | 17.38 | 19.93 |
+| Convolutional Seq2Seq | 12.30 | 0.52 | 7.41 | 10.31 | 10.73 |
+| Transformer | 20.60 | 1.34 | 10.94 | 15.60 | 17.98 |
 
 
 
 # Publications & Citations
 
+[Benchmarking Neural Machine Translation for Southern African Languages](https://arxiv.org/pdf/1906.10511.pdf)
+[A Focus on Neural Machine Translation for African Languages](https://arxiv.org/pdf/1906.05685.pdf)
 [Towards Neural Machine Translation for African Languages](https://arxiv.org/abs/1811.05467)
-
-Please cite:
-```
-@article{abbott2018towards,
-  title={Towards Neural Machine Translation for African Languages},
-  author={Abbott, Jade Z and Martinus, Laura},
-  journal={arXiv preprint arXiv:1811.05467},
-  year={2018}
-}
-```
