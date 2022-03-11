@@ -73,7 +73,7 @@ pathlib2==2.3.3
 pbr==5.2.0
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==6.0.0
+Pillow==9.0.1
 prometheus-client==0.6.0
 promise==2.2.1
 prompt-toolkit==1.0.15
